@@ -6,44 +6,56 @@
 <title>APT Bulletin Content Map</title>
 <meta name="description" content="Every APT Bulletin article and Practice Point, 1969 to 2026, tagged by APT technical committee and discipline. Explore and download the data.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;500;600;700&display=swap">
 <style>
-  /* Layout: one centered column, a header, a grid of chart cards, then the full table. */
+  /* Colors and type follow the APT Communications Style Guide (July 2024): APT Blue (PMS 540C) as the primary color,
+     APT Orange, Green and Yellow as secondary colors, and Libre Franklin, the guide's free alternative to Trade Gothic.
+     Layout: one centered column under an APT Blue band, a grid of chart cards, then the full table. */
   :root {
-    --font-anthropic-sans: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
-    --font-anthropic-serif: "Source Serif 4", Georgia, "Times New Roman", serif;
-    --color-bg: #f7f8f6; --color-fg: #1d2522; --color-fg-muted: #5b6662; --color-panel: #ffffff; --color-border-line: #dde2df;
-    --series-1: #1f6f78; --series-2: #c47f2c; --series-3: #9c4a3c; --link: #1f6f78;
-    --cds-chart-grid: #e6eae8; --cds-surface-popover: #ffffff; --cds-border: #d5dbd8; --cds-shadow-popover: 0 4px 16px rgba(20,30,28,.12); --cds-text-secondary: #5b6662;
+    --apt-blue: #00355f; --apt-orange: #ec881d; --apt-green: #386351; --apt-yellow: #dcce86;
+    --font-anthropic-sans: "Libre Franklin", "Franklin Gothic Medium", "Franklin Gothic", Arial, sans-serif;
+    --font-anthropic-serif: "Libre Franklin", "Franklin Gothic Medium", "Franklin Gothic", Arial, sans-serif;
+    --color-bg: #f2f4f6; --color-fg: #18232e; --color-fg-muted: #4f5d6a; --color-panel: #ffffff; --color-border-line: #d9dfe5;
+    --series-1: var(--apt-blue); --series-2: var(--apt-orange); --series-3: var(--apt-green); --link: var(--apt-blue); --title: var(--apt-blue);
+    --band: var(--apt-blue); --band-fg: #ffffff; --band-accent: var(--apt-yellow);
+    --cds-chart-grid: #e3e8ed; --cds-surface-popover: #ffffff; --cds-border: #cfd7de; --cds-shadow-popover: 0 4px 16px rgba(0,53,95,.14); --cds-text-secondary: #4f5d6a;
     --cds-gap-xs: .25rem; --cds-gap-sm: .5rem; --cds-gap-md: 1rem; --cds-gap-lg: 1.5rem; --cds-gap-xl: 2.25rem;
-    --cds-pad-xs: .3rem; --cds-pad-sm: .6rem; --cds-pad-lg: 1.25rem; --cds-radius: 6px;
+    --cds-pad-xs: .3rem; --cds-pad-sm: .6rem; --cds-pad-lg: 1.25rem; --cds-radius: 4px;
     --cds-font-size-caption: .8rem; --cds-font-size-body: .95rem; --cds-font-size-heading: 1.05rem; --cds-font-size-title: clamp(1.7rem, 4vw, 2.4rem);
     --cds-font-weight-medium: 600; --cds-dur-slow: .3s;
   }
   @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
-    --color-bg: #121715; --color-fg: #e4ebe8; --color-fg-muted: #9aa7a2; --color-panel: #1a211e; --color-border-line: #2c3532;
-    --series-1: #5fb3bb; --series-2: #e0a55a; --series-3: #d9806e; --link: #7cc3ca;
-    --cds-chart-grid: #2a3330; --cds-surface-popover: #222a27; --cds-border: #36403c; --cds-shadow-popover: 0 4px 16px rgba(0,0,0,.4); --cds-text-secondary: #9aa7a2;
+    --color-bg: #0e1620; --color-fg: #e3e9ef; --color-fg-muted: #9eacb9; --color-panel: #16212d; --color-border-line: #283545;
+    --series-1: #6f9fcc; --series-2: #f0a04a; --series-3: #6fa58c; --link: #8fb7dc; --title: #e3e9ef;
+    --band: #00355f; --band-fg: #ffffff; --band-accent: #dcce86;
+    --cds-chart-grid: #233040; --cds-surface-popover: #1c2835; --cds-border: #33424f; --cds-shadow-popover: 0 4px 16px rgba(0,0,0,.45); --cds-text-secondary: #9eacb9;
     color-scheme: dark; } }
   :root[data-theme="dark"] {
-    --color-bg: #121715; --color-fg: #e4ebe8; --color-fg-muted: #9aa7a2; --color-panel: #1a211e; --color-border-line: #2c3532;
-    --series-1: #5fb3bb; --series-2: #e0a55a; --series-3: #d9806e; --link: #7cc3ca;
-    --cds-chart-grid: #2a3330; --cds-surface-popover: #222a27; --cds-border: #36403c; --cds-shadow-popover: 0 4px 16px rgba(0,0,0,.4); --cds-text-secondary: #9aa7a2;
+    --color-bg: #0e1620; --color-fg: #e3e9ef; --color-fg-muted: #9eacb9; --color-panel: #16212d; --color-border-line: #283545;
+    --series-1: #6f9fcc; --series-2: #f0a04a; --series-3: #6fa58c; --link: #8fb7dc; --title: #e3e9ef;
+    --band: #00355f; --band-fg: #ffffff; --band-accent: #dcce86;
+    --cds-chart-grid: #233040; --cds-surface-popover: #1c2835; --cds-border: #33424f; --cds-shadow-popover: 0 4px 16px rgba(0,0,0,.45); --cds-text-secondary: #9eacb9;
     color-scheme: dark; }
   html { -webkit-text-size-adjust: 100%; }
-  body { margin: 0; background: var(--color-bg); color: var(--color-fg); font-family: var(--font-anthropic-sans); font-size: 15px;
-    padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 2rem 3rem; }
-  main { max-width: 76rem; margin-inline: auto; }
-  a { color: var(--link); }
-  a:focus-visible, select:focus-visible, input:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
+  body { margin: 0; background: var(--color-bg); color: var(--color-fg); font-family: var(--font-anthropic-sans); font-size: 15px; }
+  .band { background: var(--band); color: var(--band-fg); border-bottom: 4px solid var(--apt-orange);
+    padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: .7rem; }
+  .band div { max-width: 76rem; margin-inline: auto; font-size: .8rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; }
+  .band span { color: var(--band-accent); }
+  main { max-width: 76rem; margin-inline: auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 2rem 3rem; }
+  .apt .apt-head h1 { font-weight: 700; color: var(--title); letter-spacing: -.01em; }
+  .apt .apt-card h2 { font-weight: 700; color: var(--title); }
+  a { color: var(--link); text-underline-offset: 2px; }
+  a:focus-visible, select:focus-visible, input:focus-visible { outline: 2px solid var(--apt-orange); outline-offset: 2px; }
   .legend i[data-series="0"] { background: var(--series-1); } .legend i[data-series="1"] { background: var(--series-2); }
-  .downloads { display: flex; flex-wrap: wrap; gap: var(--cds-gap-sm) var(--cds-gap-md); font-size: var(--cds-font-size-body); }
+  .downloads { display: flex; flex-wrap: wrap; gap: var(--cds-gap-sm) var(--cds-gap-md); font-size: var(--cds-font-size-body); font-weight: 500; }
   .apt-foot { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); line-height: 1.6; max-width: 62rem; display: grid; gap: var(--cds-gap-sm); }
-  .apt-foot h2 { font-size: var(--cds-font-size-heading); color: var(--color-fg); margin: 0; }
+  .apt-foot h2 { font-size: var(--cds-font-size-heading); color: var(--title); margin: 0; }
   .apt-foot p { margin: 0; }
 </style>
 </head>
 <body>
+<div class="band"><div>APT Bulletin content index <span>·</span> compiled for the APT Publications Committee</div></div>
 <main>
 <style>
   .apt { display: grid; gap: var(--cds-gap-xl); font-family: var(--font-anthropic-sans); }

@@ -1,0 +1,10 @@
+# APT's own files: downloaded by fetch_sources.sh, not redistributed here
+raw/comprehensive_index_*.xlsx
+raw/toc/
+raw/toc_txt/
+raw/*.html
+raw/past_bulletin_pdfs.txt
+# claude.ai dashboard working files
+dashboard/
+.DS_Store
+__pycache__/

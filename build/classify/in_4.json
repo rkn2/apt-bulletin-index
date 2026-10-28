@@ -1,0 +1,4088 @@
+[
+{
+"id": "APT01363",
+"type": "Book review",
+"year": "1999",
+"title": "The Slate Book: How to Design, Specify, Install, and Repair a Slate Roof",
+"authors": "Ken Follett",
+"book_authors": "Brian Stearns; Alan Stearns; John Meyer",
+"topics": "BOOK REVIEWS; ROOFS AND ROOFING"
+},
+{
+"id": "APT01364",
+"type": "Book review",
+"year": "1999",
+"title": "Landscape Narratives: Design Practices for Telling Stories",
+"authors": "Thomas M. Woodfin",
+"book_authors": "Matthew Potteiger; Jamie Purinton",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01365",
+"type": "Article",
+"year": "1999",
+"title": "Preserving Historic Guastavino Tile, Ceilings, Domes, and Vaults: An Overview",
+"authors": "Richard Pieper",
+"book_authors": "",
+"topics": "CEILINGS; GUASTAVINO COMPANY; TILE"
+},
+{
+"id": "APT01366",
+"type": "Article",
+"year": "1999",
+"title": "The Guastavino System in Context: History and Dissemination of a Revolutionary Vaulting Method",
+"authors": "Dietrich Neumann",
+"book_authors": "",
+"topics": "GUASTAVINO COMPANY; SPAIN"
+},
+{
+"id": "APT01367",
+"type": "Article",
+"year": "1999",
+"title": "Rafael Guastavino's Construction Business in the United States: Beginnings and Development",
+"authors": "Peter Austin",
+"book_authors": "",
+"topics": "GUASTAVINO COMPANY; UNITED STATES"
+},
+{
+"id": "APT01368",
+"type": "Article",
+"year": "1999",
+"title": "Documenting the Work of the R. Guastavino Company: Sources and Suggestions",
+"authors": "Janet Parks",
+"book_authors": "",
+"topics": "DOCUMENTATION; GUASTAVINO COMPANY"
+},
+{
+"id": "APT01369",
+"type": "Article",
+"year": "1999",
+"title": "Restoration of the Queensboro Bridge Guastavino Tile Vaults: A Case Study",
+"authors": "Charles DiSanto",
+"book_authors": "",
+"topics": "BRIDGES; GUASTAVINO COMPANY; NEW YORK, New York; TILE"
+},
+{
+"id": "APT01370",
+"type": "Article",
+"year": "1999",
+"title": "The Unseen World of Guastavino Acoustical Tile Construction: History, Development, Production",
+"authors": "Richard Pounds; Daniel Raichel; Martin Weaver",
+"book_authors": "",
+"topics": "ACOUSTICS; GUASTAVINO COMPANY; TILE"
+},
+{
+"id": "APT01371",
+"type": "Article",
+"year": "1999",
+"title": "Restoration of the Oyster Bar at New York's Grand Central Terminal: A Case Study",
+"authors": "Denis G. Kuhn; Russell H. Newbold; Kate Lemos",
+"book_authors": "",
+"topics": "GUASTAVINO COMPANY; NEW YORK, New York"
+},
+{
+"id": "APT01372",
+"type": "Article",
+"year": "1999",
+"title": "Structural Repairs to Fire-Damaged Guastavino Tile Vaults at Grand Central Terminal's Oyster Bar",
+"authors": "Robert Silman",
+"book_authors": "",
+"topics": "DISASTER MANAGEMENT; GUASTAVINO COMPANY; NEW YORK, New York; TILE"
+},
+{
+"id": "APT01373",
+"type": "Article",
+"year": "1999",
+"title": "Seismic Considerations for Guastavino Ceiling, Vault, and Dome Construction",
+"authors": "Doug Robertson",
+"book_authors": "",
+"topics": "CALIFORNIA; CEILINGS; SEISMIC SAFETY AND REHABILITATION"
+},
+{
+"id": "APT01374",
+"type": "Article",
+"year": "1999",
+"title": "United States Patents Held by the Rafael Guastavinos, Father and Son",
+"authors": "Diana Waite; Patricia Gioia",
+"book_authors": "",
+"topics": "DOCUMENTATION; GUASTAVINO COMPANY; PATENTS; UNITED STATES"
+},
+{
+"id": "APT01375",
+"type": "Letter",
+"year": "2000",
+"title": "Letters to the Editor",
+"authors": "",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01376",
+"type": "Article (type not indexed)",
+"year": "2000",
+"title": "Computer Forum: Enlightenment on the Web",
+"authors": "Barrett Kennedy",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01377",
+"type": "Computer Forum",
+"year": "2000",
+"title": "Enlightenment on the Web",
+"authors": "Barrett Kennedy",
+"book_authors": "",
+"topics": "COMPUTER FORUM; COMPUTER TECHNOLOGY; MUSEUMS, HISTORIC HOUSE - LIGHTING; NATIONAL CENTER FOR PRESERVATION TECHNOLOGY AND TRAINING (NCPTT)"
+},
+{
+"id": "APT01378",
+"type": "Article",
+"year": "2000",
+"title": "Lighting Historic House Museums",
+"authors": "Thomas H. Taylor; Thomas H. Taylor, Jr.",
+"book_authors": "",
+"topics": "AMERICAN INSTITUTE FOR CONSERVATION OF HISTORIC AND ARTISTIC WORKS (AIC); MUSEUMS, HISTORIC HOUSE - LIGHTING"
+},
+{
+"id": "APT01379",
+"type": "Article",
+"year": "2000",
+"title": "A Tribute to Dr. William Allen",
+"authors": "John Fidler",
+"book_authors": "",
+"topics": "ALLEN, William"
+},
+{
+"id": "APT01380",
+"type": "Article",
+"year": "2000",
+"title": "APT/AIC New Orleans Charter for the Joint Preservation of Historic Structures and Artifacts",
+"authors": "",
+"book_authors": "",
+"topics": "AMERICAN INSTITUTE FOR CONSERVATION OF HISTORIC AND ARTISTIC WORKS (AIC); ASSOCIATION FOR PRESERVATION TECHNOLOGY (APT); CHARTERS; HISTORIC PRESERVATION, GUIDELINES; MUSEUMS - COLLECTIONS MANAGEMENT"
+},
+{
+"id": "APT01381",
+"type": "Article",
+"year": "2000",
+"title": "APT/AIC Guidelines for Light and Lighting in Historic Buildings That House Collections",
+"authors": "",
+"book_authors": "",
+"topics": "AMERICAN INSTITUTE FOR CONSERVATION OF HISTORIC AND ARTISTIC WORKS (AIC); ASSOCIATION FOR PRESERVATION TECHNOLOGY (APT); HISTORIC PRESERVATION, GUIDELINES; MUSEUMS - COLLECTIONS MANAGEMENT; MUSEUMS, HISTORIC HOUSE - LIGHTING"
+},
+{
+"id": "APT01382",
+"type": "Article",
+"year": "2000",
+"title": "An Overview of Light and Lighting in Historic Structures That House Collections",
+"authors": "Paul Himmelstein; Barbara Appelbaum",
+"book_authors": "",
+"topics": "COMPUTER TECHNOLOGY; MUSEUMS, HISTORIC HOUSE - LIGHTING"
+},
+{
+"id": "APT01383",
+"type": "Article",
+"year": "2000",
+"title": "\"Luminous and Splendid\": Lighting Colonial Virginia Interiors by Candlelight",
+"authors": "Betty Crowe Leviner",
+"book_authors": "",
+"topics": "LEVINER, Betty Crowe; VIRGINIA"
+},
+{
+"id": "APT01384",
+"type": "Article",
+"year": "2000",
+"title": "Lighting Jefferson's Monticello: Considering the Past, Present, and Future",
+"authors": "Susan R. Stein; John B. Rudder",
+"book_authors": "",
+"topics": "MUSEUMS, HISTORIC HOUSE - LIGHTING; VIRGINIA"
+},
+{
+"id": "APT01385",
+"type": "Article",
+"year": "2000",
+"title": "Chasing Shadows: Exploring the Meaning of Light in English Heritage Houses",
+"authors": "Julius Bryant",
+"book_authors": "",
+"topics": "ENGLISH HERITAGE; GREAT BRITAIN; MUSEUMS, HISTORIC HOUSE - LIGHTING"
+},
+{
+"id": "APT01386",
+"type": "Article",
+"year": "2000",
+"title": "Lighting a Great House and a Museum: Waddesdon Manor, a Case Study",
+"authors": "Stephen Cannon-Brookes; William Allen",
+"book_authors": "",
+"topics": "GREAT BRITAIN; MUSEUMS, HISTORIC HOUSE - LIGHTING; NATIONAL TRUST (ENGLAND, WALES AND NORTHERN IRELAND)"
+},
+{
+"id": "APT01387",
+"type": "Article",
+"year": "2000",
+"title": "A Look at Nineteenth-Century Lighting: Lighting Devices from the Merchant's House Museum",
+"authors": "Mimi Sherman",
+"book_authors": "",
+"topics": "MUSEUMS, HISTORIC HOUSE - LIGHTING; NEW YORK, New York"
+},
+{
+"id": "APT01388",
+"type": "Article",
+"year": "2000",
+"title": "Lighting the Way: A Conservator's Approach to Electrifying Brass Chandeliers",
+"authors": "Kathy Z. Gillis; David Harvey",
+"book_authors": "",
+"topics": "BRASS; MUSEUMS, HISTORIC HOUSE - LIGHTING; VIRGINIA"
+},
+{
+"id": "APT01389",
+"type": "Article",
+"year": "2000",
+"title": "Controlling Daylight in Historic Structures: A Focus on Interior Methods",
+"authors": "Meg Loew Craft; M. Nicole Miller",
+"book_authors": "",
+"topics": "DELAWARE; MILLER, M. Nicole; MUSEUMS, HISTORIC HOUSE - LIGHTING; PENNSYLVANIA; VIRGINIA"
+},
+{
+"id": "APT01390",
+"type": "Book review",
+"year": "2000",
+"title": "Envelope Design for Buildings",
+"authors": "Hugh C. Miller",
+"book_authors": "William Allen",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01391",
+"type": "Book review",
+"year": "2000",
+"title": "The Architecture of Red Vienna 1919-1934",
+"authors": "Naomi D. Kroll",
+"book_authors": "Eve Blau",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01392",
+"type": "Book review",
+"year": "2000",
+"title": "A History of American Architecture: Buildings in Their Cultural and Technological Context",
+"authors": "Anat Geva",
+"book_authors": "Mark Gelernter",
+"topics": "BOOK REVIEWS; UNITED STATES"
+},
+{
+"id": "APT01393",
+"type": "Article",
+"year": "2000",
+"title": "A Tribute to James Marston Fitch (1909-2000)",
+"authors": "James Marston Fitch",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01394",
+"type": "Article (type not indexed)",
+"year": "2000",
+"title": "Computer Forum: Information Management and NCPTT",
+"authors": "Mary S. Carroll",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01395",
+"type": "Computer Forum",
+"year": "2000",
+"title": "Information Management and NCPTT",
+"authors": "Mary S. Carroll",
+"book_authors": "",
+"topics": "COMPUTER FORUM; COMPUTER TECHNOLOGY; NATIONAL CENTER FOR PRESERVATION TECHNOLOGY AND TRAINING (NCPTT)"
+},
+{
+"id": "APT01396",
+"type": "Article",
+"year": "2000",
+"title": "Relocating the Cape Hatteras Lighthouse in Buxton, North Carolina",
+"authors": "David C. Fischetti",
+"book_authors": "",
+"topics": "BUILDING RELOCATION; LIGHTHOUSES; NORTH CAROLINA"
+},
+{
+"id": "APT01397",
+"type": "Article",
+"year": "2000",
+"title": "And It Never Needs Painting: The Development of Residential Aluminum Siding",
+"authors": "John Lauber",
+"book_authors": "",
+"topics": "ALUMINUM SIDING; PAINTS AND COATINGS; PATENTS; SIDING"
+},
+{
+"id": "APT01398",
+"type": "Article",
+"year": "2000",
+"title": "Fire-Safety Retrofitting: Innovative Solutions for Ornamental Building Interiors",
+"authors": "Caroline Alderson; Nick Artim",
+"book_authors": "",
+"topics": "BUILDING CODES; FIRE PROTECTION; INTERIORS; MONITORING SYSTEMS; PUBLIC BUILDINGS"
+},
+{
+"id": "APT01399",
+"type": "Article",
+"year": "2000",
+"title": "When the Imitation Becomes Real: Attitudes toward Asphalt and Asbestos-Cement Roofing and Siding",
+"authors": "Erin M. Tobin",
+"book_authors": "",
+"topics": "ASBESTOS; ASPHALT; ROOFS AND ROOFING; SIDING; SUBSTITUTE MATERIALS"
+},
+{
+"id": "APT01400",
+"type": "Article",
+"year": "2000",
+"title": "Ambiguity in Building Investigation: A Study of Sampling and Decision-Making with Field Data",
+"authors": "Donald Friedman",
+"book_authors": "",
+"topics": "CONSTRUCTION MANAGEMENT; INVESTIGATIVE TECHNIQUES"
+},
+{
+"id": "APT01401",
+"type": "Article",
+"year": "2000",
+"title": "The Village of Chazhashi: Georgian Svannish Vernacular Architecture",
+"authors": "Mary Kay Judy",
+"book_authors": "",
+"topics": "FORTS AND FORTRESSES; GEORGIA, REPUBLIC OF; PLANNING"
+},
+{
+"id": "APT01402",
+"type": "Article",
+"year": "2000",
+"title": "The Rise and Fall of West Coast Modernism in Greater Vancouver, British Columbia",
+"authors": "Donald Luxton",
+"book_authors": "",
+"topics": "BRITISH COLUMBIA; MODERN HERITAGE; RESIDENCES; WOOD CONSTRUCTION"
+},
+{
+"id": "APT01403",
+"type": "Article",
+"year": "2000",
+"title": "Environmental Monitoring and Conservation Study of Drayton Hall in Charleston, South Carolina",
+"authors": "Michael J. Mills; George Fore",
+"book_authors": "",
+"topics": "MONITORING SYSTEMS; MUSEUMS, HISTORIC HOUSE; NATIONAL TRUST FOR HISTORIC PRESERVATION, U.S.; SOUTH CAROLINA"
+},
+{
+"id": "APT01404",
+"type": "Article",
+"year": "2000",
+"title": "Control of Formosan Subterranean Termites in Perseverance Hall in New Orleans, Louisiana",
+"authors": "Edward D. Freytag; Michael K. Carroll; Edgar S. Bordes",
+"book_authors": "",
+"topics": "LOUISIANA; MONITORING SYSTEMS; TERMITE CONTROL; WOOD, DETERIORATION AND TREATMENT"
+},
+{
+"id": "APT01405",
+"type": "Book review",
+"year": "2000",
+"title": "Structural Analysis of Historic Buildings: Restoration, Preservation, and Adaptive Reuse Applications for Architects and Engineers",
+"authors": "S. Patrick Sparks",
+"book_authors": "J. Stanley Rabun",
+"topics": "BOOK REVIEWS; RABUN, J. Stanley; SPARKS, S. Patrick"
+},
+{
+"id": "APT01406",
+"type": "Book review",
+"year": "2000",
+"title": "Restore: Technical Field Guide on Health and Environmental Hazards Inherent in Architectural Restoration Materials and Processes, National Center for Preservation Technology and Training, Publication No. 1998-05",
+"authors": "Nancy L. Holland",
+"book_authors": "Monona Rossol",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01407",
+"type": "Book review",
+"year": "2000",
+"title": "Brandy, Balloons &amp; Lamps: Ami Argand, 1750-1803",
+"authors": "Mimi Sherman",
+"book_authors": "John J. Wolfe",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01408",
+"type": "Guest editor note",
+"year": "2000",
+"title": "Managing Cultural Landscapes through Values, Technology, and Planning",
+"authors": "Susan Buggey; Genevieve P. Keller",
+"book_authors": "",
+"topics": "LANDSCAPES AND GARDENS"
+},
+{
+"id": "APT01409",
+"type": "Article",
+"year": "2000",
+"title": "Drafting the Vimy Charter for Conservation of Battlefield Terrain",
+"authors": "Natalie Bull; David Panton",
+"book_authors": "",
+"topics": "BATTLEFIELDS; CHARTERS; FRANCE; HISTORIC PRESERVATION, GUIDELINES; LANDSCAPES AND GARDENS; MONUMENTS AND MEMORIALS; PANTON, DAVID"
+},
+{
+"id": "APT01410",
+"type": "Article",
+"year": "2000",
+"title": "Preserving Battlefield Terrain: Technologies for Earthworks Management",
+"authors": "Shaun Eyring; Lucy Lawliss",
+"book_authors": "",
+"topics": "BATTLEFIELDS; HISTORIC PRESERVATION, GUIDELINES; LANDSCAPES AND GARDENS; MONUMENTS AND MEMORIALS; NATIONAL PARK SERVICE, U.S.; VIRGINIA"
+},
+{
+"id": "APT01411",
+"type": "Article",
+"year": "2000",
+"title": "Associative Values: Exploring Nonmaterial Qualities in Cultural Landscapes",
+"authors": "Susan Buggey",
+"book_authors": "",
+"topics": "HISTORIC PRESERVATION, GUIDELINES; LANDSCAPES AND GARDENS; NATIONAL PARK SERVICE, U.S.; PARKS CANADA"
+},
+{
+"id": "APT01412",
+"type": "Article",
+"year": "2000",
+"title": "Commemorative Integrity and Cultural Landscapes: Two National Historic Sites in British Columbia",
+"authors": "Lyle Dick",
+"book_authors": "",
+"topics": "BRITISH COLUMBIA; LANDSCAPES AND GARDENS; PARKS CANADA"
+},
+{
+"id": "APT01413",
+"type": "Article",
+"year": "2000",
+"title": "Endangered Landscapes: Residential Alley Transformations",
+"authors": "Michael Martin",
+"book_authors": "",
+"topics": "IOWA; LANDSCAPES AND GARDENS; OREGON; STREETS"
+},
+{
+"id": "APT01414",
+"type": "Article",
+"year": "2000",
+"title": "Civilian Conservation Corps Initiative: Cultural Resources in Massachusetts Forests and Parks",
+"authors": "Shary Page Berg",
+"book_authors": "",
+"topics": "CIVILIAN CONSERVATION CORPS (CCC); LANDSCAPES AND GARDENS; MASSACHUSETTS; PUBLIC BUILDINGS"
+},
+{
+"id": "APT01415",
+"type": "Article",
+"year": "2000",
+"title": "The Family Tree: Looking at the Roots of Nistoric Landscape Preservation",
+"authors": "Hugh C. Miller",
+"book_authors": "",
+"topics": "HISTORIC PRESERVATION, HISTORY OF; LANDSCAPES AND GARDENS; NATIONAL PARK SERVICE, U.S."
+},
+{
+"id": "APT01416",
+"type": "Book review",
+"year": "2000",
+"title": "Timber Decay in Buildings: The Conservation Approach to Treatment",
+"authors": "Susan D. Turner March; J. Bryan Blundell; Brian Ridout",
+"book_authors": "Brian Ridout (also",
+"topics": "BLUNDELL, J. Bryan; BOOK REVIEWS"
+},
+{
+"id": "APT01417",
+"type": "Book review",
+"year": "2000",
+"title": "Biodeterioration of Stone in Tropical Environments: An Overview",
+"authors": "Barbara A. Campagna; Anuradha V. Kumar",
+"book_authors": "Rakesh Kumar; Anuradha Kumar",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01418",
+"type": "Book review",
+"year": "2000",
+"title": "English Heritage Research Transactions, Research and Case Studies in Architectural Conservation, Vol. 1: Metals",
+"authors": "Mark Glassford; Jean-Maric Teutonico",
+"book_authors": "Jeanne Marie Teutonico; Kate MacDonald",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01419",
+"type": "Book review",
+"year": "2000",
+"title": "Building the Empire State",
+"authors": "Anat Geva",
+"book_authors": "Carol Willis",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01420",
+"type": "Book review",
+"year": "2000",
+"title": "Heritage Resources Law: Protecting the Archeological and Cultural Environment",
+"authors": "David L. Pugh",
+"book_authors": "Sherry Hutt; Caroline M. Blanco; Ole Varmer",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01421",
+"type": "Guest editor note",
+"year": "2001",
+"title": "Preserving the Twentieth-Century Curtain Wall",
+"authors": "Natalie Bull; Harry J. Hunderman",
+"book_authors": "",
+"topics": "ASSOCIATION FOR PRESERVATION TECHNOLOGY (APT); CURTAIN WALLS (NONBEARING WALLS)"
+},
+{
+"id": "APT01422",
+"type": "Article",
+"year": "2001",
+"title": "Authenticity Considerations for Curtain-Wall Buildings: Seminar Summary",
+"authors": "Susan D. Bronson",
+"book_authors": "",
+"topics": "AUTHENTICITY; CURTAIN WALLS (NONBEARING WALLS); HISTORIC PRESERVATION, GUIDELINES"
+},
+{
+"id": "APT01423",
+"type": "Article",
+"year": "2001",
+"title": "Conflicts and Challenges in Preserving Curtain Walls",
+"authors": "Stephen J. Kelley",
+"book_authors": "",
+"topics": "AUTHENTICITY; CURTAIN WALLS (NONBEARING WALLS); HISTORIC PRESERVATION, GUIDELINES"
+},
+{
+"id": "APT01424",
+"type": "Article",
+"year": "2001",
+"title": "The Origins of the Modern Curtain Wall",
+"authors": "David Yeomans",
+"book_authors": "",
+"topics": "CURTAIN WALLS (NONBEARING WALLS); GLASS AND GLAZING; WINDOWS"
+},
+{
+"id": "APT01425",
+"type": "Article",
+"year": "2001",
+"title": "Thin-Stone Systems: Conflicts between Reality and Expectations",
+"authors": "Christopher Borgal",
+"book_authors": "",
+"topics": "CANADA; CURTAIN WALLS (NONBEARING WALLS); STONE"
+},
+{
+"id": "APT01426",
+"type": "Article",
+"year": "2001",
+"title": "Thin-Stone Veneer Building Facades: Evolution and Preservation",
+"authors": "Michael J. Scheffler",
+"book_authors": "",
+"topics": "CURTAIN WALLS (NONBEARING WALLS); STONE"
+},
+{
+"id": "APT01427",
+"type": "Article",
+"year": "2001",
+"title": "Glass and Metal Curtain-Wall Fundamentals",
+"authors": "Thomas A. Schwartz",
+"book_authors": "",
+"topics": "CURTAIN WALLS (NONBEARING WALLS); GLASS AND GLAZING"
+},
+{
+"id": "APT01428",
+"type": "Article",
+"year": "2001",
+"title": "Focus on Glass",
+"authors": "Joseph E. Minor",
+"book_authors": "",
+"topics": "CURTAIN WALLS (NONBEARING WALLS); GLASS AND GLAZING"
+},
+{
+"id": "APT01429",
+"type": "Article",
+"year": "2001",
+"title": "Guide to the Use of New ASTM Standards for Sealants",
+"authors": "Thomas F. O'Connor",
+"book_authors": "",
+"topics": "AMERICAN SOCIETY FOR TESTING AND MATERIALS (ASTM); CURTAIN WALLS (NONBEARING WALLS); SEALANTS"
+},
+{
+"id": "APT01430",
+"type": "Article",
+"year": "2001",
+"title": "Timber Decay in Buildings: The Conservation Approach to Treatment",
+"authors": "Brian Ridout",
+"book_authors": "",
+"topics": "ASSOCIATION FOR PRESERVATION TECHNOLOGY (APT); LEE NELSON BOOK AWARD; WOOD, DETERIORATION AND TREATMENT"
+},
+{
+"id": "APT01431",
+"type": "Book review",
+"year": "2001",
+"title": "Ruskin's Venice, the Stones Revisited",
+"authors": "Jukka Jokilehto",
+"book_authors": "Sarah Quill",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01432",
+"type": "Book review",
+"year": "2001",
+"title": "Cities Back from the Edge -- New Life for Downtown",
+"authors": "Hugh C. Miller",
+"book_authors": "Roberta Brandes Gratz; Norman Mintz",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01433",
+"type": "Book review",
+"year": "2001",
+"title": "From Craft to Profession: The Practice of Architecture in Nineteenth-Century America",
+"authors": "Ken Follett",
+"book_authors": "Mary N. Woods",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01434",
+"type": "Book review",
+"year": "2001",
+"title": "The Seventy Wonders of the Ancient World",
+"authors": "Charles W. White",
+"book_authors": "Chris Scarre",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01435",
+"type": "Article",
+"year": "2001",
+"title": "The Renovation of Baker House at MIT: Modernism, Materiality, and the Factor of Intent in Preservation",
+"authors": "David N. Fixler",
+"book_authors": "",
+"topics": "AALTO, Alvar; AUTHENTICITY; HISTORIC PRESERVATION, PHILOSOPHY; MASSACHUSETTS; MODERN HERITAGE"
+},
+{
+"id": "APT01436",
+"type": "Article",
+"year": "2001",
+"title": "Centre Street Bridge Lions: Rehabilitation and Replication of Historic Concrete Sculpture",
+"authors": "Lorne Simpson; Paul Gaudette; Deborah Slaton",
+"book_authors": "",
+"topics": "ALBERTA; BRIDGES; CONCRETE; SCULPTURE"
+},
+{
+"id": "APT01437",
+"type": "Article",
+"year": "2001",
+"title": "Floor Vibration: A Possible Assessment Method for Historic Buildings",
+"authors": "Robert J. Ross; Michael O. Hunt; Xiping Wang; Lawrence A. Soltis",
+"book_authors": "",
+"topics": "FLOORS AND FLOOR COVERINGS; INVESTIGATIVE TECHNIQUES; WOOD, DETERIORATION AND TREATMENT"
+},
+{
+"id": "APT01438",
+"type": "Article",
+"year": "2001",
+"title": "Promoting the \"Unit Idea\": Manufactured Kitchen Cabinets (1900-1950)",
+"authors": "Mary Anne Beecher",
+"book_authors": "",
+"topics": "FURNITURE; RESIDENCES; WOOD CONSTRUCTION"
+},
+{
+"id": "APT01439",
+"type": "Article",
+"year": "2001",
+"title": "The Philosophy of Rose Greely, Landscape Architect",
+"authors": "Joanne Seale Wilson",
+"book_authors": "",
+"topics": "GREELY, Rose; LANDSCAPES AND GARDENS"
+},
+{
+"id": "APT01440",
+"type": "Article",
+"year": "2001",
+"title": "The Mormon Cultural Landscape at Stirling Agricultural Village, Alberta",
+"authors": "Robert M. Graham",
+"book_authors": "",
+"topics": "ALBERTA; FARMSTEADS; WATER SYSTEMS"
+},
+{
+"id": "APT01441",
+"type": "Article",
+"year": "2001",
+"title": "Working for a Genius: My Time with Albert Kahn",
+"authors": "Henry Jonas Magaziner",
+"book_authors": "",
+"topics": "INDUSTRIAL ARCHEOLOGY; KAHN, Albert; MICHIGAN; NEW JERSEY; SOVIET UNION"
+},
+{
+"id": "APT01442",
+"type": "Article",
+"year": "2001",
+"title": "Some Perspectives on Falun Red Paint and the Red Cottage, Sweden's \"National Building\"",
+"authors": "Diana S. Waite",
+"book_authors": "",
+"topics": "COPPER; FARMSTEADS; MINING; OUTBUILDINGS; PAINTS AND COATINGS; SWEDEN"
+},
+{
+"id": "APT01443",
+"type": "Book review",
+"year": "2001",
+"title": "The Drive-in, the Supermarket, and the Transformation of Commercial Space in Los Angeles, 1914-1941",
+"authors": "Alan Hess",
+"book_authors": "Richard Longstreth",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01444",
+"type": "Book review",
+"year": "2001",
+"title": "Conservation of Historic Brick Structures -- Case Studies and Reports of Research",
+"authors": "David C. Fiscbetti",
+"book_authors": "N. S. Baer; S. Fitz; R. A. Livingston",
+"topics": "BAER, N. S.; BOOK REVIEWS; FITZ, S.; LIVINGSTON, R. A."
+},
+{
+"id": "APT01445",
+"type": "Book review",
+"year": "2001",
+"title": "Structural Repair of Traditional Buildings",
+"authors": "Donald Friedman",
+"book_authors": "Patrick Robson",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01446",
+"type": "Book review",
+"year": "2001",
+"title": "Summer Cottages in the White Mountains: The Architecture of Leisure and Recreation, 1870 to 1930",
+"authors": "Thomas D. Visser; Bryant F. Tolles",
+"book_authors": "Bryant F. Tolles, Jr.",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01447",
+"type": "Book review",
+"year": "2001",
+"title": "Meaning in Technology",
+"authors": "Ronnie L. Self",
+"book_authors": "Arnold Pacey",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01448",
+"type": "Book review",
+"year": "2001",
+"title": "Creative Re-Use of Buildings",
+"authors": "Nancy McCoy",
+"book_authors": "Derek Latham",
+"topics": "BOOK REVIEWS; MCCOY, Nancy T."
+},
+{
+"id": "APT01449",
+"type": "Book review",
+"year": "2001",
+"title": "Stone, Brick and Mortar: Historical Use, Decay and Conservation of Building Materials in Ireland",
+"authors": "Ken Follett; Sara Pavia",
+"book_authors": "Sarah PavÌa; Jason Bolton",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01450",
+"type": "Article",
+"year": "2001",
+"title": "The Evolution of Terra Cotta: \"Glazing New Trails\"",
+"authors": "Susan Tunick",
+"book_authors": "",
+"topics": "NEW YORK, New York; TERRA-COTTA; THEATERS"
+},
+{
+"id": "APT01451",
+"type": "Article",
+"year": "2001",
+"title": "O. W. Ketcham Terra Cotta: Reflections on an Industry in Chaos after World War II",
+"authors": "A. Daniel Barton",
+"book_authors": "",
+"topics": "BARTON, A. Daniel, Jr.; KETCHAM, O. W., TERRA COTTA WORKS; PENNSYLVANIA; TERRA-COTTA"
+},
+{
+"id": "APT01452",
+"type": "Article",
+"year": "2001",
+"title": "Anchoring Systems for Architectural Terra Cotta in Curtain-Wall Construction",
+"authors": "Donald Friedman",
+"book_authors": "",
+"topics": "CURTAIN WALLS (NONBEARING WALLS); TERRA-COTTA"
+},
+{
+"id": "APT01453",
+"type": "Article",
+"year": "2001",
+"title": "Survey of Terra-Cotta Facades at Alwyn Court, a Case Study",
+"authors": "Charles Disanto",
+"book_authors": "",
+"topics": "DOCUMENTATION; NEW YORK, New York; TERRA-COTTA"
+},
+{
+"id": "APT01454",
+"type": "Article",
+"year": "2001",
+"title": "The Good, the Bad, and the Ugly: Twenty Years of Terra-Cotta Repairs Reexamined",
+"authors": "Carolyn L. Searls; Cece Louie",
+"book_authors": "",
+"topics": "MORTAR; PAINTS AND COATINGS; TERRA-COTTA"
+},
+{
+"id": "APT01455",
+"type": "Article",
+"year": "2001",
+"title": "Terra-Cotta Tile Mosaics at Sea View Hospital: Endangered Glazed Ceramics on Staten Island",
+"authors": "Rene Fan",
+"book_authors": "",
+"topics": "MOSAICS; NEW YORK, New York; TERRA-COTTA"
+},
+{
+"id": "APT01456",
+"type": "Article",
+"year": "2001",
+"title": "Fallingwater Part 1: Materials-Conservation Efforts at Frank Lloyd Wright's Masterpiece",
+"authors": "Norman Weiss; Pamela Jerome; Stephen Gottlieb",
+"book_authors": "",
+"topics": "CONCRETE; MUSEUMS, HISTORIC HOUSE; PAINTS AND COATINGS; PENNSYLVANIA; ROOFS AND ROOFING; WRIGHT, Frank Lloyd"
+},
+{
+"id": "APT01457",
+"type": "Book review",
+"year": "2001",
+"title": "Historic Preservation for a Living City: Historic Charleston Foundation, 1947-1997",
+"authors": "David G. Woodcock",
+"book_authors": "Robert R. Weyeneth",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01458",
+"type": "Book review",
+"year": "2001",
+"title": "The Same Ax, Twice: Restoration and Renewal in a Throwaway Age",
+"authors": "Susan D. Turner",
+"book_authors": "Howard Mansfield",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01459",
+"type": "Book review",
+"year": "2001",
+"title": "Earth Construction Handbook: The Building Material Earth in Modern Architecture",
+"authors": "Richard A. Burt; Clough Williams-Ellis",
+"book_authors": "Gernot Minke",
+"topics": "BOOK REVIEWS; EARTHEN ARCHITECTURE"
+},
+{
+"id": "APT01460",
+"type": "Book review",
+"year": "2001",
+"title": "Building in Cob, Pisé and Stabilized Earth",
+"authors": "Richard A. Burt",
+"book_authors": "Clough Williams-Ellis",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01461",
+"type": "Book review",
+"year": "2001",
+"title": "The Golden Age of Ironwork",
+"authors": "Matthew Nowakowski; Henry Jonas Magaziner",
+"book_authors": "Henry J. Magaziner",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01462",
+"type": "Book review",
+"year": "2001",
+"title": "The Architectural Drawings of Antonio da Sangallo the Younger and His Circle, Volume II: Churches, Villas, and Pantheon, Tombs, and Ancient Inscriptions",
+"authors": "John Alexander",
+"book_authors": "Christoph L. Frommel; general ed.; Nicholas Adams; ed.",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01463",
+"type": "Letter",
+"year": "2002",
+"title": "Letter to the Editor",
+"authors": "Carolyn L. Searls",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01464",
+"type": "Editorial",
+"year": "2002",
+"title": "Editor's Note",
+"authors": "Diana S. Waite",
+"book_authors": "",
+"topics": "SECURITY AND HISTORIC BUILDINGS"
+},
+{
+"id": "APT01465",
+"type": "Article",
+"year": "2002",
+"title": "Principles for Development of Security Measures for Historic Places",
+"authors": "the Advisory Council on Historic Preservation; Federal Preservation Institute; National Center for Preservation Technology; Training; National Park Service",
+"book_authors": "",
+"topics": "ADVISORY COUNCIL ON HISTORIC PRESERVATION; NATIONAL CENTER FOR PRESERVATION TECHNOLOGY AND TRAINING (NCPTT); SECURITY AND HISTORIC BUILDINGS"
+},
+{
+"id": "APT01466",
+"type": "Guest editor note",
+"year": "2002",
+"title": "Convergence of Architecture and Craft: An Introduction",
+"authors": "Barry Loveland",
+"book_authors": "",
+"topics": "ASSOCIATION FOR PRESERVATION TECHNOLOGY (APT); CONSTRUCTION MANAGEMENT; PRESERVATION TRADES NETWORK (PTN); SKILLED TRADES"
+},
+{
+"id": "APT01467",
+"type": "Article",
+"year": "2002",
+"title": "Converging Disciplines during Structural and Environmental Upgrades: The Troxell-Steckel House",
+"authors": "Glenn Forrest Alf; John R. Bowie",
+"book_authors": "",
+"topics": "CONSTRUCTION MANAGEMENT; MUSEUMS, HISTORIC HOUSE; PENNSYLVANIA; SKILLED TRADES"
+},
+{
+"id": "APT01468",
+"type": "Article",
+"year": "2002",
+"title": "Restoration of the Concrete Roof of the Mercer Museum in Doylestown, Pennsylvania",
+"authors": "Dale H. Frens",
+"book_authors": "",
+"topics": "CONCRETE; CONSTRUCTION MANAGEMENT; MUSEUMS; PENNSYLVANIA; ROOFS AND ROOFING"
+},
+{
+"id": "APT01469",
+"type": "Article",
+"year": "2002",
+"title": "A Team Approach Involving the Trades at the Pennsylvania Historical and Museum Commission",
+"authors": "Barry Loveland",
+"book_authors": "",
+"topics": "CONSTRUCTION MANAGEMENT; PENNSYLVANIA; SKILLED TRADES"
+},
+{
+"id": "APT01470",
+"type": "Article",
+"year": "2002",
+"title": "Convergence of Design and Craft: Planning the Restoration of an Eighteenth-Century Cloister",
+"authors": "Jim Caufield; Jim Houston",
+"book_authors": "",
+"topics": "CONSTRUCTION MANAGEMENT; PENNSYLVANIA; RELIGIOUS BUILDINGS; SKILLED TRADES; WOOD CONSTRUCTION"
+},
+{
+"id": "APT01471",
+"type": "Article",
+"year": "2002",
+"title": "Mobile Preservation Construction Services: The Pennsylvania Historical and Museum Commission",
+"authors": "John N. Fugelso; Mark Heeb",
+"book_authors": "",
+"topics": "CONSTRUCTION MANAGEMENT; MASONRY; PENNSYLVANIA; SKILLED TRADES"
+},
+{
+"id": "APT01472",
+"type": "Article",
+"year": "2002",
+"title": "Architecture and Craft: A New York City Government Perspective",
+"authors": "Misia Leonard",
+"book_authors": "",
+"topics": "CONSTRUCTION MANAGEMENT; NEW YORK, New York; PUBLIC BUILDINGS; SKILLED TRADES"
+},
+{
+"id": "APT01473",
+"type": "Article",
+"year": "2002",
+"title": "Conservation of Historic Building-Trades Education: A Timber Framer's View",
+"authors": "Rudy R. Christian",
+"book_authors": "",
+"topics": "HISTORIC PRESERVATION, EDUCATION; SKILLED TRADES; WOOD CONSTRUCTION"
+},
+{
+"id": "APT01474",
+"type": "Article",
+"year": "2002",
+"title": "Building Craftsmanship, Capacity, and Relationships: The Preservation Trades Network",
+"authors": "Philip Cryan Marshall; Robert J. Cagnetta",
+"book_authors": "",
+"topics": "HISTORIC PRESERVATION, EDUCATION; PRESERVATION TRADES NETWORK (PTN); SKILLED TRADES"
+},
+{
+"id": "APT01475",
+"type": "Article",
+"year": "2002",
+"title": "Passing on the Legacy: Vocational Training for the Preservation Trades",
+"authors": "Simon Herbert",
+"book_authors": "",
+"topics": "HISTORIC PRESERVATION, EDUCATION; SKILLED TRADES"
+},
+{
+"id": "APT01476",
+"type": "Article",
+"year": "2002",
+"title": "Selected Writings from the Journal of a Craftsman",
+"authors": "Michael Drummond Davidson",
+"book_authors": "",
+"topics": "NEBRASKA; SCAFFOLDING"
+},
+{
+"id": "APT01477",
+"type": "Book review",
+"year": "2002",
+"title": "The Fireproof Building: Technology and Public Safety in the Nineteenth-Century American City",
+"authors": "Lonnie J. Hovey",
+"book_authors": "Sara E. Wermiel",
+"topics": "BOOK REVIEWS; FIRE PROTECTION"
+},
+{
+"id": "APT01478",
+"type": "Book review",
+"year": "2002",
+"title": "Building Pathology",
+"authors": "Hugh C. Miller",
+"book_authors": "Samuel Y. Harris",
+"topics": "BOOK REVIEWS; INVESTIGATIVE TECHNIQUES"
+},
+{
+"id": "APT01479",
+"type": "Book review",
+"year": "2002",
+"title": "Architects to the Nation",
+"authors": "Guy Munsch",
+"book_authors": "Antoinette J. Lee",
+"topics": "BOOK REVIEWS; PUBLIC BUILDINGS"
+},
+{
+"id": "APT01480",
+"type": "Book review",
+"year": "2002",
+"title": "A Building History of Northern New England",
+"authors": "Robert A. Young",
+"book_authors": "James L. Garvin",
+"topics": "BOOK REVIEWS; NEW ENGLAND"
+},
+{
+"id": "APT01481",
+"type": "Book review",
+"year": "2002",
+"title": "A History of Interior Design",
+"authors": "Mary Anne Beecher",
+"book_authors": "John Pile",
+"topics": "BOOK REVIEWS; INTERIORS"
+},
+{
+"id": "APT01482",
+"type": "Book review",
+"year": "2002",
+"title": "The Architecture of Additions: Design and Regulation",
+"authors": "Anat Geva",
+"book_authors": "Paul Spencer Byard",
+"topics": "BOOK REVIEWS; HISTORIC PRESERVATION, GUIDELINES"
+},
+{
+"id": "APT01483",
+"type": "Article",
+"year": "2002",
+"title": "Plastic Dreams: Weathering of Glass-Reinforced Plastic Facsimiles",
+"authors": "John Fidler",
+"book_authors": "",
+"topics": "GLASS-REINFORCED PLASTIC; LONDON, England; SUBSTITUTE MATERIALS"
+},
+{
+"id": "APT01484",
+"type": "Article",
+"year": "2002",
+"title": "Assessing past Conservation Treatments at George Washington's Mount Vernon",
+"authors": "P. Gardiner Hallock",
+"book_authors": "",
+"topics": "EPOXY RESIN; HALLOCK, P. Gardiner; MUSEUMS, HISTORIC HOUSE; PLASTER; SANDSTONE; VIRGINIA; WOOD, DETERIORATION AND TREATMENT"
+},
+{
+"id": "APT01485",
+"type": "Article",
+"year": "2002",
+"title": "Color and Long-Term Color Retention in Composite Patching Systems for Stone and Masonry",
+"authors": "Michael P. Edison",
+"book_authors": "",
+"topics": "CONNECTICUT; MASONRY; STONE; SUBSTITUTE MATERIALS"
+},
+{
+"id": "APT01486",
+"type": "Article",
+"year": "2002",
+"title": "Scaffolding Historic Structures: Planning and Implementation of Fixed Scaffolding Systems",
+"authors": "Ronald D. Staley",
+"book_authors": "",
+"topics": "CONSTRUCTION MANAGEMENT; SCAFFOLDING"
+},
+{
+"id": "APT01487",
+"type": "Article",
+"year": "2002",
+"title": "The Variable Performance of Ethyl Silicate: Consolidated Stone at Three National Parks",
+"authors": "Anne B. Oliver",
+"book_authors": "",
+"topics": "CONSOLIDATION; NATIONAL PARK SERVICE, U.S.; NEW MEXICO; STONE; TEXAS; UTAH"
+},
+{
+"id": "APT01488",
+"type": "Article",
+"year": "2002",
+"title": "Survivors among the Ruins: Traditional Houses in Earthquakes in Turkey and India",
+"authors": "Randolph Langenbach",
+"book_authors": "",
+"topics": "INDIA; SEISMIC SAFETY AND REHABILITATION; TURKEY; WOOD CONSTRUCTION"
+},
+{
+"id": "APT01489",
+"type": "Article",
+"year": "2002",
+"title": "Wallpaper Documentation and Reproduction at Adena: The Worthington Estate",
+"authors": "Neal V. Hitch; Cheryl J. Lugg",
+"book_authors": "",
+"topics": "INTERIORS; LATROBE, Benjamin Henry; MUSEUMS, HISTORIC HOUSE; OHIO; WALL COVERINGS"
+},
+{
+"id": "APT01490",
+"type": "Article",
+"year": "2002",
+"title": "Ancient Newari Water-Supply Systems in Nepal's Kathmandu Valley",
+"authors": "Jonathan C. Spodek",
+"book_authors": "",
+"topics": "NEPAL; WATER SYSTEMS"
+},
+{
+"id": "APT01491",
+"type": "Article",
+"year": "2002",
+"title": "Timber Assessment at Quincy Mine Blacksmith Shop, Keweenaw National Historical Park",
+"authors": "Xiping Wang; Robert J. Ross; John R. Erickson; John W. Forsman; G. David Jukuri; Edward B. Yarbrough",
+"book_authors": "",
+"topics": "INVESTIGATIVE TECHNIQUES; JUKURI, G. David; MICHIGAN; WOOD, DETERIORATION AND TREATMENT"
+},
+{
+"id": "APT01492",
+"type": "Book review",
+"year": "2002",
+"title": "The Patina of Place: The Cultural Weathering of a New England Industrial Landscape",
+"authors": "Pamela H. Simpson",
+"book_authors": "Kingston Wm. Heath",
+"topics": "BOOK REVIEWS; RESIDENCES"
+},
+{
+"id": "APT01493",
+"type": "Book review",
+"year": "2002",
+"title": "God's House at Ewelme: Life, Devotion and Architecture in a Fifteenth-Century Almshouse",
+"authors": "Thomas Barrie",
+"book_authors": "John A. A. Goodall",
+"topics": "BOOK REVIEWS; RELIGIOUS BUILDINGS"
+},
+{
+"id": "APT01494",
+"type": "Book review",
+"year": "2002",
+"title": "The Boulevard Book: History, Evolution, Design of Multiway Boulevards",
+"authors": "Jody R. Naderi",
+"book_authors": "Allan B. Jacobs; Elizabeth Macdonald; Yodan Rofe",
+"topics": "BOOK REVIEWS; STREETS"
+},
+{
+"id": "APT01495",
+"type": "Article",
+"year": "2002",
+"title": "The Princeton University High-Reach Project: A Creative Approach to Preservation Contracting",
+"authors": "Michael J. Mills; Anne E. Weber; Katherine McDowell Frey",
+"book_authors": "",
+"topics": "CONSTRUCTION MANAGEMENT; GLASS, PAINTED AND STAINED; NEW JERSEY; STONE; SUBSTITUTE MATERIALS"
+},
+{
+"id": "APT01496",
+"type": "Article",
+"year": "2002",
+"title": "New Consolidants for Historic Plaster: Studies at the Knickerbocker Mansion in Upstate New York",
+"authors": "Charles Selwitz",
+"book_authors": "",
+"topics": "CEILINGS; CONSOLIDATION; NEW YORK STATE; PHILLIPS, Morgan W.; PLASTER"
+},
+{
+"id": "APT01497",
+"type": "Article",
+"year": "2002",
+"title": "New Developments in Fluorinated Materials for Stone Preservation",
+"authors": "William H. Tuminello; Susanna Bracci; Franco Piacenti",
+"book_authors": "",
+"topics": "CONSOLIDATION; ITALY; STONE"
+},
+{
+"id": "APT01498",
+"type": "Article",
+"year": "2002",
+"title": "Restoring and Modernizing the U.S. Treasury Building: An Overview and Three Case Studies",
+"authors": "Guy Munsch",
+"book_authors": "",
+"topics": "CEILINGS; MECHANICAL SYSTEMS; PUBLIC BUILDINGS"
+},
+{
+"id": "APT01499",
+"type": "Article",
+"year": "2002",
+"title": "Coloring Historic Stucco: The Revival of a past Technique in San Juan, Puerto Rico",
+"authors": "Marita Jonsson; E. Blaine Cliver",
+"book_authors": "",
+"topics": "CLIVER, E. Blaine; MASONRY; PUERTO RICO; STUCCO; SWEDEN"
+},
+{
+"id": "APT01500",
+"type": "Article",
+"year": "2002",
+"title": "Applying Infrared Thermography to Historic Wood-Framed Buildings in North America",
+"authors": "Elisabetta Rosina; Elwin C. Robison",
+"book_authors": "",
+"topics": "INVESTIGATIVE TECHNIQUES; OHIO; WOOD CONSTRUCTION; WRIGHT, Frank Lloyd"
+},
+{
+"id": "APT01501",
+"type": "Article",
+"year": "2002",
+"title": "Using Electro-Osmotic Pulse Technology to Prevent Rising Damp and Moisture Intrusion",
+"authors": "Michael K. McInerneyg; Sondra C. Cooper; Vincent F. Hock; Sean W. Morefield",
+"book_authors": "",
+"topics": "CONCRETE; INVESTIGATIVE TECHNIQUES; MASONRY; MOISTURE; OKLAHOMA; SOUTH CAROLINA"
+},
+{
+"id": "APT01502",
+"type": "Book review",
+"year": "2002",
+"title": "The Investigation of Buildings",
+"authors": "Susan Turner",
+"book_authors": "Donald Friedman; rev. Susan Turner",
+"topics": "BOOK REVIEWS; INVESTIGATIVE TECHNIQUES; TURNER, Susan D."
+},
+{
+"id": "APT01503",
+"type": "Book review",
+"year": "2002",
+"title": "Making Houses, Crafting Capitalism: Builders in Philadelphia, 1790-1850",
+"authors": "Ken Follett",
+"book_authors": "Donna J. Rilling",
+"topics": "BOOK REVIEWS; CONSTRUCTION MANAGEMENT"
+},
+{
+"id": "APT01504",
+"type": "Book review",
+"year": "2002",
+"title": "Studies in the History of Civil Engineering. Vol. 11: Early Reinforced Concrete",
+"authors": "Derek Trelstad",
+"book_authors": "Joyce Brown; gen. ed.; Frank Newby; ed.",
+"topics": "BOOK REVIEWS; CONCRETE"
+},
+{
+"id": "APT01505",
+"type": "Book review",
+"year": "2002",
+"title": "Reinforced Concrete and the Modernization of American Building, 1900-1930. Johns Hopkins Studies in the History of Technology",
+"authors": "Derek Trelstad",
+"book_authors": "Merritt Roe Smith; gen. ed.; Amy E. Slaton; ed.",
+"topics": "BOOK REVIEWS; CONCRETE"
+},
+{
+"id": "APT01506",
+"type": "Book review",
+"year": "2002",
+"title": "Lost Virginia: Vanished Architecture of the Old Dominion",
+"authors": "Jody Lahendro; Joseph Dye Lahendro",
+"book_authors": "Bryan Clark Green; Calder Loth; William M. S. Rasmussen; (also",
+"topics": "BOOK REVIEWS; VIRGINIA"
+},
+{
+"id": "APT01507",
+"type": "Book review",
+"year": "2002",
+"title": "Roof Gardens: History, Design, and Construction",
+"authors": "Nancy Volkman",
+"book_authors": "Theodore Osmundson",
+"topics": "BOOK REVIEWS; LANDSCAPES AND GARDENS"
+},
+{
+"id": "APT01508",
+"type": "Article",
+"year": "2003",
+"title": "Why Lived-in Landscapes Matter to Nature Conservation",
+"authors": "Adrian Phillips",
+"book_authors": "",
+"topics": "EUROPEAN LANDSCAPE CONVENTION; HISTORIC PRESERVATION, PHILOSOPHY; LANDSCAPES AND GARDENS; WORLD HERITAGE CONVENTION"
+},
+{
+"id": "APT01509",
+"type": "Article",
+"year": "2003",
+"title": "Using Infrared Thermography to Detect Moisture in Historic Masonry: A Case Study in Indiana",
+"authors": "Elisabetta Rosina; Jonathan Spodek",
+"book_authors": "",
+"topics": "INDIANA; INVESTIGATIVE TECHNIQUES; MOISTURE"
+},
+{
+"id": "APT01510",
+"type": "Article",
+"year": "2003",
+"title": "Restoration and Emergency Stabilization at the Resurrection New Jerusalem Monastery in Russia",
+"authors": "Ivan Strelbitsky",
+"book_authors": "",
+"topics": "DISASTER MANAGEMENT; RELIGIOUS BUILDINGS; RUSSIA; STABILIZATION"
+},
+{
+"id": "APT01511",
+"type": "Article",
+"year": "2003",
+"title": "Stereological Solutions to Monitoring Buildings: Case Studies of Sod and Tabby Structures",
+"authors": "Lauren B. Sickels-Taves; Michael S. Sheehan; Irwin Rovner",
+"book_authors": "",
+"topics": "COMPUTER TECHNOLOGY; INVESTIGATIVE TECHNIQUES; NEBRASKA; SOUTH CAROLINA"
+},
+{
+"id": "APT01512",
+"type": "Article",
+"year": "2003",
+"title": "Structural Triage of Historic Buildings: Combining Safety and Preservation Interests after Disasters",
+"authors": "Donald Friedman",
+"book_authors": "",
+"topics": "DISASTER MANAGEMENT; HEALTH HAZARDS; STRUCTURAL PRESERVATION"
+},
+{
+"id": "APT01513",
+"type": "Article",
+"year": "2003",
+"title": "Flash-Flood Impacts and Protection Measures in the Valley of the Kings, Luxor, Egypt",
+"authors": "James McLane; Raphael A. J. Wüst; Brad Porter; John Rutherford; Raphael A. J. Wust",
+"book_authors": "",
+"topics": "ARCHEOLOGY; DISASTER MANAGEMENT; EGYPT; FLOODS AND FLOODING; W‹ST, Raphael A. J."
+},
+{
+"id": "APT01514",
+"type": "Article",
+"year": "2003",
+"title": "Perestroika Conservation: The Effort to Save Abandoned Log Churches in Russia",
+"authors": "Travis McDonald",
+"book_authors": "",
+"topics": "HISTORIC PRESERVATION, EDUCATION; LOG CONSTRUCTION; RELIGIOUS BUILDINGS; RUSSIA"
+},
+{
+"id": "APT01515",
+"type": "Book review",
+"year": "2003",
+"title": "AISC Rehabilitation and Retrofit Guide: A Reference for Historic Shapes and Specifications",
+"authors": "S. Patrick Sparks",
+"book_authors": "Roger L. Brockenbrough",
+"topics": "BOOK REVIEWS; IRON AND STEEL; SPARKS, S. Patrick"
+},
+{
+"id": "APT01516",
+"type": "Book review",
+"year": "2003",
+"title": "New York's Pennsylvania Stations",
+"authors": "Donald Friedman",
+"book_authors": "Hillary Ballon",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01517",
+"type": "Book review",
+"year": "2003",
+"title": "Six Thousand Years of Housing",
+"authors": "Elizabeth MacKenzie",
+"book_authors": "Norbert Schoenauer",
+"topics": "BOOK REVIEWS; RESIDENCES"
+},
+{
+"id": "APT01518",
+"type": "Book review",
+"year": "2003",
+"title": "Air-Conditioning America: Engineers and the Controlled Environment, 1900-1960",
+"authors": "Robert A. Young; Marsha E. Ackerman",
+"book_authors": "Gail Cooper",
+"topics": "BOOK REVIEWS; HEATING, VENTILATION, AND AIR-CONDITIONING"
+},
+{
+"id": "APT01519",
+"type": "Book review",
+"year": "2003",
+"title": "English Heritage Research Transactions Series: Research and Case Studies in Architectural Conservation. Vol. 2: Stone: Stone Building Materials, Construction and Associated Component Systems: Their Decay and Treatment",
+"authors": "Barbara A. Campagna; Jeanne Marie Tentonico",
+"book_authors": "Jeanne Marie Teutonico; C. Wood; gen. eds.; John Fidler; ed.",
+"topics": "BOOK REVIEWS; BURT, Richard A.; EARTHEN ARCHITECTURE; STONE; WOOD, C."
+},
+{
+"id": "APT01520",
+"type": "Book review",
+"year": "2003",
+"title": "Cool Comfort: America's Romance with Air-Conditioning",
+"authors": "Robert A. Young",
+"book_authors": "Marsha E. Ackerman",
+"topics": "BOOK REVIEWS; HEATING, VENTILATION, AND AIR-CONDITIONING"
+},
+{
+"id": "APT01521",
+"type": "Book review",
+"year": "2003",
+"title": "Seismic Stabilization of Historic Adobe Structures: Final Report of the Getty Seismic Adobe Project",
+"authors": "James Mason",
+"book_authors": "E. Leroy Tolles; Edna E. Kimbro; Frederick A. Webster; William S. Ginell",
+"topics": "ADOBE; BOOK REVIEWS; TOLLES, E. Leroy"
+},
+{
+"id": "APT01522",
+"type": "Book review",
+"year": "2003",
+"title": "Empire: A Tale of Obsession, Betrayal, and the Battle for an American Icon",
+"authors": "Lee E. Gray",
+"book_authors": "Mitchell Pacelle",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01523",
+"type": "Editorial",
+"year": "2003",
+"title": "Editor's Note",
+"authors": "Diana S. Waite",
+"book_authors": "",
+"topics": "ASSOCIATION FOR PRESERVATION TECHNOLOGY (APT)"
+},
+{
+"id": "APT01524",
+"type": "Article",
+"year": "2003",
+"title": "Conserving the Ruins of a Hellenistic Farmhouse in Crimea, Ukraine",
+"authors": "Pamela Jerome; Norman R. Weiss; Michele Risdal-Barnes; Gina Crevello; Jeffrey Mark Chusid",
+"book_authors": "",
+"topics": "FARMSTEADS; MORTAR; RUINS; STABILIZATION; UKRAINE"
+},
+{
+"id": "APT01525",
+"type": "Article",
+"year": "2003",
+"title": "A Pioneering Effort: The California State Historical Building Code",
+"authors": "Thomas A. Winter",
+"book_authors": "",
+"topics": "BUILDING CODES; CALIFORNIA; HISTORIC PRESERVATION, LAW AND LEGISLATION; THEATERS"
+},
+{
+"id": "APT01526",
+"type": "Article",
+"year": "2003",
+"title": "A GIS Assessment of the Great Hall Ceiling at Drayton Hall, Charleston",
+"authors": "Frank G. Matero; John Hinchman; Dana Tomlin; Kyu-Bong Song",
+"book_authors": "",
+"topics": "BURNS, John A.; CEILINGS; COMPUTER TECHNOLOGY; DOCUMENTATION; INVESTIGATIVE TECHNIQUES; MUSEUMS, HISTORIC HOUSE; PLASTER; SOUTH CAROLINA"
+},
+{
+"id": "APT01527",
+"type": "Article",
+"year": "2003",
+"title": "Survey Methodology for the Preservation of Historic Burial Grounds and Cemeteries",
+"authors": "Frank G. Matero; Judy Peters",
+"book_authors": "",
+"topics": "BURNS, John A.; CEMETERIES; COMPUTER TECHNOLOGY; DOCUMENTATION; INVESTIGATIVE TECHNIQUES; LOUISIANA"
+},
+{
+"id": "APT01528",
+"type": "Article",
+"year": "2003",
+"title": "Detecting Subterranean Termite Activity with Infrared Thermography: A Case Study",
+"authors": "Mark Gilberg; Claudia Riegel; Bob Melia; Jack Leonard",
+"book_authors": "",
+"topics": "INVESTIGATIVE TECHNIQUES; LOUISIANA; MONITORING SYSTEMS; RELIGIOUS BUILDINGS; TERMITE CONTROL"
+},
+{
+"id": "APT01529",
+"type": "Article",
+"year": "2003",
+"title": "Methods for the Preservation of French Colonial Poteaux en Terre (Posts-in-Ground) Houses",
+"authors": "Jeremy C. Wells",
+"book_authors": "",
+"topics": "LOUISIANA; MISSISSIPPI; MISSOURI; STRUCTURAL PRESERVATION; WOOD CONSTRUCTION; WOOD, DETERIORATION AND TREATMENT"
+},
+{
+"id": "APT01530",
+"type": "Article",
+"year": "2003",
+"title": "A Study of Seismic Protection Techniques for the Byzantine Churches in Macedonia",
+"authors": "Predrag Gavrilovic; Stephen J. Kelley; Veronika Sendova",
+"book_authors": "",
+"topics": "MACEDONIA; RELIGIOUS BUILDINGS; SEISMIC SAFETY AND REHABILITATION; STRUCTURAL PRESERVATION"
+},
+{
+"id": "APT01531",
+"type": "Article",
+"year": "2003",
+"title": "Shaking up Historic Buildings: Seismic Renovation at the Suzzallo Library, University of Washington",
+"authors": "K. Casey Caughie",
+"book_authors": "",
+"topics": "CAUGHIE, K. Casey; EDUCATIONAL BUILDINGS; SEISMIC SAFETY AND REHABILITATION; STRUCTURAL PRESERVATION; WASHINGTON (State)"
+},
+{
+"id": "APT01532",
+"type": "Book review",
+"year": "2003",
+"title": "Building on Ruins: The Re-Discovery of Rome and English Architecture",
+"authors": "Gregor Kalas",
+"book_authors": "Frank Salmon",
+"topics": "ARCHEOLOGY; BOOK REVIEWS"
+},
+{
+"id": "APT01533",
+"type": "Book review",
+"year": "2003",
+"title": "Terra Britannica: A Celebration of Earthen Structures in Great Britain and Ireland",
+"authors": "Richard Burt; Jeanne Marie Teutonico; C. Wood; Ray Harrison",
+"book_authors": "John Hurd; Ben Gourley; eds.",
+"topics": "BOOK REVIEWS; EARTHEN ARCHITECTURE"
+},
+{
+"id": "APT01534",
+"type": "Book review",
+"year": "2003",
+"title": "Modern Color/Modern Architecture: Amedee Ozenfant and the Genealogy of Color in Modern Architecture",
+"authors": "Mary Jablonski",
+"book_authors": "William W. Braham",
+"topics": "BOOK REVIEWS; MODERN HERITAGE"
+},
+{
+"id": "APT01535",
+"type": "Book review",
+"year": "2003",
+"title": "Contributions to Conservation: Research in Conservation at the Netherlands Institute for Cultural Heritage (ICN)",
+"authors": "Henry Matthew Nowakowski",
+"book_authors": "Jaap A. Mosk; Norman H. Tennent",
+"topics": "BOOK REVIEWS; INVESTIGATIVE TECHNIQUES"
+},
+{
+"id": "APT01536",
+"type": "Book review",
+"year": "2003",
+"title": "The Heritage Strategy Planning Handbook: An International Primer",
+"authors": "David G. Woodcock",
+"book_authors": "Marc Denhez",
+"topics": "BOOK REVIEWS; PLANNING"
+},
+{
+"id": "APT01537",
+"type": "Book review",
+"year": "2003",
+"title": "Houses from Books: Treatises, Pattern Books, and Catalogs in American Architecture, 1738-1950, a History and Guide",
+"authors": "Hugh C. Miller",
+"book_authors": "Daniel D. Reiff",
+"topics": "BOOK REVIEWS; PATTERN BOOKS"
+},
+{
+"id": "APT01538",
+"type": "Letter",
+"year": "2003",
+"title": "Letter to the Editor",
+"authors": "John A. Burns",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01539",
+"type": "Article",
+"year": "2003",
+"title": "Rehabilitation Codes Come of Age: A Search for Alternate Approaches",
+"authors": "Marilyn E. Kaplan",
+"book_authors": "",
+"topics": "BUILDING CODES; FIRE PROTECTION; HISTORIC PRESERVATION, LAW AND LEGISLATION"
+},
+{
+"id": "APT01540",
+"type": "Article",
+"year": "2003",
+"title": "Considering Fire-Safety Improvements to Historic Buildings",
+"authors": "Marilyn E. Kaplan",
+"book_authors": "",
+"topics": "BUILDING CODES; FIRE PROTECTION"
+},
+{
+"id": "APT01541",
+"type": "Article",
+"year": "2003",
+"title": "The New Jersey Rehabilitation Subcode and Historic Preservation",
+"authors": "William M. Connolly",
+"book_authors": "",
+"topics": "BUILDING CODES; HISTORIC PRESERVATION, LAW AND LEGISLATION; NEW JERSEY"
+},
+{
+"id": "APT01542",
+"type": "Article",
+"year": "2003",
+"title": "Fire-Risk Indexing: A Systemic Approach to Building-Code \"Equivalency\" for Historic Buildings",
+"authors": "John M. Watts Jr.",
+"book_authors": "",
+"topics": "BUILDING CODES; FIRE PROTECTION"
+},
+{
+"id": "APT01543",
+"type": "Article",
+"year": "2003",
+"title": "Main Street and Building Codes: The \"Tin Ceiling\" Challenge",
+"authors": "Mike Jackson",
+"book_authors": "",
+"topics": "BUILDING CODES; CEILINGS; COMMERCIAL BUILDINGS; FIRE PROTECTION; IRON AND STEEL"
+},
+{
+"id": "APT01544",
+"type": "Article",
+"year": "2003",
+"title": "Automatic Fire Suppression for Historic Structures: Options and Applications",
+"authors": "Nick Artim",
+"book_authors": "",
+"topics": "BUILDING CODES; FIRE PROTECTION; MONITORING SYSTEMS"
+},
+{
+"id": "APT01545",
+"type": "Article",
+"year": "2003",
+"title": "Planning Projects to Prevent Damage during Construction: A Property Owner's Primer",
+"authors": "Michael F. Lynch",
+"book_authors": "",
+"topics": "BUILDING CODES; CONSTRUCTION MANAGEMENT; FIRE PROTECTION"
+},
+{
+"id": "APT01546",
+"type": "Article (type not indexed)",
+"year": "2003",
+"title": "Lee Nelson Award Winner 2003 Conservation of Bridges",
+"authors": "Graham Tilly",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01547",
+"type": "Article",
+"year": "2003",
+"title": "Conservation of Bridges",
+"authors": "Graham Tilly",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01548",
+"type": "Book review",
+"year": "2003",
+"title": "Restoring Women's History through Historic Preservation",
+"authors": "Pamela H. Simpson",
+"book_authors": "Gail Lee Dubrow; Jennifer B. Goodman; eds.",
+"topics": "BOOK REVIEWS; HISTORIC PRESERVATION, HISTORY OF"
+},
+{
+"id": "APT01549",
+"type": "Book review",
+"year": "2003",
+"title": "Encausto and Ganosis: Beeswax as Paint and Coating during the Roman Era and Its Applicability in Modern Art, Craft and Conservation",
+"authors": "Constance S. Silver",
+"book_authors": "Agneta Freccero",
+"topics": "BOOK REVIEWS; PAINTS AND COATINGS"
+},
+{
+"id": "APT01550",
+"type": "Book review",
+"year": "2003",
+"title": "Inventing the Charles River",
+"authors": "Frances G. Beatty",
+"book_authors": "Karl Haglund",
+"topics": "BOOK REVIEWS; MASSACHUSETTS"
+},
+{
+"id": "APT01551",
+"type": "Book review",
+"year": "2003",
+"title": "Cass Gilbert: Life and Work, Architect of the Public Domain",
+"authors": "Richard Guy Wilson",
+"book_authors": "Barbara S. Christen; Steven Flanders",
+"topics": "BOOK REVIEWS; GILBERT, Cass"
+},
+{
+"id": "APT01552",
+"type": "Book review",
+"year": "2003",
+"title": "Memory and Modernity: Viollet-le-Duc at Vezelay",
+"authors": "Craig K. Anz",
+"book_authors": "Kevin D. Murphy",
+"topics": "BOOK REVIEWS; HISTORIC PRESERVATION, HISTORY OF"
+},
+{
+"id": "APT01553",
+"type": "Book review",
+"year": "2003",
+"title": "Barns",
+"authors": "Thomas D. Visser",
+"book_authors": "John Michael Vlach",
+"topics": "BOOK REVIEWS; OUTBUILDINGS"
+},
+{
+"id": "APT01554",
+"type": "Article",
+"year": "2004",
+"title": "Guidance for Security Enhancements to Historic Buildings",
+"authors": "Sharon C. Park; Claire Schofield Mastroberardino",
+"book_authors": "",
+"topics": "HISTORIC PRESERVATION, GUIDELINES; PUBLIC BUILDINGS; SECURITY AND HISTORIC BUILDINGS"
+},
+{
+"id": "APT01555",
+"type": "Article",
+"year": "2004",
+"title": "Principles for Development of Security Measures for Historic Places",
+"authors": "the Advisory Council on Historic Preservation; Federal Preservation Institute; National Center for Preservation Technology; Training; National Park Service",
+"book_authors": "",
+"topics": "ADVISORY COUNCIL ON HISTORIC PRESERVATION; NATIONAL CENTER FOR PRESERVATION TECHNOLOGY AND TRAINING (NCPTT); SECURITY AND HISTORIC BUILDINGS"
+},
+{
+"id": "APT01556",
+"type": "Article",
+"year": "2004",
+"title": "Tweed Courthouse: New Approach to Life-Safety Management in a Landmark Public Building",
+"authors": "John G. Waite; Nancy A. Rankin",
+"book_authors": "",
+"topics": "BUILDING CODES; CODES; NEW YORK, New York; PUBLIC BUILDINGS; SECURITY AND HISTORIC BUILDINGS"
+},
+{
+"id": "APT01557",
+"type": "Article",
+"year": "2004",
+"title": "Protective Design of Exterior Building Components in Twentieth-Century Historic Structures",
+"authors": "Hollice F. Stone",
+"book_authors": "",
+"topics": "HISTORIC PRESERVATION, GUIDELINES; PUBLIC BUILDINGS; SECURITY AND HISTORIC BUILDINGS"
+},
+{
+"id": "APT01558",
+"type": "Article",
+"year": "2004",
+"title": "Repairing Blast Damage at the South Portico of the California State Capitol",
+"authors": "Nancy Goldenberg",
+"book_authors": "",
+"topics": "CALIFORNIA; PUBLIC BUILDINGS; SECURITY AND HISTORIC BUILDINGS"
+},
+{
+"id": "APT01559",
+"type": "Article",
+"year": "2004",
+"title": "Perimeter Security Retrofitting for Historic Buildings",
+"authors": "Caroline Alderson; Paul Westlake Jr.; Bayard Whitmore",
+"book_authors": "",
+"topics": "GENERAL SERVICES ADMINISTRATION (GSA), U.S.; OHIO; PUBLIC BUILDINGS; SECURITY AND HISTORIC BUILDINGS; WASHINGTON, D.C."
+},
+{
+"id": "APT01560",
+"type": "Article",
+"year": "2004",
+"title": "The Federal Emergency Management Agency and Its Role in Historic Preservation",
+"authors": "David R. Gardner",
+"book_authors": "",
+"topics": "FEDERAL EMERGENCY MANAGEMENT AGENCY (FEMA), U.S.; SECURITY AND HISTORIC BUILDINGS"
+},
+{
+"id": "APT01561",
+"type": "Article",
+"year": "2004",
+"title": "Heavy Timber Framing in Late-Nineteenth-Century Commercial and Industrial Buildings",
+"authors": "Sara E. Wermiel",
+"book_authors": "",
+"topics": "COMMERCIAL BUILDINGS; FIRE PROTECTION; NEW ENGLAND; WOOD CONSTRUCTION"
+},
+{
+"id": "APT01562",
+"type": "Book review",
+"year": "2004",
+"title": "Ancient Building Technology. Vol. 1: Historical Background",
+"authors": "Anat Geva",
+"book_authors": "G. R. H. Wright",
+"topics": "BOOK REVIEWS; WRIGHT, G. R. H."
+},
+{
+"id": "APT01563",
+"type": "Book review",
+"year": "2004",
+"title": "Grand Central: Gateway to a Million Lives",
+"authors": "Donald Friedman",
+"book_authors": "John Belle; Maxinne R. Leighton",
+"topics": "BOOK REVIEWS; RAILROADS AND RAILROAD STATIONS"
+},
+{
+"id": "APT01564",
+"type": "Letter",
+"year": "2004",
+"title": "Letter to the Editor",
+"authors": "John Fidler",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01565",
+"type": "Editorial",
+"year": "2004",
+"title": "Editor's Note",
+"authors": "Diana S. Waite",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01566",
+"type": "Letter",
+"year": "2004",
+"title": "Special Issue on Security and Historic Buildings",
+"authors": "John Fidler",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01567",
+"type": "Letter",
+"year": "2004",
+"title": "Technical Issues Raised",
+"authors": "Vol. 35:1",
+"book_authors": "",
+"topics": "FIDLER, John; GREAT BRITAIN; SECURITY AND HISTORIC BUILDINGS"
+},
+{
+"id": "APT01568",
+"type": "Letter",
+"year": "2004",
+"title": "In Memory of Martin Weaver, 1938-2004",
+"authors": "Natalie Bull; John Fidler; Joseph Sembrat; Gouhar Shemdin; John Stewart; Martin Weaver; Norman R. Weiss",
+"book_authors": "",
+"topics": "MCGRATH, H. Thomas, Jr."
+},
+{
+"id": "APT01569",
+"type": "Article",
+"year": "2004",
+"title": "Restoration of Door Hardware at Monticello: Unlocking Some Mysteries",
+"authors": "Robert Self",
+"book_authors": "",
+"topics": "HARDWARE; JEFFERSON, Thomas; LOCKS; MUSEUMS, HISTORIC HOUSE; VIRGINIA"
+},
+{
+"id": "APT01570",
+"type": "Article",
+"year": "2004",
+"title": "Secretary of the Interior's Standards for Rehabilitation",
+"authors": "the National Park Service; U.S.",
+"book_authors": "",
+"topics": "HISTORIC PRESERVATION, GUIDELINES"
+},
+{
+"id": "APT01571",
+"type": "Article",
+"year": "2004",
+"title": "Metallurgical Investigation of an Iron Cable Wire in a Gries-Gendell (Severson) Girder",
+"authors": "Wayne L. Elban; Martha Goodway",
+"book_authors": "",
+"topics": "BRIDGES; INVESTIGATIVE TECHNIQUES; IRON AND STEEL; PHILADELPHIA, Pennsylvania; WEST VIRGINIA"
+},
+{
+"id": "APT01572",
+"type": "Article",
+"year": "2004",
+"title": "Bringing Back the Magic: Restoring Giuseppe Moretti's Vulcan in Birmingham, Alabama",
+"authors": "J. Scott Howell",
+"book_authors": "",
+"topics": "ALABAMA; CAST IRON; HOWELL, J. Scott; SCULPTURE"
+},
+{
+"id": "APT01573",
+"type": "Article",
+"year": "2004",
+"title": "Historic Carpentry in Europe: Discoveries and Potential",
+"authors": "Milos Drdacky; Vit Mlazovsky; Petr Ruzicka",
+"book_authors": "",
+"topics": "CZECH REPUBLIC; MLAZOVSKY, VÌt; TOOLS AND TOOLMAKERS; WOOD CONSTRUCTION"
+},
+{
+"id": "APT01574",
+"type": "Article",
+"year": "2004",
+"title": "Replicating the John J. Earley Concrete Mix to Restore the Nashville Parthenon",
+"authors": "Ilene R. Tyler",
+"book_authors": "",
+"topics": "CONCRETE; INVESTIGATIVE TECHNIQUES; TENNESSEE"
+},
+{
+"id": "APT01575",
+"type": "Article",
+"year": "2004",
+"title": "The Conservation of Heritage Submarines",
+"authors": "Martin E. Weaver",
+"book_authors": "",
+"topics": "CHICAGO, Illinois; CORROSION; GREAT BRITAIN; MARITIME PRESERVATION; MECHANICAL SYSTEMS; METALS AND METALWORK; NEW JERSEY"
+},
+{
+"id": "APT01576",
+"type": "Article",
+"year": "2004",
+"title": "Acadia Style: Using Historic Precedents to Rehabilitate Hiking Trails",
+"authors": "Margie Coffin Brown; Christian Barter",
+"book_authors": "",
+"topics": "BRIDGES; CIVILIAN CONSERVATION CORPS (CCC); LANDSCAPES AND GARDENS; MAINE; NATIONAL PARK SERVICE, U.S.; STONE"
+},
+{
+"id": "APT01577",
+"type": "Article",
+"year": "2004",
+"title": "Soldier Field Stadium: Corrosion Mitigation for Historic Concrete",
+"authors": "Arne P. Johnson; Seung Kyoung Lee",
+"book_authors": "",
+"topics": "CATHODIC PROTECTION; CHICAGO, Illinois; CONCRETE; CORROSION"
+},
+{
+"id": "APT01578",
+"type": "Book review",
+"year": "2004",
+"title": "Classical Architecture: An Introduction to Its Vocabulary and Essentials, with a Select Glossary of Terms",
+"authors": "Carroll William Westfall",
+"book_authors": "James Stevens Curl",
+"topics": "ARCHITECTURAL STYLES; BOOK REVIEWS"
+},
+{
+"id": "APT01579",
+"type": "Book review",
+"year": "2004",
+"title": "The Gothic Revival",
+"authors": "Nina E. Harkrader",
+"book_authors": "Michael J. Lewis",
+"topics": "ARCHITECTURAL STYLES; BOOK REVIEWS"
+},
+{
+"id": "APT01580",
+"type": "Book review",
+"year": "2004",
+"title": "A History of Architectural Conservation",
+"authors": "Michael Tomlan",
+"book_authors": "Jukka Jokilehto",
+"topics": "BOOK REVIEWS; HISTORIC PRESERVATION, HISTORY OF; TOMLAN, Michael A."
+},
+{
+"id": "APT01581",
+"type": "Article",
+"year": "2004",
+"title": "The Value of Old Bridges",
+"authors": "Eric Delony",
+"book_authors": "",
+"topics": "BRIDGES"
+},
+{
+"id": "APT01582",
+"type": "Article",
+"year": "2004",
+"title": "From Craft to Science: American Timber Bridges, 1790-1840",
+"authors": "Lola Bennett",
+"book_authors": "",
+"topics": "BRIDGES; TRUSSES"
+},
+{
+"id": "APT01583",
+"type": "Article",
+"year": "2004",
+"title": "Condition Assessment of Timber Using Resistance Drilling and Digital Radioscopy",
+"authors": "Ronald W. Anthony",
+"book_authors": "",
+"topics": "BRIDGES; INVESTIGATIVE TECHNIQUES; MASSACHUSETTS; WOOD, DETERIORATION AND TREATMENT"
+},
+{
+"id": "APT01584",
+"type": "Article",
+"year": "2004",
+"title": "Saving Covered Bridges with Glass-Fiber-Reinforced Polymers",
+"authors": "Samer H. Petro; Emory L. Kemp; Hota V. S. Gangarao",
+"book_authors": "",
+"topics": "BRIDGES; GLASS-REINFORCED PLASTIC; WEST VIRGINIA; WOOD, DETERIORATION AND TREATMENT"
+},
+{
+"id": "APT01585",
+"type": "Article",
+"year": "2004",
+"title": "Lateral Bracing in Covered Bridges and the Naturally Curved Knee",
+"authors": "Jan Leo Lewandoski",
+"book_authors": "",
+"topics": "BRIDGES; TRUSSES; WOOD CONSTRUCTION"
+},
+{
+"id": "APT01586",
+"type": "Article",
+"year": "2004",
+"title": "Parallel Developments, Technology Transfer, and Scotland's Place in the International Dimension",
+"authors": "Ingval Maxwell",
+"book_authors": "",
+"topics": "SCOTLAND; STONE"
+},
+{
+"id": "APT01587",
+"type": "Book review",
+"year": "2004",
+"title": "American Art Deco: Architecture and Regionalism",
+"authors": "David H. Sachs",
+"book_authors": "Carla Breeze",
+"topics": "ARCHITECTURAL STYLES; BOOK REVIEWS"
+},
+{
+"id": "APT01588",
+"type": "Book review",
+"year": "2004",
+"title": "Historic Fortification Preservation Handbook",
+"authors": "James C. Bradford",
+"book_authors": "Pacific Northwest Preservation Partnership",
+"topics": "BOOK REVIEWS; FORTS AND FORTRESSES; PACIFIC NORTHWEST PRESERVATION PARTNERSHIP"
+},
+{
+"id": "APT01589",
+"type": "Book review",
+"year": "2004",
+"title": "Tourists in Historic Towns: Urban Conservation and Heritage Management",
+"authors": "Tazim Jamal",
+"book_authors": "Aylin Orbasli",
+"topics": "BOOK REVIEWS; HERITAGE TOURISM"
+},
+{
+"id": "APT01590",
+"type": "Book review",
+"year": "2004",
+"title": "Cultural Property Risk Analysis Model: Development and Application to Preventive Conservation at the Canadian Museum of Nature",
+"authors": "Charlie Bigenwald",
+"book_authors": "R. Robert Waller",
+"topics": "BOOK REVIEWS; DISASTER MANAGEMENT; WALLER, R. Robert"
+},
+{
+"id": "APT01591",
+"type": "Book review",
+"year": "2004",
+"title": "A Richer Heritage: Historic Preservation in the Twenty-First Century",
+"authors": "Nancy Crowley; Robert E. Stipe",
+"book_authors": "",
+"topics": "BOOK REVIEWS; HANDBOOKS AND GUIDES"
+},
+{
+"id": "APT01592",
+"type": "Book review",
+"year": "2004",
+"title": "Fire Safe Building Rehabilitation",
+"authors": "Thomas D. Visser",
+"book_authors": "Marilyn E. Kaplan; John M. Watts Jr.",
+"topics": "BOOK REVIEWS; FIRE PROTECTION"
+},
+{
+"id": "APT01593",
+"type": "Article (type not indexed)",
+"year": "2004",
+"title": "Defects and Deterioration in Buildings",
+"authors": "Suzann D. Turner; Barry A. Richardson",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01594",
+"type": "Editorial",
+"year": "2005",
+"title": "Editor's Note",
+"authors": "Diana S. Waite",
+"book_authors": "",
+"topics": "ENGINEERING; SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+},
+{
+"id": "APT01595",
+"type": "Guest editor note",
+"year": "2005",
+"title": "Preservation Engineering: The Future",
+"authors": "Donald Friedman",
+"book_authors": "",
+"topics": "ENGINEERING"
+},
+{
+"id": "APT01596",
+"type": "Article",
+"year": "2005",
+"title": "Should Preservation Engineering Require Certification?",
+"authors": "Richard I. Ortega",
+"book_authors": "",
+"topics": "ENGINEERING; HISTORIC PRESERVATION, EDUCATION"
+},
+{
+"id": "APT01597",
+"type": "Article",
+"year": "2005",
+"title": "A Philosophy for Preservation Engineers",
+"authors": "Stephen J. Kelley; David W. Look",
+"book_authors": "",
+"topics": "ENGINEERING; HISTORIC PRESERVATION, PHILOSOPHY"
+},
+{
+"id": "APT01598",
+"type": "Article",
+"year": "2005",
+"title": "GPS: A New Tool for Structural Displacement Measurements",
+"authors": "Tracy Kijewski-Correa",
+"book_authors": "",
+"topics": "CHICAGO, Illinois; COMPUTER TECHNOLOGY; DOCUMENTATION; ENGINEERING; INVESTIGATIVE TECHNIQUES"
+},
+{
+"id": "APT01599",
+"type": "Article",
+"year": "2005",
+"title": "Cathodic Protection of Iron and Steel in Heritage Buildings in the United Kingdom",
+"authors": "David M. Farrell; Kevin Davies",
+"book_authors": "",
+"topics": "CATHODIC PROTECTION; ENGINEERING; GREAT BRITAIN; IRON AND STEEL"
+},
+{
+"id": "APT01600",
+"type": "Article",
+"year": "2005",
+"title": "Locating Faults in Wall Paintings at the U.S. Capitol",
+"authors": "Shaker-Based Laser Vibrometry by Joseph F. Vignola; Joseph A. Bucaro; Brian R. Lemon; George W. Adams; Andrew J. Kurdila; Barbara Marchetti; Enrico Esposito; Enrico Tomasini; Harry J. Simpson; Brian H. Houston; Joseph F. Vignola",
+"book_authors": "",
+"topics": "ACOUSTICS; COMPUTER TECHNOLOGY; ENGINEERING; INVESTIGATIVE TECHNIQUES; MURALS; PAINTS AND COATINGS; PLASTER; PUBLIC BUILDINGS; WASHINGTON, D.C."
+},
+{
+"id": "APT01601",
+"type": "Article",
+"year": "2005",
+"title": "Evaluation on Built-Up Timber Trusses in Late-Nineteenth- and Early-Twentieth-Century Buildings",
+"authors": "S. Patrick Sparks",
+"book_authors": "",
+"topics": "ENGINEERING; SPARKS, S. Patrick; TRUSSES; WOOD CONSTRUCTION"
+},
+{
+"id": "APT01602",
+"type": "Article",
+"year": "2005",
+"title": "Nondestructive Analysis of and Strengthening Design for a Historic Church Tower in Kentucky",
+"authors": "James A. Mason",
+"book_authors": "",
+"topics": "ENGINEERING; INVESTIGATIVE TECHNIQUES; KENTUCKY; MASONRY; RELIGIOUS BUILDINGS"
+},
+{
+"id": "APT01603",
+"type": "Article",
+"year": "2005",
+"title": "Monitoring the Long-term Performance of the Peace Tower in Ottawa",
+"authors": "M. Nady A. SaÔd; Don Duchesne; A. H. Paul Maurenbrecher; Khaled Ibrahim; Carole Lumsdon; Doug Stephenson",
+"book_authors": "",
+"topics": "ENGINEERING; INVESTIGATIVE TECHNIQUES; MAURENBRECHER, A. H. Paul; MONITORING SYSTEMS; OTTAWA, Ontario; PUBLIC BUILDINGS; SAID, M. Nady A."
+},
+{
+"id": "APT01604",
+"type": "Article",
+"year": "2005",
+"title": "Case Studies in Diagnosis and Repair of Historic Thin-Shell Concrete Structures",
+"authors": "Thomas E. Boothby; M. Kevin Parfitt; Charlene K. Roise",
+"book_authors": "",
+"topics": "CONCRETE; CORROSION; ENGINEERING; INVESTIGATIVE TECHNIQUES; MAINE; MASSACHUSETTS; PARFITT, M. Kevin; THEATERS"
+},
+{
+"id": "APT01605",
+"type": "Article",
+"year": "2005",
+"title": "A Mausoleum on Shaky Ground: de la Montanya Mausoleum, Cypress Lawn, Colma, California",
+"authors": "Carolyn L. Searls; Joshua M. Marrow; Ronald L. Mayes",
+"book_authors": "",
+"topics": "CALIFORNIA; CEMETERIES; ENGINEERING; INVESTIGATIVE TECHNIQUES; MONITORING SYSTEMS; SANDSTONE; SEISMIC SAFETY AND REHABILITATION"
+},
+{
+"id": "APT01606",
+"type": "Article",
+"year": "2005",
+"title": "Delaminations in Concrete: A Comparison of Two Common Nondestructive Testing Methods",
+"authors": "Linnea M. Linton",
+"book_authors": "",
+"topics": "CONCRETE; INVESTIGATIVE TECHNIQUES"
+},
+{
+"id": "APT01607",
+"type": "Article",
+"year": "2005",
+"title": "Wood Assessment and Repair of Gustav Stickley's Log House at Craftsman Farms, New Jersey",
+"authors": "Annabelle Radcliffe-Trenner; Ronald W. Anthony; Edmund P. Meade",
+"book_authors": "",
+"topics": "INVESTIGATIVE TECHNIQUES; LOG CONSTRUCTION; NEW JERSEY; STICKLEY, Gustav; WOOD, DETERIORATION AND TREATMENT"
+},
+{
+"id": "APT01608",
+"type": "Article",
+"year": "2005",
+"title": "Bridging the Gap: Using 3-D Laser Scanning in Historic-Building Documentation",
+"authors": "Karen E. Hughes; Elizabeth I. Louden",
+"book_authors": "",
+"topics": "ARCHITECTURAL DRAWINGS; ARCHITECTURAL SURVEYS; COMPUTER TECHNOLOGY; DOCUMENTATION; TEXAS"
+},
+{
+"id": "APT01609",
+"type": "Article",
+"year": "2005",
+"title": "'Let Us Raise a Standard...': The Preservation of Washington Square Arch in New York City",
+"authors": "Mark Rabinowitz; Robin Gerstad",
+"book_authors": "",
+"topics": "CLEANING; CONSTRUCTION MANAGEMENT; MASONRY; MCKIM, MEAD AND WHITE; MONUMENTS AND MEMORIALS; NEW YORK, New York"
+},
+{
+"id": "APT01610",
+"type": "Article",
+"year": "2005",
+"title": "Digital Reproduction of Historic Wallpaper at the Paul Laurence Dunbar House in Ohio",
+"authors": "Neal V. Hitch; Cheryl J. Lugg",
+"book_authors": "",
+"topics": "COMPUTER TECHNOLOGY; MUSEUMS, HISTORIC HOUSE; OHIO; WALL COVERINGS"
+},
+{
+"id": "APT01611",
+"type": "Article",
+"year": "2005",
+"title": "Comments in Memory of APT College of Fellows Members",
+"authors": "Marshall Elliott Carroll; Hugh C. Miller; Charles E. Peterson; Tomas H. Spiers, Jr.; Martin Weaver",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01612",
+"type": "Book review",
+"year": "2005",
+"title": "America's National Park Roads and Parkways: Drawings from the Historic American Engineering Record",
+"authors": "Anat Geva",
+"book_authors": "Timothy Davis; Todd A. Croteau; Christopher H. Marston; eds.",
+"topics": "HISTORIC AMERICAN ENGINEERING RECORD (HAER)"
+},
+{
+"id": "APT01613",
+"type": "Book review",
+"year": "2005",
+"title": "Measurement and Recording of Historic Buildings",
+"authors": "Jonathan Spodek",
+"book_authors": "Peter Swallow; Ross Dallas; Sophie Jackson; David Watt",
+"topics": "DOCUMENTATION"
+},
+{
+"id": "APT01614",
+"type": "Book review",
+"year": "2005",
+"title": "Giving Preservation a History: Histories of Historic Preservation in the United States",
+"authors": "Suzann D. Turner",
+"book_authors": "Max Page; Randall Mason; eds.",
+"topics": "HISTORIC PRESERVATION, HISTORY OF"
+},
+{
+"id": "APT01615",
+"type": "Book review",
+"year": "2005",
+"title": "Historic Preservation: Project Planning and Estimating",
+"authors": "Donald A. Swofford",
+"book_authors": "Swanke Hayden Connell Architects",
+"topics": "CONSTRUCTION MANAGEMENT; SWANKE HAYDEN CONNELL ARCHITECTS"
+},
+{
+"id": "APT01616",
+"type": "Guest editor note",
+"year": "2005",
+"title": "Building a Culture That Sustains Design",
+"authors": "Mike Jackson",
+"book_authors": "",
+"topics": "SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+},
+{
+"id": "APT01617",
+"type": "Article",
+"year": "2005",
+"title": "APT and Sustainability: The Halifax Symposium",
+"authors": "John D. Lesak",
+"book_authors": "",
+"topics": "SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+},
+{
+"id": "APT01618",
+"type": "Article",
+"year": "2005",
+"title": "Integrating Environmental and Cultural Sustainability for Heritage Properties",
+"authors": "Andrew Powter; Susan Ross",
+"book_authors": "",
+"topics": "HISTORIC PRESERVATION, PHILOSOPHY; RATING SYSTEMS; SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+},
+{
+"id": "APT01619",
+"type": "Article",
+"year": "2005",
+"title": "Should the Walls of Historic Buildings Be Insulated?",
+"authors": "William B. Rose",
+"book_authors": "",
+"topics": "ENERGY CONSERVATION; INSULATION; MOISTURE; SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+},
+{
+"id": "APT01620",
+"type": "Article",
+"year": "2005",
+"title": "Capturing Energy-Efficiency Opportunities in Historic Houses",
+"authors": "James Cavallo",
+"book_authors": "",
+"topics": "ENERGY CONSERVATION; ILLINOIS; RATING SYSTEMS; RESIDENCES; SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+},
+{
+"id": "APT01621",
+"type": "Article",
+"year": "2005",
+"title": "What Replacement Windows Can't Replace: The Real Cost of Removing Historic Windows",
+"authors": "Walter Sedovic; Jill Gotthelf; Jill H. Gotthelf",
+"book_authors": "",
+"topics": "ENERGY CONSERVATION; ENERGY, EMBODIED; GLASS AND GLAZING; SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation; WINDOWS"
+},
+{
+"id": "APT01622",
+"type": "Article",
+"year": "2005",
+"title": "Structural Materials in Historic Restoration: Environmental Issues and Greener Strategies",
+"authors": "Helena Meryman",
+"book_authors": "",
+"topics": "CONCRETE; IRON AND STEEL; RATING SYSTEMS; SPECIFICATIONS; STRUCTURAL PRESERVATION; SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation; WOOD CONSTRUCTION"
+},
+{
+"id": "APT01623",
+"type": "Article",
+"year": "2005",
+"title": "The Greening of the Samuel T. Dana Building: A Classroom and Laboratory for Sustainable Design",
+"authors": "Maggie McInnis; Ilene R. Tyler",
+"book_authors": "",
+"topics": "EDUCATIONAL BUILDINGS; ENERGY CONSERVATION; MICHIGAN; SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+},
+{
+"id": "APT01624",
+"type": "Article",
+"year": "2005",
+"title": "Embodied Energy: A Needed Reassessment",
+"authors": "Mike Jackson",
+"book_authors": "",
+"topics": "ENERGY, EMBODIED; SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+},
+{
+"id": "APT01625",
+"type": "Article",
+"year": "2005",
+"title": "Historic Preservation and Sustainable Development: Lots to Learn, Lots to Teach",
+"authors": "Carl Elefante",
+"book_authors": "",
+"topics": "SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+},
+{
+"id": "APT01626",
+"type": "Book review",
+"year": "2005",
+"title": "Canals",
+"authors": "Suzann D. Turner",
+"book_authors": "Robert J. Kapsch",
+"topics": "CANALS AND AQUEDUCTS"
+},
+{
+"id": "APT01627",
+"type": "Book review",
+"year": "2005",
+"title": "The Philosophy of Sustainable Design",
+"authors": "Susan D. Bronson",
+"book_authors": "Jason F. McLennan",
+"topics": "SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+},
+{
+"id": "APT01628",
+"type": "Letter",
+"year": "2006",
+"title": "In Memory of Charles E. Peterson, 1906-2004",
+"authors": "Penelope Hartshorne Batcheler; Jack E. Boucher; Jacques Dalibard; Eric Delony; Nicholas L. Gianopulos; Constance Greiff; Robert J. Kapsch; James C. Massey; Travis McDonald; Roger Moss; William Murtagh; Charles E. Peterson; Karin E. Peterson; Maria M. Thompson; Diana S. Waite; John G. Waite; Anne E. Weber; David G. Woodcock",
+"book_authors": "",
+"topics": "CLIVER, E. Blaine"
+},
+{
+"id": "APT01629",
+"type": "Article",
+"year": "2006",
+"title": "Prefabrication in the Gold-Rush Era: California, Australia, and the Pacific",
+"authors": "Miles B. Lewis",
+"book_authors": "",
+"topics": "AUSTRALIA; CALIFORNIA; CHINA; METAL BUILDINGS; PREFABRICATED BUILDINGS"
+},
+{
+"id": "APT01630",
+"type": "Article",
+"year": "2006",
+"title": "Cement and Concrete, Creativity and Community, and Charles E. Peterson",
+"authors": "David Gregory Cornelius",
+"book_authors": "",
+"topics": "CONCRETE; MCKEE, Harley J.; PETERSON, Charles E."
+},
+{
+"id": "APT01631",
+"type": "Article",
+"year": "2006",
+"title": "Structural Systems of the Bollman Truss Bridge at Savage, Maryland",
+"authors": "Sanjay R. Arwade; Liakos Ariston; Thomas Lydigsen",
+"book_authors": "",
+"topics": "BOLLMAN, Wendel; BRIDGES; MARYLAND; RAILROADS AND RAILROAD STATIONS; TRUSSES"
+},
+{
+"id": "APT01632",
+"type": "Article",
+"year": "2006",
+"title": "Discovery through Documentation: The Investigation of Historic and Cultural Resources",
+"authors": "David G. Woodcock",
+"book_authors": "",
+"topics": "ARCHITECTURAL DRAWINGS; DOCUMENTATION; HISTORIC AMERICAN BUILDINGS SURVEY (HABS)"
+},
+{
+"id": "APT01633",
+"type": "Article",
+"year": "2006",
+"title": "Dry-Press Brick: A Nineteenth-Century Innovation in Building Technology",
+"authors": "Susan Begley Broeksmit; Anne T. Sullivan",
+"book_authors": "",
+"topics": "BRICK AND BRICKWORK"
+},
+{
+"id": "APT01634",
+"type": "Article",
+"year": "2006",
+"title": "Preservation Technology Comes of Age in North America: Part 1",
+"authors": "Hugh C. Miller",
+"book_authors": "",
+"topics": "HISTORIC PRESERVATION, HISTORY OF"
+},
+{
+"id": "APT01635",
+"type": "Practice Point",
+"year": "2006",
+"title": "Successful Preservation Implementation: A Planned Approach to Risk Management",
+"authors": "Ronald D. Staley",
+"book_authors": "",
+"topics": "CONSTRUCTION MANAGEMENT; PROJECT MANAGEMENT"
+},
+{
+"id": "APT01636",
+"type": "Article",
+"year": "2006",
+"title": "Fallingwater Part 2: Materials-Conservation Efforts at Frank Lloyd Wright's Masterpiece",
+"authors": "Pamela Jerome; Norman R. Weiss; Hazel Ephron",
+"book_authors": "",
+"topics": "CONCRETE; MUSEUMS, HISTORIC HOUSE; PAINTS AND COATINGS; PENNSYLVANIA; ROOFS AND ROOFING; STONE; STUCCO; WRIGHT, Frank Lloyd"
+},
+{
+"id": "APT01637",
+"type": "Article",
+"year": "2006",
+"title": "Conservation in Tilting, Newfoundland: Rugged Landscape, Strong People, Fragile Architecture",
+"authors": "Robert Mellin",
+"book_authors": "",
+"topics": "HERITAGE TOURISM; HISTORIC DISTRICTS; LANDSCAPES AND GARDENS; NEWFOUNDLAND; OUTBUILDINGS"
+},
+{
+"id": "APT01638",
+"type": "Article",
+"year": "2006",
+"title": "Forensic-Investigation Methodology for Structures Experiencing Settlement",
+"authors": "Debra Laefer; Ashley Evans; Jon Frazier",
+"book_authors": "",
+"topics": "INVESTIGATIVE TECHNIQUES; MUSEUMS, HISTORIC HOUSE; NORTH CAROLINA; STRUCTURAL PRESERVATION"
+},
+{
+"id": "APT01639",
+"type": "Article",
+"year": "2006",
+"title": "A Practical Technique for Injection of Consolidants behind Wall and Ceiling Paintings",
+"authors": "George W. Adams",
+"book_authors": "",
+"topics": "CONSOLIDATION; MURALS; PLASTER; STABILIZATION"
+},
+{
+"id": "APT01640",
+"type": "Article",
+"year": "2006",
+"title": "The Development and Use of a Tablet PC Annotation System for Conditions Surveys",
+"authors": "James V. Banta; Kent Diebolt; Michael Gilbert",
+"book_authors": "",
+"topics": "ARCHITECTURAL SURVEYS; COMPUTER TECHNOLOGY; DOCUMENTATION"
+},
+{
+"id": "APT01641",
+"type": "Article",
+"year": "2006",
+"title": "Performance of Injection Adhesives for the Great Hall Ceiling at Drayton Hall, Charleston",
+"authors": "John Hinchman; Frank G. Matero; Alexander Radin",
+"book_authors": "",
+"topics": "ADHESIVES; CEILINGS; CONSOLIDATION; MUSEUMS, HISTORIC HOUSE; PLASTER; SOUTH CAROLINA; STABILIZATION"
+},
+{
+"id": "APT01642",
+"type": "Book review",
+"year": "2006",
+"title": "McKay's Building Construction, Volumes 1 to 3",
+"authors": "Suzann D. Turner",
+"book_authors": "Percy Guillemard; Lewellin Smith",
+"topics": "BOOK REVIEWS; HANDBOOKS AND GUIDES; ORTEGA, Richard I.; RUSSELL, Henry"
+},
+{
+"id": "APT01643",
+"type": "Book review",
+"year": "2006",
+"title": "Water in Buildings: An Architect's Guide to Moisture and Mold",
+"authors": "Hugh C. Miller",
+"book_authors": "William B. Rose",
+"topics": "BOOK REVIEWS; MOISTURE"
+},
+{
+"id": "APT01644",
+"type": "Book review",
+"year": "2006",
+"title": "Tweed Courthouse: A Model Restoration",
+"authors": "Robert A. Young",
+"book_authors": "John G. Waite; Nancy A. Rankin; Diana S. Waite",
+"topics": "BOOK REVIEWS; PUBLIC BUILDINGS"
+},
+{
+"id": "APT01645",
+"type": "Book review",
+"year": "2006",
+"title": "John Fowler: The Invention of the Country-House Style",
+"authors": "Ann Chance",
+"book_authors": "Helen Hughes; ed.",
+"topics": "BOOK REVIEWS; INTERIORS"
+},
+{
+"id": "APT01646",
+"type": "Book review",
+"year": "2006",
+"title": "McKay's Building Construction, Volumes 1 to 3 with intro.",
+"authors": "Richard I. Ortega",
+"book_authors": "Henry Russell",
+"topics": "MCKAY, William Barr"
+},
+{
+"id": "APT01647",
+"type": "Guest editor note",
+"year": "2006",
+"title": "Guest Editor's Note",
+"authors": "David G. Woodcock",
+"book_authors": "",
+"topics": "ARCHITECTURAL DESIGN AND HISTORIC PRESERVATION GUIDELINES; ASSOCIATION FOR PRESERVATION TECHNOLOGY (APT); GALVESTON, Texas; GENERAL SERVICES ADMINISTRATION (GSA), U.S.; NATIONAL PARK SERVICE, U.S."
+},
+{
+"id": "APT01648",
+"type": "Editorial",
+"year": "2006",
+"title": "Design Excellence and Historic Preservation",
+"authors": "Rolando Rivas-Camp",
+"book_authors": "",
+"topics": "ARCHITECTURAL DESIGN AND HISTORIC PRESERVATION GUIDELINES; GENERAL SERVICES ADMINISTRATION (GSA), U.S."
+},
+{
+"id": "APT01649",
+"type": "Article",
+"year": "2006",
+"title": "Gathering New Ideas for the Practice of Preservation through International Discussion",
+"authors": "Alene Reich",
+"book_authors": "",
+"topics": "ARCHITECTURAL DESIGN AND HISTORIC PRESERVATION GUIDELINES; CANADA; FRANCE; HISTORIC PRESERVATION, LAW AND LEGISLATION; HISTORIC PRESERVATION, PHILOSOPHY; MEXICO; UNITED STATES"
+},
+{
+"id": "APT01650",
+"type": "Article",
+"year": "2006",
+"title": "Respecting Significance and Keeping Integrity: Approaches to Rehabilitation",
+"authors": "Sharon C. Park",
+"book_authors": "",
+"topics": "ARCHITECTURAL DESIGN AND HISTORIC PRESERVATION GUIDELINES; HISTORIC PRESERVATION, GUIDELINES; HISTORIC PRESERVATION, LAW AND LEGISLATION; HISTORIC PRESERVATION, PHILOSOPHY"
+},
+{
+"id": "APT01651",
+"type": "Article",
+"year": "2006",
+"title": "Responding to Context: Changing Perspectives on Appropriate Change in Historic Settings",
+"authors": "Caroline R. Alderson",
+"book_authors": "",
+"topics": "ARCHITECTURAL DESIGN AND HISTORIC PRESERVATION GUIDELINES; HISTORIC PRESERVATION, GUIDELINES; HISTORIC PRESERVATION, PHILOSOPHY; PUBLIC BUILDINGS"
+},
+{
+"id": "APT01652",
+"type": "Article",
+"year": "2006",
+"title": "Designing for Building Performance: The Management of Change",
+"authors": "Jean C. Carroon; Bayard Whitmore; Karl Stumpf",
+"book_authors": "",
+"topics": "ARCHITECTURAL DESIGN AND HISTORIC PRESERVATION GUIDELINES; BUILDING CODES; MECHANICAL SYSTEMS; SECURITY AND HISTORIC BUILDINGS; SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+},
+{
+"id": "APT01653",
+"type": "Article",
+"year": "2006",
+"title": "Encouraging Excellence While Maintaining Standards: An Ongoing Discussion",
+"authors": "David G. Woodcock",
+"book_authors": "",
+"topics": "ARCHITECTURAL DESIGN AND HISTORIC PRESERVATION GUIDELINES; CHARTERS; HISTORIC PRESERVATION, GUIDELINES; HISTORIC PRESERVATION, PHILOSOPHY"
+},
+{
+"id": "APT01654",
+"type": "Article",
+"year": "2007",
+"title": "The Restoration of the Fifth Avenue Facades of the Metropolitan Museum of Art",
+"authors": "Timothy Allanbrook; Kyle C. Normandin",
+"book_authors": "",
+"topics": "FIDLER, John"
+},
+{
+"id": "APT01655",
+"type": "Article",
+"year": "2006",
+"title": "Standards for the Conservation of Historic Places in Canada",
+"authors": "",
+"book_authors": "",
+"topics": "HISTORIC PRESERVATION, GUIDELINES"
+},
+{
+"id": "APT01656",
+"type": "Article",
+"year": "2006",
+"title": "The Secretary of the Interior's Standards for Rehabilitation",
+"authors": "",
+"book_authors": "",
+"topics": "HISTORIC PRESERVATION, GUIDELINES"
+},
+{
+"id": "APT01657",
+"type": "Article",
+"year": "2006",
+"title": "The International Charter for the Conservation and Restoration of Monuments and Sites (Venice Charter)",
+"authors": "",
+"book_authors": "",
+"topics": "CHARTERS"
+},
+{
+"id": "APT01658",
+"type": "Article",
+"year": "2006",
+"title": "The International Burra Charter: The Australia ICOMOS Charter for the Conservation of Places of Cultural Significance",
+"authors": "",
+"book_authors": "",
+"topics": "CHARTERS"
+},
+{
+"id": "APT01659",
+"type": "Book review",
+"year": "2006",
+"title": "Conservation and Restoration of Glass",
+"authors": "Arthur Femenella",
+"book_authors": "Sandra Davison",
+"topics": "BOOK REVIEWS; GLASS AND GLAZING"
+},
+{
+"id": "APT01660",
+"type": "Book review",
+"year": "2006",
+"title": "Urban Memory: History and Amnesia in the Modern City",
+"authors": "Joseph T. Humann",
+"book_authors": "Mark Crimson; ed.",
+"topics": "BOOK REVIEWS; MODERN HERITAGE"
+},
+{
+"id": "APT01661",
+"type": "Book review",
+"year": "2006",
+"title": "Ancient Building Technology. Vol. 2: Materials",
+"authors": "Anat Geva",
+"book_authors": "G. R. H. Wright",
+"topics": "BOOK REVIEWS; WRIGHT, G. R. H."
+},
+{
+"id": "APT01662",
+"type": "Practice Point",
+"year": "2007",
+"title": "The Metropolitan Floor: Modern Analysis of an Archaic Structure",
+"authors": "Donald Friedman",
+"book_authors": "",
+"topics": "BUILDING CODES; FIRE PROTECTION; FLOORS AND FLOOR COVERINGS; IRON AND STEEL; STRUCTURAL PRESERVATION"
+},
+{
+"id": "APT01663",
+"type": "Article",
+"year": "2007",
+"title": "The Fallacies of Intent: 'Finishing' Frank Lloyd Wright's Guggenheim Museum",
+"authors": "Frank G. Matero; Robert FitzGerald",
+"book_authors": "",
+"topics": "CONCRETE; HISTORIC PRESERVATION, PHILOSOPHY; MUSEUMS; NEW YORK, New York; PAINTS AND COATINGS; PUBLIC BUILDINGS; WRIGHT, Frank Lloyd"
+},
+{
+"id": "APT01664",
+"type": "Article",
+"year": "2007",
+"title": "Paint, Caen Stone, and Acoustical Plaster at the Public Library in Mobile, Alabama",
+"authors": "Frank S. Welsh",
+"book_authors": "",
+"topics": "ALABAMA; CAEN STONE; PAINTS AND COATINGS; PLASTER; PUBLIC BUILDINGS"
+},
+{
+"id": "APT01665",
+"type": "Article",
+"year": "2007",
+"title": "The Effect of Pressed-Metal Ceilings on Floor Stiffness",
+"authors": "Michael O. Hunt; Robert R. Leavitt",
+"book_authors": "",
+"topics": "CEILINGS; FLOORS AND FLOOR COVERINGS; INVESTIGATIVE TECHNIQUES; METALS AND METALWORK; STRUCTURAL PRESERVATION"
+},
+{
+"id": "APT01666",
+"type": "Article",
+"year": "2007",
+"title": "Structural Modeling for Lateral Stiffness in Historic Truss Bridges",
+"authors": "Frederick R. Rutz; Kevin L. Rens; Veronica R. Jacobson; Shohreh Hamedian; Kazwan M. Elias; William B. Swigert",
+"book_authors": "",
+"topics": "BRIDGES; COLORADO; COMPUTER TECHNOLOGY; ENGINEERING; IRON AND STEEL; STRUCTURAL PRESERVATION; TRUSSES; WOOD CONSTRUCTION"
+},
+{
+"id": "APT01667",
+"type": "Article",
+"year": "2007",
+"title": "Earthen and Loam Building Technology in Austria",
+"authors": "Bruno Maldoner",
+"book_authors": "",
+"topics": "AUSTRIA; EARTHEN ARCHITECTURE; RESIDENCES; STRUCTURAL PRESERVATION; STUCCO; WATTLE-AND-DAUB CONSTRUCTION"
+},
+{
+"id": "APT01668",
+"type": "Book review",
+"year": "2007",
+"title": "Cements, Limes, and Plasters: Their Materials, Manufacture, and Properties",
+"authors": "John Lambert",
+"book_authors": "Edwin C. Eckel",
+"topics": "BOOK REVIEWS; MASONRY; PLASTER"
+},
+{
+"id": "APT01669",
+"type": "Book review",
+"year": "2007",
+"title": "Measuring America: How the United States was Shaped",
+"authors": "Anne Chance",
+"book_authors": "the Greatest Land Sale in History by Andro Linklater",
+"topics": "BOOK REVIEWS; CHANCE, Ann; LINKLATER, Andro; SURVEYING; UNITED STATES"
+},
+{
+"id": "APT01670",
+"type": "Book review",
+"year": "2007",
+"title": "Survey and Repair of Traditional Buildings: A Conservation and Sustainable Approach",
+"authors": "Susan D. Turner",
+"book_authors": "Richard Oxley",
+"topics": "BOOK REVIEWS; SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+},
+{
+"id": "APT01671",
+"type": "Book review",
+"year": "2007",
+"title": "Keeping Time: The History and Theory of Preservation in America, 3rd Edition",
+"authors": "Robert A. Young",
+"book_authors": "William J. Murtagh",
+"topics": "BOOK REVIEWS; HISTORIC PRESERVATION, HISTORY OF"
+},
+{
+"id": "APT01672",
+"type": "Book review",
+"year": "2007",
+"title": "Stone Conservation: Principles and Practice",
+"authors": "George Wheeler",
+"book_authors": "Alison Henry; ed.",
+"topics": "BOOK REVIEWS; STONE"
+},
+{
+"id": "APT01673",
+"type": "Book review",
+"year": "2007",
+"title": "The Restoration of Borobudur",
+"authors": "Steve Kelley",
+"book_authors": "I. G. N. Anom",
+"topics": "ANOM, I. G. N.; BOOK REVIEWS; KELLEY, Stephen J.; RELIGIOUS BUILDINGS"
+},
+{
+"id": "APT01674",
+"type": "Practice Point",
+"year": "2007",
+"title": "Basics of Wood Inspection: Considerations for Historic Preservation",
+"authors": "Ronald W. Anthony",
+"book_authors": "",
+"topics": "INVESTIGATIVE TECHNIQUES; WOOD CONSTRUCTION; WOOD, DETERIORATION AND TREATMENT"
+},
+{
+"id": "APT01675",
+"type": "Article",
+"year": "2007",
+"title": "Testing Alternatives to Conventional Air-Conditioning in Coastal Georgia",
+"authors": "Shin Maekawa; Vincent Beltran; Franciza Toledo",
+"book_authors": "",
+"topics": "CLIMATE; ENERGY CONSERVATION; GEORGIA; HEATING, VENTILATION, AND AIR-CONDITIONING; HUMIDITY; MOISTURE; SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+},
+{
+"id": "APT01676",
+"type": "Article",
+"year": "2007",
+"title": "Damage to Buildings from Future Climate and Pollution",
+"authors": "Peter Brimblecombe; Carlota M. Grossi",
+"book_authors": "",
+"topics": "ACID RAIN; ATMOSPHERIC POLLUTION; CLEANING; CLIMATE CHANGE"
+},
+{
+"id": "APT01677",
+"type": "Article",
+"year": "2007",
+"title": "Durability of Traditional and Modified Limewashes",
+"authors": "Sarah Marie Jackson; Tye Botting; Mary Striegel; Mary F. Striegel",
+"book_authors": "",
+"topics": "LIME; LOUISIANA; PAINTS AND COATINGS"
+},
+{
+"id": "APT01678",
+"type": "Article",
+"year": "2007",
+"title": "Fort Mackinac Restoration: Cost-Management Project Delivery",
+"authors": "Ronald D. Staley; Gregory Jones",
+"book_authors": "",
+"topics": "CONSTRUCTION MANAGEMENT; FORTS AND FORTRESSES; MICHIGAN; SPECIFICATIONS"
+},
+{
+"id": "APT01679",
+"type": "Article",
+"year": "2007",
+"title": "Holistic Approach to the Rehabilitation of Foundouks in Morocco",
+"authors": "Dina D'Ayala; Alex G. Copping",
+"book_authors": "",
+"topics": "HISTORIC PRESERVATION, PHILOSOPHY; MOROCCO; PLANNING; RESIDENCES"
+},
+{
+"id": "APT01680",
+"type": "Article",
+"year": "2007",
+"title": "New Life for the Chancel Window at Bigelow Chapel, Mount Auburn Cemetery, Massachusetts",
+"authors": "Meg L. Winslow; Julie L. Sloan; Roberto Rosa",
+"book_authors": "",
+"topics": "GLASS, PAINTED AND STAINED; MASSACHUSETTS; RELIGIOUS BUILDINGS; WINDOWS"
+},
+{
+"id": "APT01681",
+"type": "Article",
+"year": "2007",
+"title": "Case Study of a Church Bell Tower: Undoing Previous Inadequate Repairs",
+"authors": "Timothy M. Crowe",
+"book_authors": "",
+"topics": "CHICAGO, Illinois; RELIGIOUS BUILDINGS; WOOD CONSTRUCTION"
+},
+{
+"id": "APT01682",
+"type": "Article",
+"year": "2007",
+"title": "Water in Buildings",
+"authors": "William B. Rose",
+"book_authors": "",
+"topics": "LEE NELSON BOOK AWARD; MOISTURE"
+},
+{
+"id": "APT01683",
+"type": "Book review",
+"year": "2007",
+"title": "Gauged Brickwork: A Technical Handbook, 2nd Edition",
+"authors": "Matthew Nowakowski",
+"book_authors": "Gerard C. J. Lynch",
+"topics": "BOOK REVIEWS; BRICK AND BRICKWORK"
+},
+{
+"id": "APT01684",
+"type": "Book review",
+"year": "2007",
+"title": "Cleaning Techniques in Conservation Practice",
+"authors": "Dan M. Worth",
+"book_authors": "Kyle C. Normandin; Deborah Slaton; eds.",
+"topics": "BOOK REVIEWS; CLEANING"
+},
+{
+"id": "APT01685",
+"type": "Book review",
+"year": "2007",
+"title": "Modern Practical Masonry",
+"authors": "Richard I. Ortega",
+"book_authors": "Edmund George Warland; with intro. by Christopher Weeks",
+"topics": "BOOK REVIEWS; MASONRY"
+},
+{
+"id": "APT01686",
+"type": "Practice Point",
+"year": "2007",
+"title": "Through a Lens Clearly: Instrumental Analysis as Applied to Architectural Materials",
+"authors": "Joshua Freedland; L. Brad Shotwell; Deborah Slaton",
+"book_authors": "",
+"topics": "INVESTIGATIVE TECHNIQUES; SHOTWELL, L. Brad"
+},
+{
+"id": "APT01687",
+"type": "Article",
+"year": "2007",
+"title": "Is Preservation Technology Neutral?",
+"authors": "Robert Silman",
+"book_authors": "",
+"topics": "FIDLER, John; HISTORIC PRESERVATION, PHILOSOPHY; THEATERS"
+},
+{
+"id": "APT01688",
+"type": "Article",
+"year": "2007",
+"title": "Sound: Exploring a Character-Defining Feature of Historic Places",
+"authors": "Jonathan Gunderlach",
+"book_authors": "",
+"topics": "LANDSCAPES AND GARDENS; PENNSYLVANIA; RESIDENCES; SOUND"
+},
+{
+"id": "APT01689",
+"type": "Article",
+"year": "2007",
+"title": "The Development of Finite-Element Models and the Horizontal Thrust of Guastavino Domes",
+"authors": "Sezer Atamturktur; Thomas E. Boothby",
+"book_authors": "",
+"topics": "COMPUTER TECHNOLOGY; ENGINEERING; GUASTAVINO COMPANY; NEW YORK STATE; PENNSYLVANIA; TILE"
+},
+{
+"id": "APT01690",
+"type": "Article",
+"year": "2007",
+"title": "Effects of Vitrification on Traditional Terrazzo",
+"authors": "Tye Botting; James Guidry; Melissa Schmidt; Cole Stevens; Mary Striegel; Mary F. Striegel",
+"book_authors": "",
+"topics": "FLOORS AND FLOOR COVERINGS; MARBLE; STONE"
+},
+{
+"id": "APT01691",
+"type": "Article",
+"year": "2007",
+"title": "The Restoration of the Fifth Avenue Facades of the Metropolitan Museum of Art",
+"authors": "Timothy Allanbrook; Kyle C. Normandin",
+"book_authors": "",
+"topics": "CLEANING; MASONRY; MORTAR; MUSEUMS; NEW YORK, New York; ROOFS AND ROOFING"
+},
+{
+"id": "APT01692",
+"type": "Practice Point",
+"year": "2008",
+"title": "Mortar Analysis Part 1: Mortar-Making Materials",
+"authors": "Lorraine Schnabel",
+"book_authors": "",
+"topics": "INVESTIGATIVE TECHNIQUES; MORTAR"
+},
+{
+"id": "APT01693",
+"type": "Letter",
+"year": "2008",
+"title": "Letter to the Editor",
+"authors": "",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01694",
+"type": "Other",
+"year": "2008",
+"title": "In Memory of Jacques Dalibard, 1935-2007",
+"authors": "",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01695",
+"type": "Article",
+"year": "2008",
+"title": "A Flood of Light: H. H. Richardson’s Great Western Staircase at the New York State Capitol",
+"authors": "Niklas W. Vigener; James Jamieson",
+"book_authors": "",
+"topics": "GLASS AND GLAZING; NEW YORK STATE; PUBLIC BUILDINGS; ROOFS AND ROOFING; STAIRWAYS"
+},
+{
+"id": "APT01696",
+"type": "Article",
+"year": "2008",
+"title": "Identification of 1850s Brown Zinc Paint Made with Franklinite and Zincite at the U.S. Capitol",
+"authors": "Frank S. Welsh",
+"book_authors": "",
+"topics": "INVESTIGATIVE TECHNIQUES; PAINTS AND COATINGS; PUBLIC BUILDINGS; WASHINGTON, D.C."
+},
+{
+"id": "APT01697",
+"type": "Article",
+"year": "2008",
+"title": "Fabricating and Installing Side-Lap Roof Shingles in Eastern Pennsylvania",
+"authors": "James Houston; John N. Fugelso",
+"book_authors": "",
+"topics": "PENNSYLVANIA; ROOFS AND ROOFING; SKILLED TRADES; TOOLS AND TOOLMAKERS; WOOD CONSTRUCTION"
+},
+{
+"id": "APT01698",
+"type": "Article",
+"year": "2008",
+"title": "Rediscovering Sustainable Design Through Preservation: Bauhaus Apartments in Tel Aviv",
+"authors": "Anat Geva",
+"book_authors": "",
+"topics": "HEATING, VENTILATION, AND AIR-CONDITIONING; ISRAEL; RESIDENCES; SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+},
+{
+"id": "APT01700",
+"type": "Book review or minor item (index only)",
+"year": "2008",
+"title": "Conservation of Modern Architecture",
+"authors": "Jonathan C. Spodek",
+"book_authors": "Susan Macdonald; Kyle Normandin; Bob Kindred; ed.",
+"topics": "BOOK REVIEWS; MODERN HERITAGE; SPODEK, Jonathan"
+},
+{
+"id": "APT01701",
+"type": "Book review or minor item (index only)",
+"year": "2008",
+"title": "The Codes Guidebook for Interiors, 3rd Edition, and The Study Guide for The Codes Guidebook for Interiors",
+"authors": "Barbara A. Campagna",
+"book_authors": "Sharon Koomen Harmon; Katherine E. Kennon",
+"topics": "BOOK REVIEWS; BUILDING CODES; INTERIORS"
+},
+{
+"id": "APT01702",
+"type": "Book review or minor item (index only)",
+"year": "2008",
+"title": "Green Building Materials: A Guide to Product Selection and Specification, 2nd Edition",
+"authors": "Matthew Nowakowski",
+"book_authors": "Ross Speigel; Dru Meadows",
+"topics": "BOOK REVIEWS; SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+},
+{
+"id": "APT01703",
+"type": "Book review or minor item (index only)",
+"year": "2008",
+"title": "Plastering",
+"authors": "Robert A. Young",
+"book_authors": "J. T. Sawyer",
+"topics": "BOOK REVIEWS; CRAFTS; PLASTER; SAWYER, J. T.; SKILLED TRADES"
+},
+{
+"id": "APT01704",
+"type": "Practice Point",
+"year": "2008",
+"title": "Architectural Finishes: Research and Analysis",
+"authors": "Dorothy S. Krotzer",
+"book_authors": "",
+"topics": "INVESTIGATIVE TECHNIQUES; PAINTS AND COATINGS"
+},
+{
+"id": "APT01705",
+"type": "Guest editor note",
+"year": "2008",
+"title": "An Introduction to Authenticity in Preservation",
+"authors": "Pamela Jerome",
+"book_authors": "",
+"topics": "AUTHENTICITY; CHARTERS; HISTORIC PRESERVATION, GUIDELINES; HISTORIC PRESERVATION, PHILOSOPHY; PAINTS AND COATINGS; WORLD HERITAGE CONVENTION; WRIGHT, Frank Lloyd"
+},
+{
+"id": "APT01706",
+"type": "Article",
+"year": "2008",
+"title": "Origins and Influence of the Nara Document on Authenticity",
+"authors": "Herb Stovel",
+"book_authors": "",
+"topics": "AUTHENTICITY; CHARTERS; HISTORIC PRESERVATION, GUIDELINES; HISTORIC PRESERVATION, PHILOSOPHY; WORLD HERITAGE CONVENTION"
+},
+{
+"id": "APT01707",
+"type": "Article",
+"year": "2008",
+"title": "From Warsaw to Mostar: The World Heritage Committee and Authenticity",
+"authors": "Christina Cameron",
+"book_authors": "",
+"topics": "AUTHENTICITY; BOSNIA-HERZEGOVINA; BRIDGES; CHARTERS; HISTORIC PRESERVATION, GUIDELINES; HISTORIC PRESERVATION, PHILOSOPHY; MONUMENTS AND MEMORIALS; POLAND; WORLD HERITAGE CONVENTION"
+},
+{
+"id": "APT01708",
+"type": "Article",
+"year": "2008",
+"title": "Considering the Authenticity of Cultural Landscapes",
+"authors": "Nora J. Mitchell",
+"book_authors": "",
+"topics": "AUTHENTICITY; CHARTERS; HISTORIC PRESERVATION, GUIDELINES; HISTORIC PRESERVATION, PHILOSOPHY; VERMONT; WORLD HERITAGE CONVENTION"
+},
+{
+"id": "APT01709",
+"type": "Article",
+"year": "2008",
+"title": "World-Heritage Historic Urban Landscapes: Defining and Protecting Authenticity",
+"authors": "Gustavo F. Araoz",
+"book_authors": "",
+"topics": "AUTHENTICITY; CHARTERS; HISTORIC PRESERVATION, GUIDELINES; HISTORIC PRESERVATION, PHILOSOPHY; WORLD HERITAGE CONVENTION"
+},
+{
+"id": "APT01710",
+"type": "Article",
+"year": "2008",
+"title": "The Nara Grid: An Evaluation Scheme Based on the Nara Document on Authenticity",
+"authors": "Koenraad Van Balen",
+"book_authors": "",
+"topics": "AUTHENTICITY; BELGIUM; CHARTERS; HISTORIC PRESERVATION, GUIDELINES; HISTORIC PRESERVATION, PHILOSOPHY; WORLD HERITAGE CONVENTION"
+},
+{
+"id": "APT01711",
+"type": "Article",
+"year": "2008",
+"title": "Applying Authenticity to Cultural Landscapes",
+"authors": "Mechtild Rössler",
+"book_authors": "",
+"topics": "AUTHENTICITY; CHARTERS; HISTORIC PRESERVATION, GUIDELINES; HISTORIC PRESERVATION, PHILOSOPHY; LANDSCAPES AND GARDENS; R÷SSLER, Mechtild; WORLD HERITAGE CONVENTION"
+},
+{
+"id": "APT01712",
+"type": "Article",
+"year": "2008",
+"title": "Regional Authenticity: An Argument for Reconstruction in Oceania",
+"authors": "Jennifer Ko",
+"book_authors": "",
+"topics": "AUTHENTICITY; CHARTERS; HISTORIC PRESERVATION, GUIDELINES; HISTORIC PRESERVATION, PHILOSOPHY; OCEANIA; WORLD HERITAGE CONVENTION"
+},
+{
+"id": "APT01713",
+"type": "Article",
+"year": "2008",
+"title": "Authenticity in Aboriginal Cultural Landscapes",
+"authors": "Thomas D. Andrews; Susan Buggey",
+"book_authors": "",
+"topics": "AUTHENTICITY; CHARTERS; HISTORIC PRESERVATION, GUIDELINES; HISTORIC PRESERVATION, PHILOSOPHY; NORTHWEST TERRITORIES; WORLD HERITAGE CONVENTION"
+},
+{
+"id": "APT01714",
+"type": "Letter",
+"year": "2008",
+"title": "Letter to the Editor",
+"authors": "",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01715",
+"type": "Article",
+"year": "2008",
+"title": "The Legacy of French Colonialism: Preservation in Morocco’s Fez Medina",
+"authors": "Stacy E. Holden",
+"book_authors": "",
+"topics": "HISTORIC PRESERVATION, HISTORY OF; HISTORIC PRESERVATION, PHILOSOPHY; MOROCCO; RELIGIOUS BUILDINGS"
+},
+{
+"id": "APT01716",
+"type": "Article",
+"year": "2008",
+"title": "Reproducing Historic Wallpapers at the Grand Opera House, Meridian, Mississippi",
+"authors": "Christopher Mills",
+"book_authors": "",
+"topics": "COMPUTER TECHNOLOGY; MISSISSIPPI; SUBSTITUTE MATERIALS; THEATERS; WALL COVERINGS"
+},
+{
+"id": "APT01717",
+"type": "Article",
+"year": "2008",
+"title": "High-Calcium Lime Mortar: The Effects of Traditional Preparation and Curing",
+"authors": "Dagmar Michoinová; Pavla Rovnaníková",
+"book_authors": "",
+"topics": "INVESTIGATIVE TECHNIQUES; MICHOINOV¡, Dagmar; MORTAR; PLASTER; ROVNANÕKOV¡, Pavla; STUCCO"
+},
+{
+"id": "APT01718",
+"type": "Article",
+"year": "2008",
+"title": "Appropriate Means to an Appropriate End: Industry, Modernism, and Preservation",
+"authors": "David N. Fixler",
+"book_authors": "",
+"topics": "AUTHENTICITY; HISTORIC PRESERVATION, PHILOSOPHY; MODERN HERITAGE"
+},
+{
+"id": "APT01719",
+"type": "Article",
+"year": "2008",
+"title": "Using Natural Resources for Ventilation: The Application of Badgirs in Preservation",
+"authors": "Fatemeh Mehdizadeh Saradj",
+"book_authors": "",
+"topics": "ENERGY CONSERVATION; HEATING, VENTILATION, AND AIR-CONDITIONING; IRAN; SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+},
+{
+"id": "APT01720",
+"type": "Article",
+"year": "2008",
+"title": "Grouting as a Strengthening Technique for Earthen Structures in Seismic Areas",
+"authors": "Charu Chaudhry; Koenraad Van Balen",
+"book_authors": "",
+"topics": "ARCHEOLOGY; BOLIVIA; EARTHEN ARCHITECTURE; INVESTIGATIVE TECHNIQUES; MASONRY"
+},
+{
+"id": "APT01721",
+"type": "Other",
+"year": "2008",
+"title": "Montreal Conference Sponsor List",
+"authors": "",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01722",
+"type": "Article",
+"year": "2009",
+"title": "Sustainable Heritage: Challenges and Strategies for the Twenty-First Century",
+"authors": "May Cassar",
+"book_authors": "",
+"topics": "CLIMATE CHANGE; ENERGY CONSERVATION; ENGLISH HERITAGE; SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+},
+{
+"id": "APT01723",
+"type": "Article",
+"year": "2009",
+"title": "The Use of Lasers for Cleaning Large Architectural Structures",
+"authors": "Andrzej Dajnowski; Adam Jenkins; Andrew Lins",
+"book_authors": "",
+"topics": "CHICAGO, Illinois; CLEANING; MUSEUMS; PHILADELPHIA, Pennsylvania; SANDSTONE"
+},
+{
+"id": "APT01724",
+"type": "Article",
+"year": "2009",
+"title": "Mortar Injection: A Case Study of the Villa Medicis in Rome",
+"authors": "Mary B. Brush; Didier Repellin",
+"book_authors": "",
+"topics": "ITALY; MASONRY; MORTAR"
+},
+{
+"id": "APT01725",
+"type": "Article",
+"year": "2009",
+"title": "Blanketing the Home: The Use of Thermal Insulation in American Housing, 1920–1945",
+"authors": "Joanna Dowling",
+"book_authors": "",
+"topics": "INSULATION; RESIDENCES; ROOFS AND ROOFING"
+},
+{
+"id": "APT01726",
+"type": "Article",
+"year": "2009",
+"title": "Analyzing Mortars and Stuccos at the College of Charleston: A Comprehensive Approach",
+"authors": "Dorothy S. Krotzer; John J. Walsh",
+"book_authors": "",
+"topics": "EDUCATIONAL BUILDINGS; INVESTIGATIVE TECHNIQUES; MORTAR; SOUTH CAROLINA; STUCCO"
+},
+{
+"id": "APT01727",
+"type": "Article",
+"year": "2009",
+"title": "Abandoned in the Wilderness: Survival and Rescue at the Adirondack Iron Works",
+"authors": "Janet A. Null",
+"book_authors": "",
+"topics": "COMMERCIAL BUILDINGS; IRON AND STEEL; MASONRY; NEW YORK STATE; RESIDENCES; STONE; WOOD CONSTRUCTION"
+},
+{
+"id": "APT01728",
+"type": "Article",
+"year": "2009",
+"title": "Condition Evaluation of Facades of Nineteenth-Century New York City Walk-Ups",
+"authors": "Mark Davis; Dan Eschenasy",
+"book_authors": "",
+"topics": "BRICK AND BRICKWORK; INVESTIGATIVE TECHNIQUES; MASONRY; NEW YORK, New York; STONE"
+},
+{
+"id": "APT01729",
+"type": "Practice Point",
+"year": "2009",
+"title": "Mortar Analysis Part 2: Analytical Methods",
+"authors": "Lorraine Schnabel",
+"book_authors": "",
+"topics": "COMPUTER TECHNOLOGY; INVESTIGATIVE TECHNIQUES; MORTAR; X-RAY ANALYSIS"
+},
+{
+"id": "APT01730",
+"type": "Article",
+"year": "2009",
+"title": "A Grading Protocol for Structural Lumber and Timber in Historic Structures",
+"authors": "Ronald W. Anthony; Kimberly D. Dugan; Deborah J. Anthony",
+"book_authors": "",
+"topics": "COMPUTER TECHNOLOGY; INVESTIGATIVE TECHNIQUES; STRUCTURAL PRESERVATION; WOOD CONSTRUCTION; WOOD, DETERIORATION AND TREATMENT"
+},
+{
+"id": "APT01731",
+"type": "Article",
+"year": "2009",
+"title": "An Analysis of the Thermal Performance of Repaired and Replacement Windows",
+"authors": "Robert Score; Bradford S. Carpenter",
+"book_authors": "",
+"topics": "ENERGY CONSERVATION; GENERAL SERVICES ADMINISTRATION (GSA), U.S.; WASHINGTON, D.C.; WINDOWS"
+},
+{
+"id": "APT01732",
+"type": "Article",
+"year": "2009",
+"title": "Sustainable Solutions for Historic Buildings: Geothermal Heat Pumps in Heritage Preservation",
+"authors": "Thomas Perry; Carl A. Jay",
+"book_authors": "",
+"topics": "BOSTON, Massachusetts; EDUCATIONAL BUILDINGS; HEATING, VENTILATION, AND AIR-CONDITIONING; RELIGIOUS BUILDINGS; SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+},
+{
+"id": "APT01733",
+"type": "Article",
+"year": "2009",
+"title": "Did It Work? Post-Restoration Evaluation of Terra Cotta at Atlanta City Hall",
+"authors": "Sven E. Thomasen",
+"book_authors": "",
+"topics": "GEORGIA; INVESTIGATIVE TECHNIQUES; PUBLIC BUILDINGS; STRUCTURAL PRESERVATION; TERRA-COTTA"
+},
+{
+"id": "APT01734",
+"type": "Article",
+"year": "2009",
+"title": "Conservation Treatments for Earthen Structures in the Western Himalayas of India",
+"authors": "Charu Chaudhry; Sandeep Sikka",
+"book_authors": "",
+"topics": "ADOBE; EARTHEN ARCHITECTURE; INDIA; INVESTIGATIVE TECHNIQUES; RELIGIOUS BUILDINGS"
+},
+{
+"id": "APT01735",
+"type": "Article",
+"year": "2009",
+"title": "Lee Nelson Award Winner 2008: Preservation of Modern Architecture",
+"authors": "Theodore H. M. Prudon",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01737",
+"type": "Book review or minor item (index only)",
+"year": "2009",
+"title": "Mannahatta: A Natural History of New York City",
+"authors": "Robert Z. Melnick",
+"book_authors": "Eric W. Sanderson",
+"topics": "BOOK REVIEWS; LANDSCAPES AND GARDENS; NEW YORK, New York"
+},
+{
+"id": "APT01738",
+"type": "Book review or minor item (index only)",
+"year": "2009",
+"title": "Historic Preservation Technology",
+"authors": "Susan D. Turner",
+"book_authors": "Robert A. Young",
+"topics": "BOOK REVIEWS; HISTORIC PRESERVATION, GUIDELINES"
+},
+{
+"id": "APT01739",
+"type": "Book review or minor item (index only)",
+"year": "2009",
+"title": "Preservation of Modern Architecture",
+"authors": "Theodore H. M. Prudon; Robert A. Young",
+"book_authors": "",
+"topics": "AUTHENTICITY; BOOK REVIEWS; HISTORIC PRESERVATION, PHILOSOPHY; LEE NELSON BOOK AWARD; MODERN HERITAGE"
+},
+{
+"id": "APT01740",
+"type": "Editorial",
+"year": "2009",
+"title": "Introduction to the Fortieth-Anniversary Issue",
+"authors": "Brian S. Robinson; David G. Woodcock; Diana S. Waite",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01741",
+"type": "Article",
+"year": "2009",
+"title": "Towards a New Era of Cultural-Heritage Recording and Documentation",
+"authors": "Robert Warden",
+"book_authors": "",
+"topics": "COMPUTER TECHNOLOGY; DOCUMENTATION; LANDSCAPES AND GARDENS"
+},
+{
+"id": "APT01742",
+"type": "Article",
+"year": "2009",
+"title": "Safety and Building Codes: The Recent Past and Future for Historic Structures",
+"authors": "Marilyn E. Kaplan",
+"book_authors": "",
+"topics": "BUILDING CODES; FIRE PROTECTION; HISTORIC PRESERVATION, LAW AND LEGISLATION"
+},
+{
+"id": "APT01743",
+"type": "Article",
+"year": "2009",
+"title": "Sustainable Design in Historic Buildings: Foundations and the Future",
+"authors": "Baird M. Smith; Carl Elefante",
+"book_authors": "",
+"topics": "ENERGY CONSERVATION; ENERGY, EMBODIED; HISTORIC PRESERVATION, GUIDELINES; SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+},
+{
+"id": "APT01744",
+"type": "Article",
+"year": "2009",
+"title": "Preservation Engineering: Past, Present, and Future",
+"authors": "Derek Trelstad; Robert Silman",
+"book_authors": "",
+"topics": "ASSOCIATION FOR PRESERVATION TECHNOLOGY (APT); ENGINEERING; HISTORIC PRESERVATION, HISTORY OF; INVESTIGATIVE TECHNIQUES"
+},
+{
+"id": "APT01745",
+"type": "Article",
+"year": "2009",
+"title": "Climate Change and Landscape Preservation: A Twenty-First-Century Conundrum",
+"authors": "Robert Z. Melnick",
+"book_authors": "",
+"topics": "CLIMATE CHANGE; LANDSCAPES AND GARDENS; SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+},
+{
+"id": "APT01746",
+"type": "Article",
+"year": "2009",
+"title": "Academic Preparation for Preservation Practice",
+"authors": "David G. Woodcock",
+"book_authors": "",
+"topics": "ASSOCIATION FOR PRESERVATION TECHNOLOGY (APT); COMPUTER TECHNOLOGY; HISTORIC PRESERVATION, EDUCATION"
+},
+{
+"id": "APT01747",
+"type": "Article",
+"year": "2009",
+"title": "Making the Project Real: Changes in Delivery of Concept to Construction",
+"authors": "Ronald D. Staley; H. Thomas McGrath Jr.; David C. Overholt; Thomas R. Whitmore",
+"book_authors": "",
+"topics": "ASSOCIATION FOR PRESERVATION TECHNOLOGY (APT); COMPUTER TECHNOLOGY; HISTORIC PRESERVATION, EDUCATION; HISTORIC PRESERVATION, HISTORY OF; MCGRATH, H. Thomas, Jr.; SKILLED TRADES"
+},
+{
+"id": "APT01748",
+"type": "Article",
+"year": "2009",
+"title": "Update on Building-Materials Research",
+"authors": "Frances Gale; Norman R. Weiss",
+"book_authors": "",
+"topics": "ASSOCIATION FOR PRESERVATION TECHNOLOGY (APT); HISTORIC PRESERVATION, GUIDELINES; HISTORIC PRESERVATION, HISTORY OF"
+},
+{
+"id": "APT01749",
+"type": "Article",
+"year": "2009",
+"title": "Make No Small Plans: How Strategic Planning Shaped APT from 1995 to 2008",
+"authors": "Natalie Bull",
+"book_authors": "",
+"topics": "ASSOCIATION FOR PRESERVATION TECHNOLOGY (APT); HISTORIC PRESERVATION, HISTORY OF"
+},
+{
+"id": "APT01750",
+"type": "Article",
+"year": "2009",
+"title": "Dissemination of Knowledge through Publication",
+"authors": "Diana S. Waite",
+"book_authors": "",
+"topics": "ASSOCIATION FOR PRESERVATION TECHNOLOGY (APT); COMPUTER TECHNOLOGY; DOCUMENTATION"
+},
+{
+"id": "APT01751",
+"type": "Other",
+"year": "2009",
+"title": "APT Historical Supplement, 1968-2008",
+"authors": "",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01752",
+"type": "Practice Point",
+"year": "2010",
+"title": "Using Dry Ice for Spray-Paint Removal on Weathering Steel",
+"authors": "Mary B. Brush",
+"book_authors": "",
+"topics": "CHICAGO, Illinois; CLEANING; IRON AND STEEL"
+},
+{
+"id": "APT01753",
+"type": "Editorial",
+"year": "2010",
+"title": "Editor’s Note",
+"authors": "Diana S. Waite",
+"book_authors": "",
+"topics": "ASSOCIATION FOR PRESERVATION TECHNOLOGY (APT); SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+},
+{
+"id": "APT01754",
+"type": "Guest editor note",
+"year": "2010",
+"title": "Coming of Age",
+"authors": "Walter Sedovic",
+"book_authors": "",
+"topics": "ASSOCIATION FOR PRESERVATION TECHNOLOGY (APT); SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+},
+{
+"id": "APT01755",
+"type": "Article",
+"year": "2010",
+"title": "Saving Energy in Historic Buildings: Balancing Efficiency and Value",
+"authors": "John H. Cluver; Brad Randall",
+"book_authors": "",
+"topics": "COMPUTER TECHNOLOGY; EDUCATIONAL BUILDINGS; ENERGY CONSERVATION; INVESTIGATIVE TECHNIQUES; NEW YORK STATE; SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+},
+{
+"id": "APT01756",
+"type": "Article",
+"year": "2010",
+"title": "Green Home-Rating Systems: A Preservation Perspective",
+"authors": "Mike Jackson",
+"book_authors": "",
+"topics": "ENERGY CONSERVATION; HISTORIC PRESERVATION, GUIDELINES; RATING SYSTEMS; RESIDENCES; SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+},
+{
+"id": "APT01757",
+"type": "Article",
+"year": "2010",
+"title": "Sustainable Heritage Conservation: Pere Marquette Railroad Depot in Michigan",
+"authors": "Ilene R. Tyler; Ann K. Dilcher",
+"book_authors": "",
+"topics": "MICHIGAN; RAILROADS AND RAILROAD STATIONS; SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+},
+{
+"id": "APT01758",
+"type": "Article",
+"year": "2010",
+"title": "Thermal Performance of Traditional Windows and Low-Cost Energy-Saving Retrofits",
+"authors": "Paul Baker; Roger Curtis; Craig Kennedy; Chris Wood",
+"book_authors": "",
+"topics": "ENERGY CONSERVATION; ENGLISH HERITAGE; GREAT BRITAIN; SCOTLAND; SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation; WINDOWS"
+},
+{
+"id": "APT01759",
+"type": "Article",
+"year": "2010",
+"title": "Sustainability: The Case for Long-Term Service Life and Built-In Redundancy",
+"authors": "Pamela Jerome",
+"book_authors": "",
+"topics": "CURTAIN WALLS (NONBEARING WALLS); GREAT BRITAIN; GREECE; NEW YORK, New York; ROOFS AND ROOFING; SEALANTS; SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation; TURKEY; WINDOWS"
+},
+{
+"id": "APT01760",
+"type": "Article",
+"year": "2010",
+"title": "Teaching Sustainability to Preservation Students",
+"authors": "Jeffrey Chusid",
+"book_authors": "",
+"topics": "HISTORIC PRESERVATION, EDUCATION; SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+},
+{
+"id": "APT01762",
+"type": "Book review or minor item (index only)",
+"year": "2010",
+"title": "Living Buildings: Architectural Conservation: Philosophy, Principles and Practice",
+"authors": "John A. Fidler",
+"book_authors": "Donald W. Insall",
+"topics": "BOOK REVIEWS; FIDLER, John; GREAT BRITAIN; HISTORIC PRESERVATION, PHILOSOPHY"
+},
+{
+"id": "APT01763",
+"type": "Book review or minor item (index only)",
+"year": "2010",
+"title": "Windows: History, Repair and Conservation",
+"authors": "John G. Waite",
+"book_authors": "Michael Tutton; Elizabeth Hirst; Jill Pearce; ed.",
+"topics": "BOOK REVIEWS; WINDOWS"
+},
+{
+"id": "APT01764",
+"type": "Book review or minor item (index only)",
+"year": "2010",
+"title": "Long Island Landscapes and the Women Who Designed Them",
+"authors": "Laurie Matthews",
+"book_authors": "Cynthia Zaitzevsky",
+"topics": "BOOK REVIEWS; LANDSCAPES AND GARDENS; NEW YORK STATE"
+},
+{
+"id": "APT01765",
+"type": "Book review or minor item (index only)",
+"year": "2010",
+"title": "Zinc Sculpture in America",
+"authors": "Mark Rabinowitz",
+"book_authors": "Carol A. Grissom",
+"topics": "BOOK REVIEWS; SCULPTURE"
+},
+{
+"id": "APT01766",
+"type": "Book review or minor item (index only)",
+"year": "2010",
+"title": "Don't Tear it Down: Preserving the Earthquake Resistant Vernacular Architecture of Kashmir",
+"authors": "Robert A. Young",
+"book_authors": "Randolph Langenbach",
+"topics": "BOOK REVIEWS; INDIA; SEISMIC SAFETY AND REHABILITATION"
+},
+{
+"id": "APT01767",
+"type": "Practice Point",
+"year": "2010",
+"title": "Nondestructive Evaluation: Structural Performance of Masonry",
+"authors": "Donald W. Harvey Jr.; Michael P. Schuller",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01768",
+"type": "Article",
+"year": "2010",
+"title": "Maintaining a Stable Environment: Vasa’s New Climate-Control System",
+"authors": "Emma Hocker",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01769",
+"type": "Article",
+"year": "2010",
+"title": "Red “Staining” on Marble: Biological or Inorganic Origin?",
+"authors": "Carol A. Grissom; Claire Gervais; Nicole C. Little; Genevieve Bieniosek; Robert J. Speakman",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01770",
+"type": "Article",
+"year": "2010",
+"title": "Fire Protection of the Las Flores Adobe in San Diego, California",
+"authors": "Douglas Porter; Nick Artim",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01771",
+"type": "Article",
+"year": "2010",
+"title": "Restoration of Akoustolith Tile at Saint John the Divine, New York City",
+"authors": "Laura Buchner",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01772",
+"type": "Article",
+"year": "2010",
+"title": "Cast Pyrex Glass Block: Illuminating Its History and Conservation Issues",
+"authors": "Mary Jablonski",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01773",
+"type": "Article",
+"year": "2010",
+"title": "Using Ground-Penetrating Radar to Investigate Historic Masonry Buildings",
+"authors": "James S. Mellett; Shelley E. Smith",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01774",
+"type": "Article",
+"year": "2010",
+"title": "“First Principles” in Conservation: The UNESCO Asia-Pacific Heritage Awards",
+"authors": "Richard A. Engelhardt",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01776",
+"type": "Practice Point",
+"year": "2010",
+"title": "Nondestructive Evaluation: Wood",
+"authors": "Ronald W. Anthony",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01777",
+"type": "Other",
+"year": "2010",
+"title": "Capturing the Past for Future Use: Documentation Symposium Program",
+"authors": "",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01778",
+"type": "Guest editor note",
+"year": "2010",
+"title": "Guest Editor’s Note",
+"authors": "David G. Woodcock",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01779",
+"type": "Article",
+"year": "2010",
+"title": "Informed Conservation: The Place of Research and Documentation in Preservation",
+"authors": "Kate Clark",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01780",
+"type": "Article",
+"year": "2010",
+"title": "Government Policy and Practice: Digital Conservation and Landscape Renewal",
+"authors": "Caroline R. Alderson; Beth L. Savage; Charles Matta; Calvin Kam; Anne E. Weber",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01781",
+"type": "Article",
+"year": "2010",
+"title": "The Role of HABS in the Field of Architectural Documentation",
+"authors": "Catherine C. Lavoie",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01782",
+"type": "Article",
+"year": "2010",
+"title": "Metric Survey for Preservation Uses: Past, Present, and Future",
+"authors": "Paul Bryan",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01783",
+"type": "Article",
+"year": "2010",
+"title": "Information Technology for Building Documentation",
+"authors": "Kelly Streeter",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01784",
+"type": "Article",
+"year": "2010",
+"title": "Building Information Modeling for Constructing the Past and Its Future",
+"authors": "David M. Foxe",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01785",
+"type": "Article",
+"year": "2010",
+"title": "From HABS to BIM: Personal Experiences, Thoughts, and Reflections",
+"authors": "George C. Skarmeas",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01786",
+"type": "Practice Point",
+"year": "2011",
+"title": "Mortar Analysis Part 3: Buying the Right Services",
+"authors": "Lorraine Schnabel",
+"book_authors": "",
+"topics": ""
+},
+{
+"id": "APT01787",
+"type": "Article",
+"year": "2011",
+"title": "The Macrotube: An Inexpensive Device to Improve Photodocumentation of Surfaces",
+"authors": "L. Brad Shotwell; Joshua Freedland; David A. Waugh",
+"book_authors": "",
+"topics": "DOCUMENTATION; SHOTWELL, L. Brad"
+},
+{
+"id": "APT01788",
+"type": "Article",
+"year": "2011",
+"title": "Millenary Earthen Architecture in the Tropical Lowlands of Mexico",
+"authors": "Annick Daneels; Luis Fernando Guerrero-Baca",
+"book_authors": "",
+"topics": "MEXICO"
+},
+{
+"id": "APT01789",
+"type": "Article",
+"year": "2011",
+"title": "Assessment, Analysis, and Management of Lenticular-Truss Bridges",
+"authors": "Thomas E. Boothby",
+"book_authors": "",
+"topics": "BRIDGES"
+},
+{
+"id": "APT01790",
+"type": "Article",
+"year": "2011",
+"title": "Water Testing Stained Glass Windows at Saint Thomas Church, New York City",
+"authors": "Julie L. Sloan",
+"book_authors": "",
+"topics": "NEW YORK, New York"
+},
+{
+"id": "APT01791",
+"type": "Article",
+"year": "2011",
+"title": "Hygrothermal Modeling of Brick Masonry Using Empirically Determined Properties",
+"authors": "Vinay V. Badami",
+"book_authors": "",
+"topics": "BRICK AND BRICKWORK"
+},
+{
+"id": "APT01792",
+"type": "Article",
+"year": "2011",
+"title": "The Development of Hydraulic Mortars, Cement, and Concrete in Puerto Rico",
+"authors": "Beatriz del Cueto",
+"book_authors": "",
+"topics": "PUERTO RICO"
+},
+{
+"id": "APT01794",
+"type": "Book review or minor item (index only)",
+"year": "2011",
+"title": "Guastavino Vaulting: The Art of Structural Tile",
+"authors": "Richard Ortega",
+"book_authors": "John Ochsendorf",
+"topics": "BOOK REVIEWS; ORTEGA, Richard I."
+},
+{
+"id": "APT01795",
+"type": "Book review or minor item (index only)",
+"year": "2011",
+"title": "Structural Investigation of Historic Buildings: A Case Study Guide to Preservation Technology for Buildings, Bridges, Towers, and Mills",
+"authors": "John E. Dumsick",
+"book_authors": "David C. Fischetti",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01796",
+"type": "Book review or minor item (index only)",
+"year": "2011",
+"title": "Plastering, Plain and Decorative",
+"authors": "Richard O. Byrne",
+"book_authors": "William Millar; George P. Bankart; ed.",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01797",
+"type": "Practice Point",
+"year": "2011",
+"title": "Conditions Glossaries as a Tool in the Survey Process: A Review of Several Glossaries",
+"authors": "Evan Kopelson",
+"book_authors": "",
+"topics": "DOCUMENTATION"
+},
+{
+"id": "APT01798",
+"type": "Guest editor note",
+"year": "2011",
+"title": "Modern Heritage: Progress, Priorities, and Prognosis",
+"authors": "Thomas C. Jester; David N. Fixler",
+"book_authors": "",
+"topics": "MODERN HERITAGE; SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+},
+{
+"id": "APT01799",
+"type": "Article",
+"year": "2011",
+"title": "Reassessing the Recent Past: Tower Neighborhood Renewal in Toronto",
+"authors": "Michael McClelland; Graeme Stewart; Asrai Ord",
+"book_authors": "",
+"topics": "ENERGY CONSERVATION; MODERN HERITAGE; RESIDENCES; TORONTO, Ontario"
+},
+{
+"id": "APT01800",
+"type": "Article",
+"year": "2011",
+"title": "Modern Continuity: Seattle’s Magnolia Branch Library Renovation and Addition",
+"authors": "David Strauss",
+"book_authors": "",
+"topics": "EDUCATIONAL BUILDINGS; LANDSCAPES AND GARDENS; MODERN HERITAGE; PUBLIC BUILDINGS; SEATTLE, Washington; WOOD CONSTRUCTION"
+},
+{
+"id": "APT01801",
+"type": "Article",
+"year": "2011",
+"title": "Preservation of Modern-Era Office Buildings and Their Environmental Controls",
+"authors": "Vanessa Fernandez",
+"book_authors": "",
+"topics": "CURTAIN WALLS (NONBEARING WALLS); ENERGY CONSERVATION; GLASS AND GLAZING; MODERN HERITAGE; PARIS, France; SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation; WINDOWS"
+},
+{
+"id": "APT01802",
+"type": "Article",
+"year": "2011",
+"title": "Sustainable Restoration of Yale University’s Art + Architecture Building",
+"authors": "Russell M. Sanders; Benjamin Shepherd; Elizabeth Skowronek; Alison Hoffmann",
+"book_authors": "",
+"topics": "EDUCATIONAL BUILDINGS; ENERGY CONSERVATION; MODERN HERITAGE; NEW HAVEN, Connecticut; SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+},
+{
+"id": "APT01803",
+"type": "Article",
+"year": "2011",
+"title": "Conserving Otto Piene’s Kinetic-Light Sculptures in the Hawaii State Capitol",
+"authors": "Rosa Lowinger",
+"book_authors": "",
+"topics": "CLEANING; HAWAII; LIGHTING; MODERN HERITAGE; PUBLIC BUILDINGS; SCULPTURE"
+},
+{
+"id": "APT01804",
+"type": "Article",
+"year": "2011",
+"title": "Preserving Health: Modern Hospitals as Historic Places",
+"authors": "Cameron Logan",
+"book_authors": "",
+"topics": "ADAPTIVE USE; HOSPITALS; MODERN HERITAGE"
+},
+{
+"id": "APT01805",
+"type": "Article",
+"year": "2011",
+"title": "The Modern Plaza: Making More from Less",
+"authors": "Kenneth M. Itle; Harry J. Hunderman",
+"book_authors": "",
+"topics": "EDUCATIONAL BUILDINGS; ILLINOIS; MODERN HERITAGE; MOISTURE; PAVING; RESIDENCES; TEXAS"
+},
+{
+"id": "APT01806",
+"type": "Article",
+"year": "2011",
+"title": "Reglazing Frank Lloyd Wright’s Solomon R. Guggenheim Museum in New York City",
+"authors": "Angel Ayón; William Rose",
+"book_authors": "",
+"topics": "GLASS AND GLAZING; MODERN HERITAGE; MUSEUMS; NEW YORK, New York; WINDOWS; WRIGHT, Frank Lloyd"
+},
+{
+"id": "APT01807",
+"type": "Article",
+"year": "2011",
+"title": "Conserving Twentieth-Century Built Heritage: A Bibliography",
+"authors": "Susan MacDonald; Gail Ostergren",
+"book_authors": "",
+"topics": "BIBLIOGRAPHIES; MODERN HERITAGE"
+},
+{
+"id": "APT01809",
+"type": "Book review or minor item (index only)",
+"year": "2011",
+"title": "Catalogue of the Andrew Alpern Collection of Drawing Instruments at the Avery Architectural and Fine Arts Library, Columbia University in the City of New York",
+"authors": "David G. Woodcock",
+"book_authors": "Andrew Alpern",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01810",
+"type": "Book review or minor item (index only)",
+"year": "2011",
+"title": "Greening Modernism: Preservation, Sustainability, and the Modern Movement",
+"authors": "David N. Fixler",
+"book_authors": "Carl Stein",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01811",
+"type": "Book review or minor item (index only)",
+"year": "2011",
+"title": "Sustainable Preservation: Greening Existing Buildings",
+"authors": "Hugh C. Miller",
+"book_authors": "Jean Carroon",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01812",
+"type": "Book review or minor item (index only)",
+"year": "2011",
+"title": "Practical Masonry: A Guide to the Art of Stone Cutting",
+"authors": "Richard O. Byrne",
+"book_authors": "William R. Purchase",
+"topics": "BOOK REVIEWS"
+},
+{
+"id": "APT01813",
+"type": "Article",
+"year": "2011",
+"title": "Conservation of the Hollow Tree in Vancouver’s Stanley Park",
+"authors": "Harold Kalman; Lorne Whitehead",
+"book_authors": "",
+"topics": "HERITAGE TOURISM; LANDSCAPES AND GARDENS; STRUCTURAL PRESERVATION; VANCOUVER, British Columbia"
+},
+{
+"id": "APT01814",
+"type": "Article",
+"year": "2011",
+"title": "Investigation of Painted Wood at Mission San Miguel Arcangel in California",
+"authors": "Douglas W. Porter; Ronald W. Anthony; Kimberly D. Dugan",
+"book_authors": "",
+"topics": "CALIFORNIA; INTERIORS; INVESTIGATIVE TECHNIQUES; PAINTS AND COATINGS; RELIGIOUS BUILDINGS; WOOD CONSTRUCTION; WOOD, DETERIORATION AND TREATMENT"
+},
+{
+"id": "APT01815",
+"type": "Article",
+"year": "2011",
+"title": "Underneath the Historic D.C. Courthouse: Solving Building Foundation Challenges",
+"authors": "James W. Shepherd; Nicole Ferran",
+"book_authors": "",
+"topics": "MASONRY; PUBLIC BUILDINGS; STRUCTURAL PRESERVATION; WASHINGTON, D.C."
+},
+{
+"id": "APT01816",
+"type": "Article",
+"year": "2011",
+"title": "The House that Mather Built: The Rangers’ Club at Yosemite National Park",
+"authors": "George Jaramillo",
+"book_authors": "",
+"topics": "CALIFORNIA; MATHER, Stephen T.; NATIONAL PARK SERVICE, U.S.; NATIONAL PARKS; RESIDENCES"
+},
+{
+"id": "APT01817",
+"type": "Article",
+"year": "2011",
+"title": "Early Electrical Wiring Systems in American Buildings, 1890-1930",
+"authors": "LaLuce D. Mitchell",
+"book_authors": "",
+"topics": "ELECTRICAL SYSTEMS; LIGHTING"
+},
+{
+"id": "APT01818",
+"type": "Article",
+"year": "2011",
+"title": "Improving Hygrothermal Performance of a Historic Building in British Columbia",
+"authors": "John Dam",
+"book_authors": "",
+"topics": "ADAPTIVE USE; BRITISH COLUMBIA; ENERGY CONSERVATION; MOISTURE; TERRA-COTTA"
+},
+{
+"id": "APT01819",
+"type": "Article",
+"year": "2011",
+"title": "A Brief History of Lightning Protection and the Components of a Lightning-Protection System",
+"authors": "Matthew Seymour",
+"book_authors": "",
+"topics": "LIGHTNING PROTECTION"
+},
+{
+"id": "APT01821",
+"type": "Book review or minor item (index only)",
+"year": "2011",
+"title": "Geomaterials Under the Microscope, A Colour Guide: Building Stone, Roofing Slate, Aggregate, Concrete, Mortar, Plaster, Bricks, Ceramics, and Bitumous Mixtures",
+"authors": "Lorraine Schnabel",
+"book_authors": "Jeremy P. Ingham",
+"topics": "BOOK REVIEWS; INVESTIGATIVE TECHNIQUES"
+},
+{
+"id": "APT01822",
+"type": "Book review or minor item (index only)",
+"year": "2011",
+"title": "Comparative Architectural Details, A Selection from Pencil Points, 1932-1937",
+"authors": "John R. Volz",
+"book_authors": "Milton Wilfred Grenfell; ed.",
+"topics": "BOOK REVIEWS; DOCUMENTATION"
+},
+{
+"id": "APT01823",
+"type": "Article",
+"year": "2012",
+"title": "Conserving the Future: The Need for Sustainability in City Planning and Preservation",
+"authors": "Mark Holland",
+"book_authors": "",
+"topics": "PLANNING; SUSTAINABILITY AND HISTORIC PRESERVATION. See also Energy Conservation"
+}
+]

@@ -1,0 +1,2377 @@
+[
+ {
+  "file": "01_55.1-2_TOC.txt",
+  "volume": 55,
+  "issue": "1/2",
+  "year": 2025,
+  "items": [
+   {
+    "title": "Editor’s Note",
+    "authors": [
+     "Josie Madison"
+    ],
+    "page": 3,
+    "section": "editorial",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Guest Editors’ Note",
+    "authors": [
+     "Elizabeth Corbin Murphy",
+     "Frances Gale"
+    ],
+    "page": 5,
+    "section": "guest_editor",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Chapter 1: Introduction",
+    "authors": [
+     "Nigel Isaacs"
+    ],
+    "page": 7,
+    "section": "article",
+    "pp_number": null,
+    "note": "Chapter of the special-issue monograph “The Hidden History of Building Paper, 1868–1919”; TOC prints author Nigel Isaacs once for the whole issue"
+   },
+   {
+    "title": "Chapter 2: Revolution, 1868–1883",
+    "authors": [
+     "Nigel Isaacs"
+    ],
+    "page": 15,
+    "section": "article",
+    "pp_number": null,
+    "note": "Chapter of the special-issue monograph “The Hidden History of Building Paper, 1868–1919”; TOC prints author Nigel Isaacs once for the whole issue"
+   },
+   {
+    "title": "Chapter 3: Evolution of Major Market Players, 1876–1919",
+    "authors": [
+     "Nigel Isaacs"
+    ],
+    "page": 27,
+    "section": "article",
+    "pp_number": null,
+    "note": "Chapter of the special-issue monograph “The Hidden History of Building Paper, 1868–1919”; TOC prints author Nigel Isaacs once for the whole issue"
+   },
+   {
+    "title": "Chapter 4: Protecting the Brand",
+    "authors": [
+     "Nigel Isaacs"
+    ],
+    "page": 49,
+    "section": "article",
+    "pp_number": null,
+    "note": "Chapter of the special-issue monograph “The Hidden History of Building Paper, 1868–1919”; TOC prints author Nigel Isaacs once for the whole issue"
+   },
+   {
+    "title": "Chapter 5: Domochronology",
+    "authors": [
+     "Nigel Isaacs"
+    ],
+    "page": 73,
+    "section": "article",
+    "pp_number": null,
+    "note": "Chapter of the special-issue monograph “The Hidden History of Building Paper, 1868–1919”; TOC prints author Nigel Isaacs once for the whole issue"
+   },
+   {
+    "title": "Directory of Advertisers",
+    "authors": [],
+    "page": 81,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "APT Membership Information",
+    "authors": [],
+    "page": 83,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   }
+  ],
+  "note": "Special Issue: The Hidden History of Building Paper, 1868–1919. Year from © line."
+ },
+ {
+  "file": "02_55.3_Bulletin_TOC.txt",
+  "volume": 55,
+  "issue": "3",
+  "year": 2025,
+  "items": [
+   {
+    "title": "Editor’s Note",
+    "authors": [
+     "Josie Madison"
+    ],
+    "page": 3,
+    "section": "editorial",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "In Memory of Hugh Clark Miller",
+    "authors": [
+     "Michael A. Tomlan"
+    ],
+    "page": 5,
+    "section": "other",
+    "pp_number": null,
+    "note": "In memoriam"
+   },
+   {
+    "title": "Reconstructing the Reconstructions: Preserving Concrete Churches in Picardy, France",
+    "authors": [
+     "Thomas E. Boothby"
+    ],
+    "page": 7,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Dating Construction with Tree Rings and Sapwood When Felling Dates Are Unavailable",
+    "authors": [
+     "Darrin L. Rubino",
+     "Sarah A. Malone",
+     "Christopher Baas"
+    ],
+    "page": 15,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Challenges in Concrete Conservation for the Central Market in Hong Kong",
+    "authors": [
+     "Vishal Joshi",
+     "Pamela Jerome",
+     "Sandeep Sikka",
+     "Douglas Emilio",
+     "Yuhui Ouyang"
+    ],
+    "page": 23,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Opening the Drapes: Shedding Light on Draped-Mesh Cinder-Concrete Floor Slabs",
+    "authors": [
+     "Lauren P. Feinstein",
+     "Kevin C. Poulin"
+    ],
+    "page": null,
+    "section": "practice_point",
+    "pp_number": 28,
+    "note": "Follows page 30 (insert; no page number)"
+   },
+   {
+    "title": "Testing the Effects of Glyphosate Herbicide Alternatives on Historic Building Materials",
+    "authors": [
+     "Abigail Poe",
+     "Catherine Cooper"
+    ],
+    "page": 39,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Vernacular Preservation of the Postindustrial Landscape with Geospatial Technology",
+    "authors": [
+     "John D. M. Arnold",
+     "Don Lafreniere"
+    ],
+    "page": 53,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Building Technology Heritage Library",
+    "authors": [
+     "Mike Jackson"
+    ],
+    "page": 60,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Book Reviews",
+    "authors": [],
+    "page": 62,
+    "section": "book_reviews",
+    "pp_number": null,
+    "note": "Book Review Co-Editors: Lesley Gilmore, Ilene R. Tyler"
+   },
+   {
+    "title": "Directory of Advertisers",
+    "authors": [],
+    "page": 52,
+    "section": "other",
+    "pp_number": null,
+    "note": "Page printed as 52 (out of sequence; as printed)"
+   },
+   {
+    "title": "APT Membership Information",
+    "authors": [],
+    "page": 67,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   }
+  ],
+  "note": "Year from © line."
+ },
+ {
+  "file": "03_Graffiti_54-1-2_TOC.txt",
+  "volume": 54,
+  "issue": "1/2",
+  "year": 2024,
+  "items": [
+   {
+    "title": "Editor’s Note",
+    "authors": [
+     "Diana S. Waite"
+    ],
+    "page": 3,
+    "section": "editorial",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Guest Editors’ Note",
+    "authors": [
+     "Kelly Ciociola",
+     "Stephanie Hoagland",
+     "Sarah Holder"
+    ],
+    "page": 5,
+    "section": "guest_editor",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Paint in Paradise: Graffiti as a Tool in Preserving the Miami Marine Stadium",
+    "authors": [
+     "Rosa Lowinger",
+     "Jason Loyd Clement"
+    ],
+    "page": 7,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Battle Hall Historic Graffiti: Analysis of the Writing on the Wall",
+    "authors": [
+     "Frances Gale",
+     "Izabella Z. Nuckels",
+     "Tara A. Dudley",
+     "Joseph G. Barabe"
+    ],
+    "page": 15,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Names, Games, and Dames: Civil War Military Graffiti Conservation at Historic Blenheim",
+    "authors": [
+     "Mary Jablonski"
+    ],
+    "page": 23,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Paint of Protest and Commemoration: A Berlin Wall Section at the United Nations",
+    "authors": [
+     "Brooke Russell",
+     "Gillian Randell",
+     "Mary Slater"
+    ],
+    "page": 33,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Beyond Removal: Determining Significance for the Preservation of Graffiti",
+    "authors": [
+     "Stephanie Hoagland"
+    ],
+    "page": null,
+    "section": "practice_point",
+    "pp_number": 26,
+    "note": "Follows page 40 (insert; no page number)"
+   },
+   {
+    "title": "Laser Techniques for the Removal of Graffiti in Remote Locations",
+    "authors": [
+     "Andrzej Dajnowski",
+     "Bartek Dajnowski",
+     "Jamie Morris"
+    ],
+    "page": 49,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "“Appropriately and Effectively”: A Graffiti Management Plan for Rapid Response Teams",
+    "authors": [
+     "Jocelyn Chan",
+     "John D. Lesak",
+     "Sarah E. Brummett",
+     "Urmila Srinivasan"
+    ],
+    "page": 57,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Lessons from the Global South: Community Engagement for Decolonization and Decarbonization",
+    "authors": [
+     "Yasmeen Lari"
+    ],
+    "page": 65,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Building Technology Heritage Library",
+    "authors": [
+     "Mike Jackson"
+    ],
+    "page": 73,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Directory of Advertisers",
+    "authors": [],
+    "page": 73,
+    "section": "other",
+    "pp_number": null,
+    "note": "TOC prints 73 for both this and Building Technology Heritage Library"
+   },
+   {
+    "title": "Book Reviews",
+    "authors": [],
+    "page": 75,
+    "section": "book_reviews",
+    "pp_number": null,
+    "note": "Book Review Co-Editors: Lesley Gilmore, Natascha Wiener"
+   },
+   {
+    "title": "APT Membership Information",
+    "authors": [],
+    "page": 79,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   }
+  ],
+  "note": "Special Issue: Graffiti. Text layer garbled by stray digits; verified against PDF. Year from © line."
+ },
+ {
+  "file": "04_TOC_54(3-4).txt",
+  "volume": 54,
+  "issue": "3/4",
+  "year": 2025,
+  "items": [
+   {
+    "title": "Editor’s Note",
+    "authors": [
+     "Diana S. Waite"
+    ],
+    "page": 3,
+    "section": "editorial",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Guest Editor’s Note",
+    "authors": [
+     "Janet Parks"
+    ],
+    "page": 5,
+    "section": "guest_editor",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "A Catalyst for Conservation: The Discovery of a Cemetery’s Archives",
+    "authors": [
+     "Susan Olsen"
+    ],
+    "page": 7,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "The Preservation Archive at Drayton Hall: The Role of Documentation in Preserving a Landmark",
+    "authors": [
+     "Patricia Lowe Smith"
+    ],
+    "page": 15,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Preserving the Work of Frank Lloyd Wright through the Use of Archival Materials",
+    "authors": [
+     "John H. Waters"
+    ],
+    "page": 21,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Digital Archiving of Underrepresented Heritage: Cabins of the Enslaved, LGBTQ+ Sites, and Rosenwald Schools",
+    "authors": [
+     "Benjamin Baaske",
+     "Megan S. Reed",
+     "Catherine Cooper",
+     "Isabella Jones",
+     "Jason Church"
+    ],
+    "page": 29,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Upgrading Climate-Control Systems in Historic Buildings: An Integrated Design Thinking Approach",
+    "authors": [
+     "Cindy Cogil",
+     "Steven Barrett"
+    ],
+    "page": null,
+    "section": "practice_point",
+    "pp_number": 27,
+    "note": "Follows page 38 (insert; no page number)"
+   },
+   {
+    "title": "Architectural Archives: Actors and Objects in Heritage Preservation",
+    "authors": [
+     "Salvatore Aprea",
+     "Barbara Galimberti"
+    ],
+    "page": 49,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Suggestions for Searching for Architectural Archives",
+    "authors": [
+     "Janet Parks"
+    ],
+    "page": 59,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Building Technology Heritage Library",
+    "authors": [
+     "Mike Jackson"
+    ],
+    "page": 63,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Book Reviews",
+    "authors": [],
+    "page": 65,
+    "section": "book_reviews",
+    "pp_number": null,
+    "note": "Book Review Co-Editors: Lesley Gilmore, Ilene R. Tyler"
+   },
+   {
+    "title": "Index to Volume LIV",
+    "authors": [],
+    "page": 74,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Directory of Advertisers",
+    "authors": [],
+    "page": 57,
+    "section": "other",
+    "pp_number": null,
+    "note": "Page printed as 57 (out of sequence; as printed)"
+   },
+   {
+    "title": "APT Membership Information",
+    "authors": [],
+    "page": 79,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   }
+  ],
+  "note": "Special Issue: Architectural Archives. © 2025 printed (volume 54). Copy is a JSTOR download. Verified against PDF."
+ },
+ {
+  "file": "05_TOC_55.4_Bulletin-4.txt",
+  "volume": 55,
+  "issue": "4",
+  "year": 2025,
+  "items": [
+   {
+    "title": "Editor’s Note",
+    "authors": [
+     "Josie Madison"
+    ],
+    "page": 3,
+    "section": "editorial",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Rebuilding Notre-Dame: Lessons in Documentation for Heritage Conservation",
+    "authors": [
+     "Lindsay S. Cook"
+    ],
+    "page": 5,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "The Mysterious Deplated Finish: The Color of 1930s Aluminum",
+    "authors": [
+     "Preston Hull"
+    ],
+    "page": 13,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Steel Window Restoration: Effective Strategies for Restoring and Upgrading Historic Steel Windows",
+    "authors": [
+     "Arthur Femenella Sr.",
+     "Arthur Femenella Jr."
+    ],
+    "page": null,
+    "section": "practice_point",
+    "pp_number": 29,
+    "note": "Follows page 22 (insert; no page number)"
+   },
+   {
+    "title": "The Frick Collection: Modernizing Circulation and Preserving a Historic Cornice",
+    "authors": [
+     "Kevin C. Poulin",
+     "David A. Ribbans",
+     "Lauren P. Feinstein",
+     "Filippo Masetti"
+    ],
+    "page": 33,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Monumental Failure: The Loss of Graffiti on Richmond’s Former Confederate Monuments",
+    "authors": [
+     "Bryan Clark Green"
+    ],
+    "page": 41,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Building Technology Heritage Library",
+    "authors": [
+     "Mike Jackson"
+    ],
+    "page": 49,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Book Reviews",
+    "authors": [],
+    "page": 51,
+    "section": "book_reviews",
+    "pp_number": null,
+    "note": "Book Review Co-Editors: Lesley Gilmore, Ilene R. Tyler"
+   },
+   {
+    "title": "Index to Volume LV",
+    "authors": [],
+    "page": 57,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Directory of Advertisers",
+    "authors": [],
+    "page": 60,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "APT Membership Information",
+    "authors": [],
+    "page": 61,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   }
+  ],
+  "note": "Year from © line."
+ },
+ {
+  "file": "06_TOC_56.1_Bulletin.txt",
+  "volume": 56,
+  "issue": "1",
+  "year": 2026,
+  "items": [
+   {
+    "title": "Editor’s Note",
+    "authors": [
+     "Josie Madison"
+    ],
+    "page": 3,
+    "section": "editorial",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Guest Editors’ Note",
+    "authors": [
+     "Evanne St. Charles",
+     "Lori Ferriss"
+    ],
+    "page": 5,
+    "section": "guest_editor",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "In Memory of Frank G. Matero",
+    "authors": [
+     "Jeanne Marie Teutonico"
+    ],
+    "page": 6,
+    "section": "other",
+    "pp_number": null,
+    "note": "In memoriam"
+   },
+   {
+    "title": "Historic Buildings, Modern Goals: Navigating Decarbonization in Preservation",
+    "authors": [
+     "Nakita Reed",
+     "Angela Wyrembelski"
+    ],
+    "page": 9,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Aligning Building Performance Standards with Historic Preservation",
+    "authors": [
+     "Sean Denniston"
+    ],
+    "page": 19,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Quantifying Embodied Carbon in Preservation",
+    "authors": [
+     "Lori Ferriss"
+    ],
+    "page": null,
+    "section": "practice_point",
+    "pp_number": 30,
+    "note": "Follows page 26 (insert; no page number)"
+   },
+   {
+    "title": "Market One and the Stanley Center: Approaches to Decarbonization in Historic and Nonhistoric Buildings",
+    "authors": [
+     "Lyndley Kent"
+    ],
+    "page": 37,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Guidance for the Embodied Carbon Accounting of Structural Interventions to Historic and Existing Structures",
+    "authors": [
+     "Eleanor Phetteplace",
+     "Tim Michiels"
+    ],
+    "page": 45,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Directory of Advertisers",
+    "authors": [],
+    "page": 53,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Building Technology Heritage Library",
+    "authors": [
+     "Mike Jackson"
+    ],
+    "page": 55,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Book Reviews",
+    "authors": [],
+    "page": 57,
+    "section": "book_reviews",
+    "pp_number": null,
+    "note": "Book Review Co-Editors: Lesley Gilmore, Ilene R. Tyler"
+   },
+   {
+    "title": "APT Membership Information",
+    "authors": [],
+    "page": 63,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   }
+  ],
+  "note": "Special Issue: Decarbonizing the Built Environment through Heritage. Year from © line."
+ },
+ {
+  "file": "07_52.4_Contents.txt",
+  "volume": 52,
+  "issue": "4",
+  "year": 2022,
+  "items": [
+   {
+    "title": "Editor’s Note",
+    "authors": [
+     "Diana S. Waite"
+    ],
+    "page": 3,
+    "section": "editorial",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Guest Editor’s Note",
+    "authors": [
+     "Ronald W. Anthony"
+    ],
+    "page": 5,
+    "section": "guest_editor",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Plywood in Twentieth-Century Built Heritage: Considerations for Conservation",
+    "authors": [
+     "Suzana Radivojevic",
+     "Chad Randl"
+    ],
+    "page": 7,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Open-Web Wood Trusses: Wood Behavior under Unanticipated Loading Conditions",
+    "authors": [
+     "Ronald W. Anthony",
+     "Brian D. Aschim"
+    ],
+    "page": 17,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Purified Linseed Oil: Considerations for Use on Historic Wood",
+    "authors": [
+     "Erin Gibbs",
+     "Katherine Wonson"
+    ],
+    "page": 25,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Considering Modern Fire Codes in Replacing Wood-Shingle and Wood-Shake Roofing",
+    "authors": [
+     "Samuel Zabb-Parmley"
+    ],
+    "page": 33,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Preservation of the Aerial Tramway at Keane Wonder Mine, Death Valley, California",
+    "authors": [
+     "Douglas Porter",
+     "Michael Cotroneo"
+    ],
+    "page": 41,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Hidden Queen-Post Trusses: Discovery, Analysis, and Repairs at Princeton Theological Seminary",
+    "authors": [
+     "Annabelle Radcliffe-Trenner",
+     "Edmund P. Meade"
+    ],
+    "page": 49,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Building Diplomacy: Preserving Wood at the U.S. Department of State’s Culturally Significant Properties Abroad",
+    "authors": [
+     "Lauren R. Hall",
+     "John E. Dumsick"
+    ],
+    "page": 55,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Building Technology Heritage Library",
+    "authors": [
+     "Mike Jackson"
+    ],
+    "page": 64,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Book Reviews",
+    "authors": [],
+    "page": 66,
+    "section": "book_reviews",
+    "pp_number": null,
+    "note": "Book Review Co-Editors: Lesley Gilmore, Natascha Wiener"
+   },
+   {
+    "title": "Directory of Advertisers",
+    "authors": [],
+    "page": 68,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Volume 52 Index",
+    "authors": [],
+    "page": 70,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "APT Membership Information",
+    "authors": [],
+    "page": 75,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   }
+  ],
+  "note": "Special Issue: Wood. No Practice Points listed. Year from © line."
+ },
+ {
+  "file": "08_53.1_Contents.txt",
+  "volume": 53,
+  "issue": "1",
+  "year": 2022,
+  "items": [
+   {
+    "title": "Editor’s Note",
+    "authors": [
+     "Diana S. Waite"
+    ],
+    "page": 3,
+    "section": "editorial",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Active Infrared Thermography as a Nondestructive Investigative Tool to Locate Evidence of Historic Hardware",
+    "authors": [
+     "Lucy Midelfort"
+    ],
+    "page": 5,
+    "section": "article",
+    "pp_number": null,
+    "note": "Text layer reads 55; PDF image shows 5"
+   },
+   {
+    "title": "Performance Testing of Coatings for Repairing Terra-Cotta Glaze Spalls",
+    "authors": [
+     "Lauren J. DiCenzo",
+     "Carolyn L. Searls"
+    ],
+    "page": 13,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "“Things That Should Look Permanent Forever”: The Challenges of Preserving the Washington Metro",
+    "authors": [
+     "Zachary M. Schrag"
+    ],
+    "page": 19,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Fire-Safety Approaches for Historic Buildings in the United States",
+    "authors": [
+     "Timothy R. Costello"
+    ],
+    "page": null,
+    "section": "practice_point",
+    "pp_number": 23,
+    "note": "Follows page 28 (insert; no page number)"
+   },
+   {
+    "title": "Contested Monuments, A Critical Issue in Times of Turmoil: A Report from the 2021 College of Fellows Roundtable",
+    "authors": [
+     "Sharon C. Park",
+     "Rosa Lowinger",
+     "Beth L. Savage",
+     "Theresa Pasqual",
+     "Bryan Clark Green",
+     "Brent Leggs"
+    ],
+    "page": 39,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Rediscovering Clara Barton’s Missing Soldiers Office in Washington, D.C.",
+    "authors": [
+     "Caroline Alderson",
+     "Jeff Greene"
+    ],
+    "page": 49,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Building Technology Heritage Library",
+    "authors": [
+     "Mike Jackson"
+    ],
+    "page": 57,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Lee Nelson Book Award 2021",
+    "authors": [],
+    "page": 58,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Book Reviews",
+    "authors": [],
+    "page": 61,
+    "section": "book_reviews",
+    "pp_number": null,
+    "note": "Book Review Co-Editors: Lesley Gilmore, Natascha Wiener"
+   },
+   {
+    "title": "Directory of Advertisers",
+    "authors": [],
+    "page": 62,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "APT Membership Information",
+    "authors": [],
+    "page": 63,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   }
+  ],
+  "note": "Year from © line (2022)."
+ },
+ {
+  "file": "09_53.2-3_Contents.txt",
+  "volume": 53,
+  "issue": "2/3",
+  "year": 2022,
+  "items": [
+   {
+    "title": "Editor’s Note",
+    "authors": [
+     "Diana S. Waite"
+    ],
+    "page": 3,
+    "section": "editorial",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Guest Editors’ Note",
+    "authors": [
+     "Chris Gembinski",
+     "Lorraine Schnabel"
+    ],
+    "page": 5,
+    "section": "guest_editor",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Material Matters",
+    "authors": [
+     "Frank Matero"
+    ],
+    "page": 7,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "When the Material Becomes the Protagonist: Debating Reconstruction and Authenticity in Southern Europe",
+    "authors": [
+     "Shirley Cefai",
+     "JoAnn Cassar"
+    ],
+    "page": 15,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Investigations of Historic Finishes: Finding the Earliest Extant Color and More",
+    "authors": [
+     "Emily MacDonald-Korth"
+    ],
+    "page": 23,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Versatility in Design: History, Installation, Assessment, and Repair of Terrazzo",
+    "authors": [
+     "Anne T. Sullivan"
+    ],
+    "page": null,
+    "section": "practice_point",
+    "pp_number": 24,
+    "note": "Follows page 28 (insert; no page number)"
+   },
+   {
+    "title": "Retain, Reinforce, or Reclaim: Best Practices for Renovating Structural Wood Floors",
+    "authors": [
+     "Tim Michiels",
+     "Dan Bergsagel"
+    ],
+    "page": 39,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Substitute Materials and The Secretary of the Interior’s Standards",
+    "authors": [
+     "Brian Goeken"
+    ],
+    "page": 49,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "The Stylistic Evolution of Historic Cast Stone",
+    "authors": [
+     "Richard Pieper"
+    ],
+    "page": 57,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Glazing Design for the Martin Luther King Jr. Memorial Library in Washington, D.C.",
+    "authors": [
+     "Rebecca Wong",
+     "Martina Driscoll"
+    ],
+    "page": 65,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Building Technology Heritage Library",
+    "authors": [
+     "Mike Jackson"
+    ],
+    "page": 73,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Book Reviews",
+    "authors": [],
+    "page": 75,
+    "section": "book_reviews",
+    "pp_number": null,
+    "note": "Book Review Co-Editors: Lesley Gilmore, Natascha Wiener"
+   },
+   {
+    "title": "Directory of Advertisers",
+    "authors": [],
+    "page": 78,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "APT Membership Information",
+    "authors": [],
+    "page": 79,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   }
+  ],
+  "note": "Special Issue: Materials. Year from © line."
+ },
+ {
+  "file": "10_Bulletin_53.4_Table_of_Contents.txt",
+  "volume": 53,
+  "issue": "4",
+  "year": 2023,
+  "items": [
+   {
+    "title": "Editor’s Note",
+    "authors": [
+     "Diana S. Waite"
+    ],
+    "page": 3,
+    "section": "editorial",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Lake Huron Red Tails",
+    "authors": [
+     "Wayne R. Lusardi"
+    ],
+    "page": 5,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Use of Advanced Documentation and Analysis Technologies at the Shaughnessy House Conservatory in Montréal",
+    "authors": [
+     "Morgan Matheson",
+     "Michael Duric"
+    ],
+    "page": 11,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Restoration of the Harlem Fire Watchtower",
+    "authors": [
+     "Robert Kornfeld",
+     "Charles Van Winckle"
+    ],
+    "page": 21,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Metals for Historic Roofing: An Update",
+    "authors": [
+     "Jeffrey S. Levine",
+     "Remo R. Capolino",
+     "Julie M. Palmer"
+    ],
+    "page": null,
+    "section": "practice_point",
+    "pp_number": 25,
+    "note": "Follows page 28 (insert; no page number)"
+   },
+   {
+    "title": "Seismic Evaluation and Retrofit of Unreinforced-Masonry Buildings in Italy",
+    "authors": [
+     "Edmund P. Meade"
+    ],
+    "page": 39,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Building Technology Heritage Library",
+    "authors": [
+     "Mike Jackson"
+    ],
+    "page": 50,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Book Reviews",
+    "authors": [],
+    "page": 51,
+    "section": "book_reviews",
+    "pp_number": null,
+    "note": "Book Review Co-Editors: Lesley Gilmore, Natascha Wiener"
+   },
+   {
+    "title": "Index to Volume LIII",
+    "authors": [],
+    "page": 57,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Directory of Advertisers",
+    "authors": [],
+    "page": 61,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "APT Membership Information",
+    "authors": [],
+    "page": 63,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   }
+  ],
+  "note": "Year from © line (2023)."
+ },
+ {
+  "file": "11_1-2_TOC_45_1.txt",
+  "volume": 45,
+  "issue": "1",
+  "year": 2014,
+  "items": [
+   {
+    "title": "Guest Editors’ Note",
+    "authors": [
+     "Richard I. Ortega",
+     "Justin M. Spivey"
+    ],
+    "page": 3,
+    "section": "guest_editor",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Nondestructive Evaluation (NDE) of Embedded Iron and Steel",
+    "authors": [
+     "Charles Bransby-Zachary",
+     "George Ballard",
+     "Avigail Charnov"
+    ],
+    "page": 5,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Corrosion Assessments for Historic Steel-Frame, Masonry-Clad Buildings",
+    "authors": [
+     "Gina L. Crevello",
+     "Paul A. Noyce"
+    ],
+    "page": 13,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Seeing with Different Eyes: NDE of Embedded Steel at Yale University",
+    "authors": [
+     "Richard I. Ortega"
+    ],
+    "page": 21,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Case Studies in the Repair of Masonry-Clad, Steel-Framed Buildings",
+    "authors": [
+     "Jim Dossett"
+    ],
+    "page": 27,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Fire and Reconstruction at Lobato Bridge in New Mexico",
+    "authors": [
+     "Frederick R. Rutz",
+     "Todd M. Riley",
+     "Peter Foster"
+    ],
+    "page": 37,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Early Curtain-Wall Buildings and the Higgins Armory Museum in Massachusetts",
+    "authors": [
+     "Sara E. Wermiel"
+    ],
+    "page": 43,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Preservation in New York City: At the Pinnacle or on the Precipice?",
+    "authors": [
+     "Peg Breen"
+    ],
+    "page": 51,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Book Reviews",
+    "authors": [],
+    "page": 59,
+    "section": "book_reviews",
+    "pp_number": null,
+    "note": "Book Review Editor: Frances Gale"
+   },
+   {
+    "title": "Directory of Advertisers",
+    "authors": [],
+    "page": 60,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "APT Building Technology Heritage Library",
+    "authors": [
+     "Mike Jackson"
+    ],
+    "page": 61,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "APT Membership Information",
+    "authors": [],
+    "page": 63,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   }
+  ],
+  "note": "Special Issue on Iron and Steel. Issue number 1 from TOC text (filename prefix '1-2' is not the issue). No Editor’s Note listed. Year from © line."
+ },
+ {
+  "file": "12_1-2_TOC_45_4.txt",
+  "volume": 45,
+  "issue": "4",
+  "year": 2014,
+  "items": [
+   {
+    "title": "Conservation of Dalle de Verre at the New York Hall of Science",
+    "authors": [
+     "Raymond M. Pepi",
+     "Laura Buchner",
+     "Christopher Gembinski"
+    ],
+    "page": 3,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Can the 1960s Single-Glazed Curtain Wall Be Saved?",
+    "authors": [
+     "Pamela Jerome",
+     "Angel Ayón"
+    ],
+    "page": 13,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Reinforcement of Nineteenth-Century Wide-Span Trusses in Two New York Landmarks",
+    "authors": [
+     "Eytan Solomon",
+     "Alastair Elliott"
+    ],
+    "page": 21,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Protection of Historic Buildings for Blast Loads",
+    "authors": [
+     "Timothy J. Beach",
+     "Peggy Van Eepoel"
+    ],
+    "page": 27,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Issues in Values-Based Management for Indigenous Cultural Heritage in Australia",
+    "authors": [
+     "Kristal Buckley",
+     "Sharon Sullivan"
+    ],
+    "page": 35,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Sustainability of Historic Building Systems: Anatolian Seljuk and Ottoman Hospitals",
+    "authors": [
+     "Gulsen Disli"
+    ],
+    "page": 45,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "APT Building Technology Heritage Library",
+    "authors": [
+     "Mike Jackson"
+    ],
+    "page": 53,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Book Reviews",
+    "authors": [],
+    "page": 55,
+    "section": "book_reviews",
+    "pp_number": null,
+    "note": "Book Review Editor: Frances Gale"
+   },
+   {
+    "title": "Directory of Advertisers",
+    "authors": [],
+    "page": 57,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Author Guidelines",
+    "authors": [],
+    "page": 59,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Index to Volume 45",
+    "authors": [],
+    "page": 60,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "APT Membership Information",
+    "authors": [],
+    "page": 63,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   }
+  ],
+  "note": "Issue number 4 from TOC text (filename prefix '1-2' is not the issue). No Editor’s Note listed. Year from © line."
+ },
+ {
+  "file": "13_47_1TOC_for_APT_Website.txt",
+  "volume": 47,
+  "issue": "1",
+  "year": 2016,
+  "items": [
+   {
+    "title": "Editor’s Note",
+    "authors": [
+     "Diana S. Waite"
+    ],
+    "page": 3,
+    "section": "editorial",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Guest Editor’s Note",
+    "authors": [
+     "Nancy A. Rankin"
+    ],
+    "page": 5,
+    "section": "guest_editor",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Water Management for Traditional Buildings: Adaptation for a Changing Climate",
+    "authors": [
+     "Roger Curtis"
+    ],
+    "page": 8,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Permafrost Thaw and Aboriginal Cultural Landscapes in the Gwich’in Region, Canada",
+    "authors": [
+     "Thomas D. Andrews",
+     "Steven V. Kokelj",
+     "Glen MacKay",
+     "Julie Buysse",
+     "Ingrid Kritsch",
+     "Alestine Andre",
+     "Trevor Lantz"
+    ],
+    "page": 15,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Sea-Level Rise Vulnerability Assessment of Coastal Resources in New Hampshire",
+    "authors": [
+     "Benjamin Curran",
+     "Michael Routhier",
+     "Gopal Mulukutla"
+    ],
+    "page": 23,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Climate Change and Non-mechanically Ventilated Historic Interiors",
+    "authors": [
+     "Peter Brimblecombe",
+     "Caroline Brimblecombe"
+    ],
+    "page": 31,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Planning before Disaster Strikes: An Introduction to Adaptation Strategies",
+    "authors": [
+     "Ann D. Horowitz"
+    ],
+    "page": 40,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Energy Retrofit of Older Houses in Hot and Humid Climates",
+    "authors": [
+     "William Dupont",
+     "Hazem Rashed-Ali",
+     "Randall Manteufel",
+     "Thomas Thomson",
+     "Levi Sanciuc"
+    ],
+    "page": 50,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Book Reviews",
+    "authors": [],
+    "page": 59,
+    "section": "book_reviews",
+    "pp_number": null,
+    "note": "Book Review Editor: Frances Gale"
+   },
+   {
+    "title": "Directory of Advertisers",
+    "authors": [],
+    "page": 60,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "APT Building Technology Heritage Library",
+    "authors": [
+     "Mike Jackson"
+    ],
+    "page": 62,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "APT Membership Information",
+    "authors": [],
+    "page": 63,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   }
+  ],
+  "note": "Special Issue on Climate Change and Preservation Technology. Year from © line."
+ },
+ {
+  "file": "14_47_2-3_TOC2.txt",
+  "volume": 47,
+  "issue": "2/3",
+  "year": 2016,
+  "items": [
+   {
+    "title": "Editor’s Note",
+    "authors": [
+     "Diana S. Waite"
+    ],
+    "page": 3,
+    "section": "editorial",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Guest Editor’s Note",
+    "authors": [
+     "Hugh C. Miller"
+    ],
+    "page": 5,
+    "section": "guest_editor",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Remembering Susan Buggey: A Pioneer in Heritage Conservation",
+    "authors": [
+     "Christina Cameron"
+    ],
+    "page": 6,
+    "section": "article",
+    "pp_number": null,
+    "note": "Tribute"
+   },
+   {
+    "title": "List of Publications by Susan Buggey",
+    "authors": [],
+    "page": 9,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Contributions of Pioneers on the Shared Terrain of Culture and Nature",
+    "authors": [
+     "Nora Mitchell"
+    ],
+    "page": 11,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "From Historic to Cultural Landscapes under the Watch of Susan Buggey",
+    "authors": [
+     "John Zvonar"
+    ],
+    "page": 18,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Restoring a Modern Landscape in the Anthropocene: Cornelia Hahn Oberlander",
+    "authors": [
+     "Susan Herrington"
+    ],
+    "page": 23,
+    "section": "article",
+    "pp_number": null,
+    "note": "'Cornelia Hahn Oberlander' is part of the bold title in the PDF, not an author"
+   },
+   {
+    "title": "Cultural Traditions of Abandoned Rural Cultural Landscapes",
+    "authors": [
+     "Carrie J. Gregory"
+    ],
+    "page": 29,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Architectural Terra Cotta",
+    "authors": [
+     "Edward Gerns",
+     "Rachel Will"
+    ],
+    "page": null,
+    "section": "practice_point",
+    "pp_number": 15,
+    "note": "Follows page 36 (insert; no page number)"
+   },
+   {
+    "title": "Time, Architecture, and Geography: Modeling the Past and Future of Cultural Landscapes",
+    "authors": [
+     "Jennifer Minner",
+     "Jeffrey M. Chusid"
+    ],
+    "page": 49,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Enhancing Conservation Tools for Natural Heritage in Historic Districts",
+    "authors": [
+     "Susan M. Ross"
+    ],
+    "page": 60,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "A Québec Case Study in the Repurposing of Declining Cultural Landscapes",
+    "authors": [
+     "Ron Williams"
+    ],
+    "page": 68,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Book Reviews",
+    "authors": [],
+    "page": 75,
+    "section": "book_reviews",
+    "pp_number": null,
+    "note": "Book Review Editor: Frances Gale"
+   },
+   {
+    "title": "Directory of Advertisers",
+    "authors": [],
+    "page": 76,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "APT Building Technology Heritage Library",
+    "authors": [
+     "Mike Jackson"
+    ],
+    "page": 78,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "APT Membership Information",
+    "authors": [],
+    "page": 79,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   }
+  ],
+  "note": "Special Issue on Cultural Landscapes: A Tribute to Susan Buggey. Year from © line."
+ },
+ {
+  "file": "15_47_4_TOC.txt",
+  "volume": 47,
+  "issue": "4",
+  "year": 2016,
+  "items": [
+   {
+    "title": "Editor’s Note",
+    "authors": [
+     "Diana S. Waite"
+    ],
+    "page": 3,
+    "section": "editorial",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "U-value Monitoring of Infill Panels of a Fifteenth-century Dwelling in Herefordshire, UK",
+    "authors": [
+     "Christopher J. Whitman",
+     "Oriel Prizeman"
+    ],
+    "page": 6,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Hydraulic Mosaics and Concrete Blocks in the Spanish Caribbean",
+    "authors": [
+     "Beatriz del Cueto"
+    ],
+    "page": 15,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Cleaning Terra Cotta: Recent Trends in Technical Research and Practice",
+    "authors": [
+     "Frank G. Matero",
+     "Irene Matteini",
+     "Reza Vatankhah"
+    ],
+    "page": 24,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Conservation of the Alexander Hamilton Monument at Trinity Church in Lower Manhattan",
+    "authors": [
+     "Jennifer Schork"
+    ],
+    "page": 34,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "The Significance of Local Earthen Heritage: An Interdisciplinary Intervention in Northern Argentina",
+    "authors": [
+     "Carolina Rivet",
+     "Julieta Barada"
+    ],
+    "page": 42,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "2015 Lee Nelson Book Award Winner",
+    "authors": [],
+    "page": 51,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Book Reviews",
+    "authors": [],
+    "page": 54,
+    "section": "book_reviews",
+    "pp_number": null,
+    "note": "Book Review Editor: Frances Gale"
+   },
+   {
+    "title": "Building Technology Heritage Library",
+    "authors": [
+     "Mike Jackson"
+    ],
+    "page": 57,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Directory of Advertisers",
+    "authors": [],
+    "page": 58,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Index",
+    "authors": [],
+    "page": 59,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "APT Membership Information",
+    "authors": [],
+    "page": 63,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   }
+  ],
+  "note": "No Practice Points listed. Year from © line."
+ },
+ {
+  "file": "19_TOC_46.2-3.txt",
+  "volume": 46,
+  "issue": "2/3",
+  "year": 2015,
+  "items": [
+   {
+    "title": "Editor’s Note",
+    "authors": [
+     "Diana S. Waite"
+    ],
+    "page": 3,
+    "section": "editorial",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "The Djenné Mosque: World Heritage and Social Renewal in a West African Town",
+    "authors": [
+     "Trevor H. J. Marchand"
+    ],
+    "page": 4,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Stabilizing Masonry with History and High-Tech",
+    "authors": [
+     "Lizzie Olson",
+     "Derek Trelstad"
+    ],
+    "page": 16,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Two Aesthetic-Movement Rooms: Research and Conservation",
+    "authors": [
+     "Claudia Kavenagh",
+     "Raymond M. Pepi"
+    ],
+    "page": 26,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Highland Park Ford Plant: Documentation and Redevelopment",
+    "authors": [
+     "Ilene R. Tyler"
+    ],
+    "page": 36,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Wells Street Bridge in Chicago: A Moveable Monument Restored",
+    "authors": [
+     "Carolyn Andrews"
+    ],
+    "page": 46,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Restoration of the Cast-in-Place Concrete at the New York Hall of Science",
+    "authors": [
+     "Laura N. Buchner",
+     "Raymond M. Pepi"
+    ],
+    "page": 54,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Vibration Limits for Historic Buildings and Art Collections",
+    "authors": [
+     "Arne P. Johnson",
+     "W. Robert Hannen"
+    ],
+    "page": 66,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Book Reviews",
+    "authors": [],
+    "page": 75,
+    "section": "book_reviews",
+    "pp_number": null,
+    "note": "Book Review Editor: Frances Gale"
+   },
+   {
+    "title": "Directory of Advertisers",
+    "authors": [],
+    "page": 76,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "APT Building Technology Heritage Library",
+    "authors": [
+     "Mike Jackson"
+    ],
+    "page": 78,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "APT Membership Information",
+    "authors": [],
+    "page": 79,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   }
+  ],
+  "note": "No Practice Points listed. Year from © line."
+ },
+ {
+  "file": "20_TOC_46.4.txt",
+  "volume": 46,
+  "issue": "4",
+  "year": 2015,
+  "items": [
+   {
+    "title": "Editor’s Note",
+    "authors": [
+     "Diana S. Waite"
+    ],
+    "page": 3,
+    "section": "editorial",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Georgia Marble Repair at the Minnesota State Capitol",
+    "authors": [
+     "Paul Whitenack",
+     "L. Brad Shotwell",
+     "Michael J. Scheffler"
+    ],
+    "page": 10,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Structural Assessment, Analysis, and Rehabilitation of a Masonry Aqueduct",
+    "authors": [
+     "Dennis McMullan",
+     "Douglas Bond"
+    ],
+    "page": 18,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Wood Preservatives: Considerations for Historic-Preservation Projects",
+    "authors": [
+     "Ronald W. Anthony",
+     "Stan T. Lebow"
+    ],
+    "page": null,
+    "section": "practice_point",
+    "pp_number": 14,
+    "note": "Follows page 28 (insert; no page number)"
+   },
+   {
+    "title": "The Making of the Nara Document on Authenticity",
+    "authors": [
+     "Christina Cameron",
+     "Nobuko Inaba"
+    ],
+    "page": 30,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Taos Pueblo Preservation Program",
+    "authors": [
+     "Luis Mountain Zamora",
+     "Mary Kay Judy"
+    ],
+    "page": 38,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "APT Building Technology Heritage Library",
+    "authors": [
+     "Mike Jackson"
+    ],
+    "page": 46,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Book Reviews",
+    "authors": [],
+    "page": 47,
+    "section": "book_reviews",
+    "pp_number": null,
+    "note": "Book Review Editor: Frances Gale"
+   },
+   {
+    "title": "Directory of Advertisers",
+    "authors": [],
+    "page": 48,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Index to Volume XLVI",
+    "authors": [],
+    "page": 51,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "APT Membership Information",
+    "authors": [],
+    "page": 55,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   }
+  ],
+  "note": "Year from © line. Text file also contains a following ad page with a running head '44:2-3 2014' (ignored)."
+ },
+ {
+  "file": "21_TOC_48-4.txt",
+  "volume": 48,
+  "issue": "4",
+  "year": 2017,
+  "items": [
+   {
+    "title": "Editor’s Note",
+    "authors": [
+     "Diana S. Waite"
+    ],
+    "page": 3,
+    "section": "editorial",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Guest Editors’ Note",
+    "authors": [
+     "James Shepherd",
+     "Chris Gray",
+     "Mario Santana Quintero"
+    ],
+    "page": 4,
+    "section": "guest_editor",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Assessment of Earthquake Damage at the Washington National Cathedral",
+    "authors": [
+     "Matthew C. Farmer",
+     "Kelsey E. Sheridan",
+     "Jacqueline Devereaux"
+    ],
+    "page": 5,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "History through the Elemental Analysis of Materials and pXRF",
+    "authors": [
+     "Natalie Feinberg Lopez"
+    ],
+    "page": 13,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Cultural-heritage Inventory Implementations: The Versatility of the Arches System",
+    "authors": [
+     "Carrie Barton",
+     "Adam Cox",
+     "Sara Delgadillo Cruz",
+     "Janet Hansen"
+    ],
+    "page": 19,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Assessment of Historic Concrete Structures",
+    "authors": [
+     "Ann Harrer",
+     "Paul Gaudette"
+    ],
+    "page": null,
+    "section": "practice_point",
+    "pp_number": 16,
+    "note": "Follows page 28 (insert; no page number)"
+   },
+   {
+    "title": "Digital Restoration of a South Carolina Landmark: 3D Visualization at Drayton Hall",
+    "authors": [
+     "Patricia Lowe Smith"
+    ],
+    "page": 37,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "A Practical Cultural Resource Survey Tool For Preservation",
+    "authors": [
+     "Andréa Livi Smith",
+     "Martha Burtis"
+    ],
+    "page": 43,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "CIPA’s Mission: Digitally Documenting Cultural Heritage",
+    "authors": [
+     "Mario Santana Quintero",
+     "Andreas Georgopoulos",
+     "Efstratios Stylianidis",
+     "José Luis Lerma",
+     "Fabio Remondino"
+    ],
+    "page": 51,
+    "section": "article",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Book Reviews",
+    "authors": [],
+    "page": 55,
+    "section": "book_reviews",
+    "pp_number": null,
+    "note": "Book Review Co-Editors: Frances Gale, Lesley Gilmore"
+   },
+   {
+    "title": "Directory of Advertisers",
+    "authors": [],
+    "page": 56,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "Building Technology Heritage Library",
+    "authors": [
+     "Mike Jackson"
+    ],
+    "page": 57,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   },
+   {
+    "title": "APT Membership Information",
+    "authors": [],
+    "page": 63,
+    "section": "other",
+    "pp_number": null,
+    "note": null
+   }
+  ],
+  "note": "Special Issue on Documentation. Year from © line. Carrie Barton / Adam Cox printed on one line with a comma."
+ }
+]

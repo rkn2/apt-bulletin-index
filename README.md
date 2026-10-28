@@ -53,3 +53,10 @@ cp build/APT_Bulletin_Content_Index.xlsx docs/data/   # and regenerate docs/data
 TOC parsing (toc_parsers/) and tagging (build/classify/) were done by model agents; their outputs are saved, so rebuilding does not rerun them.
 
 Built 2026-10-28.
+
+## License
+
+- **Code** (the `.py` scripts, `fetch_sources.sh`, and `docs/*.js` / `docs/index.html`): MIT, see [LICENSE](LICENSE).
+- **Data** (everything in `build/` and `docs/data/`, and RUBRIC.md): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), see [LICENSE-DATA](LICENSE-DATA). Credit as: *APT Bulletin Content Index, compiled by Rebecca Napolitano (2026), https://github.com/rkn2/apt-bulletin-index*.
+
+The license covers this compilation and its tags. Article titles and author names are bibliographic facts. The articles themselves belong to APT and their authors and are not included here. Crossref metadata is CC0. Subject headings come from APT's Comprehensive Index.

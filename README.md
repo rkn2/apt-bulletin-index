@@ -1,6 +1,6 @@
 # APT Bulletin content index
 
-Every APT Bulletin item we could find, 1969 to 2026 (vol. 1 to 56.2): title, authors, year, volume and issue, type (article, Practice Point, book review, ...), the APT index's subject headings, and suggested tags for the APT technical committees, disaster work (DRI), and discipline (engineering, architecture, conservation). Built for the APT Publications Committee to see how content is spread across committees and disciplines.
+Every APT Bulletin item we could find, 1969 to 2026 (vol. 1 to 56.2): title, authors, year, volume and issue, type (article, Practice Point, book review, ...), the APT index's subject headings, and suggested tags for the APT technical committees (with disaster as a PETC subgroup), and discipline (engineering, architecture, conservation). Built for the APT Publications Committee to see how content is spread across committees and disciplines.
 
 ## Where the data comes from
 
@@ -27,12 +27,12 @@ When sources disagree, the TOC wins, then Crossref, then the index. The index ha
 
 The committee and discipline columns were filled by a model from each item's title, topics and type, following RUBRIC.md. Nobody read the articles. Discipline describes the piece's main lens, not the authors' training. "Tag confidence" is low where the title is vague. Use the Reviewed column as the committee checks rows.
 
-Committees: TC-Doc (Documentation), TCM (Materials), PETC (Preservation Engineering), Codes & Standards, TC-MH (Modern Heritage), TC-SP (Sustainable Preservation), plus Disaster (APTI Disaster Response Initiative, not a technical committee).
+Committees: TC-Doc (Documentation), TCM (Materials), PETC (Preservation Engineering), Codes & Standards, TC-MH (Modern Heritage), TC-SP (Sustainable Preservation), plus Disaster, a subgroup of PETC tagged separately.
 
 ## Explore it
 
 - Interactive page: https://rkn2.github.io/apt-bulletin-index/
-- `docs/data/apt_bulletin_articles.csv`: articles and Practice Points, one row each. The tag columns are 1/0: `doc`, `mat`, `petc`, `codes`, `mh`, `sp`, `dis` (committees and disaster) and `eng`, `arch`, `cons` (discipline). `confidence` is the tagger's high/low.
+- `docs/data/apt_bulletin_articles.csv`: articles and Practice Points, one row each. The tag columns are 1/0: `doc`, `mat`, `petc`, `codes`, `mh`, `sp`, `dis` (committees; `dis` is disaster, a PETC subgroup) and `eng`, `arch`, `cons` (discipline). `confidence` is the tagger's high/low.
 - `docs/data/APT_Bulletin_Content_Index.xlsx`: the full workbook, including book reviews, letters and editorials on separate sheets, with a column for marking reviewed tags.
 - `build/master.csv`: every item from every source before tagging, with source, DOI and APT index references.
 

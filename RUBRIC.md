@@ -2,7 +2,7 @@
 
 Each item gets zero or more **committee tags** and one or more **discipline tags**. Tags are suggestions made from the title, the APT index subject headings (`topics`) and the item type; nobody read the full articles. Tag what the piece is substantially *about*, not every word in the title. Two or three committee tags is common; tag none when nothing fits (e.g. an obituary, a general history of APT).
 
-## Committee tags (APT technical committees + DRI)
+## Committee tags (APT technical committees, plus disaster as a PETC subgroup)
 
 | Tag | Committee | Tag when the piece is substantially about |
 |---|---|---|
@@ -12,7 +12,7 @@ Each item gets zero or more **committee tags** and one or more **discipline tags
 | `CODES` | Technical Committee on Codes and Standards | Building, fire, life-safety and accessibility codes; standards and specifications (ASTM, Secretary of the Interior's Standards); guidelines and charters for practice. |
 | `MH` | Technical Committee on Modern Heritage (TC-MH) | Modern and recent-past heritage, roughly 1920s onward: modernist buildings and landscapes, mid-century and postwar materials and systems (curtain walls, aluminum, plastics, early concrete shells, prefabrication). |
 | `SP` | Technical Committee for Sustainable Preservation (TC-SP) | Sustainability, energy performance and retrofit, embodied carbon, climate change impacts and adaptation, building environment and moisture/HVAC as environmental performance, green building and rating systems. |
-| `DIS` | Disaster (APTI Disaster Response Initiative) | Natural and human-made disasters and hazards (earthquake, flood, hurricane, tornado, wildfire, major fire, war/conflict), emergency response and recovery, risk and vulnerability assessment for hazards, resilience and mitigation. |
+| `DIS` | Disaster (subgroup of PETC, tagged separately) | Natural and human-made disasters and hazards (earthquake, flood, hurricane, tornado, wildfire, major fire, war/conflict), emergency response and recovery, risk and vulnerability assessment for hazards, resilience and mitigation. |
 
 ## Discipline tags
 

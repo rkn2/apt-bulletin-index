@@ -3,7 +3,7 @@
     description: 'Counts articles and Practice Points tagged to each committee, and their share of all items.',
     inputs: ['articles'],
     fn: (articles) => {
-      const C = [['mat', 'Materials (TCM)'], ['doc', 'Documentation (TC-Doc)'], ['petc', 'Preservation engineering (PETC)'], ['sp', 'Sustainable preservation (TC-SP)'], ['codes', 'Codes and standards'], ['mh', 'Modern heritage (TC-MH)'], ['dis', 'Disaster (DRI)']];
+      const C = [['mat', 'Materials (TCM)'], ['doc', 'Documentation (TC-Doc)'], ['petc', 'Preservation engineering (PETC)'], ['sp', 'Sustainable preservation (TC-SP)'], ['codes', 'Codes and standards'], ['mh', 'Modern heritage (TC-MH)'], ['dis', 'Disaster (part of PETC)']];
       const total = articles.length;
       return C.map(([key, committee]) => {
         const tagged = articles.filter((a) => a[key] === '1');
@@ -15,10 +15,10 @@
 
   dash.calc('overview', {
     title: 'Headline figures',
-    description: 'Total items and the largest and smallest committee by share.',
+    description: 'Total items and the largest and smallest technical committee by share (Disaster, a PETC subgroup, is not compared).',
     inputs: ['committee_totals', 'articles'],
     fn: (committee_totals, articles) => {
-      const s = [...committee_totals].sort((a, b) => b.share - a.share);
+      const s = committee_totals.filter((c) => c.key !== 'dis').sort((a, b) => b.share - a.share);
       return [{total: articles.length, top_committee: s[0].committee, top_share: s[0].share, low_committee: s[s.length - 1].committee, low_share: s[s.length - 1].share}];
     },
   });
@@ -28,7 +28,7 @@
     description: 'For each decade, the share of items tagged to each committee (1969 counted with the 1970s).',
     inputs: ['articles'],
     fn: (articles) => {
-      const C = [['mat', 'Materials'], ['doc', 'Documentation'], ['petc', 'Preservation eng.'], ['sp', 'Sustainable'], ['codes', 'Codes and standards'], ['mh', 'Modern heritage'], ['dis', 'Disaster']];
+      const C = [['mat', 'Materials'], ['doc', 'Documentation'], ['petc', 'Preservation eng.'], ['sp', 'Sustainable'], ['codes', 'Codes and standards'], ['mh', 'Modern heritage'], ['dis', 'Disaster (PETC)']];
       const dec = (y) => (Number(y) < 1980 ? '1969–79' : `${Math.floor(Number(y) / 10) * 10}s`);
       const groups = d3.group(articles, (a) => dec(a.year));
       const out = [];
@@ -66,7 +66,7 @@
     description: 'Each item\'s committee and discipline tags as readable text.',
     inputs: ['articles'],
     fn: (articles) => {
-      const C = [['doc', 'TC-Doc'], ['mat', 'TCM'], ['petc', 'PETC'], ['codes', 'Codes'], ['mh', 'TC-MH'], ['sp', 'TC-SP'], ['dis', 'Disaster']];
+      const C = [['doc', 'TC-Doc'], ['mat', 'TCM'], ['petc', 'PETC'], ['codes', 'Codes'], ['mh', 'TC-MH'], ['sp', 'TC-SP'], ['dis', 'PETC: disaster']];
       const D = [['eng', 'Engineering'], ['arch', 'Architecture'], ['cons', 'Conservation']];
       return articles.map((a) => ({
         id: a.id,
@@ -198,7 +198,7 @@
     if (!ok('articles')) return reset(el);
     const pps = dash.data('articles').data.filter((a) => a.pp_number).sort((a, b) => Number(a.pp_number) - Number(b.pp_number));
     el.replaceChildren();
-    const R = [['mat', 'Materials'], ['doc', 'Documentation'], ['petc', 'Preservation eng.'], ['sp', 'Sustainable'], ['codes', 'Codes and standards'], ['mh', 'Modern heritage'], ['dis', 'Disaster'], null, ['eng', 'Engineering'], ['arch', 'Architecture'], ['cons', 'Conservation']];
+    const R = [['mat', 'Materials'], ['doc', 'Documentation'], ['petc', 'Preservation eng.'], ['sp', 'Sustainable'], ['codes', 'Codes and standards'], ['mh', 'Modern heritage'], ['dis', 'Disaster (PETC)'], null, ['eng', 'Engineering'], ['arch', 'Architecture'], ['cons', 'Conservation']];
     const W = Math.max(280, el.clientWidth);
     const svg = d3.select(el).append('svg').attr('width', '100%');
     const left = d3.max(R.filter(Boolean), (r) => textWidth(svg.node(), r[1])) + 10;

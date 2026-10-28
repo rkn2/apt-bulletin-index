@@ -12,7 +12,7 @@ from openpyxl.worksheet.datavalidation import DataValidation
 HERE = Path(__file__).parent
 B = HERE / "build"
 TAGS = [("DOC", "TC-Doc"), ("MAT", "TCM (Materials)"), ("PETC", "PETC"), ("CODES", "Codes & Standards"),
-        ("MH", "TC-MH (Modern)"), ("SP", "TC-SP (Sustainable)"), ("DIS", "Disaster (DRI)")]
+        ("MH", "TC-MH (Modern)"), ("SP", "TC-SP (Sustainable)"), ("DIS", "Disaster (PETC subgroup)")]
 DISC = [("ENG", "Engineering"), ("ARCH", "Architecture"), ("CONS", "Conservation")]
 CONTENT = {"Article", "Practice Point", "Article (type not indexed; may be a review)"}
 
